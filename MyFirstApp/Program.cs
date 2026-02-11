@@ -1,8 +1,8 @@
 using System;
 using System.IO;
 using PicoGK;
-using MyFirstApp.Projects;
-using MyFirstApp.Core;
+using cem_app.Projects;
+using cem_app.Core;
 
 try
 {
