@@ -1,6 +1,7 @@
 # Computational Design: Algorithmic Plane Prototype
 
-![Plane](CEM/Public/plane.png)
+![Plane](plane.png)
+
 
 This repository contains the experimental C# code used to generate the algorithmic aircraft geometry featured in my YouTube video. This project is shared as a technical reference for those interested in computational engineering and voxel-based design.
 
