@@ -50,5 +50,10 @@ The `.csproj` file is configured to remove default `System.Drawing` and `System.
 *   **UI/**: The interface used to interact with the generation parameters.
 *   **Products/**: Logic defining the final assembly of the aircraft components.
 
+## 📥 Download STL Files
+You can download the generated STL files (including different variations of the aerodynamic shell and internal structures) here:
+**[Download from Google Drive](https://drive.google.com/drive/folders/1jZNik1YfBOWpGJcUwAj9ZjeFBWdmf2xK?usp=sharing)**
+```
+
 ## ⚠️ Disclaimer
 This is an experimental prototype. It is provided "as-is" for educational and research purposes. It is not intended for production engineering without further validation and testing.
