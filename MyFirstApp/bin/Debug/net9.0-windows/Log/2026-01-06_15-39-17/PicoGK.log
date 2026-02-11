@@ -1,0 +1,65 @@
+      0s    0,0+ Opened C:\Users\hakan\Documents\C#\CEM\MyFirstApp\bin\Debug\net9.0-windows\Log\2026-01-06_15-39-17\PicoGK.log
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ Current time (UTC): 2026-01-06 14:39:17 (UTC)
+      0s    0,0+ Current local time: 2026-01-06 15:39:17 (+01:00)
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ System Info:
+      0s    0,0+ 
+      0s    0,0+ Machine Name:         GENJU
+      0s    0,0+ Operating System      Microsoft Windows 10.0.26100
+      0s    0,0+ Version:              Microsoft Windows NT 10.0.26100.0
+      0s    0,0+ OS Architecture:      X64
+      0s    0,0+ Proc Architecture:    X64
+      0s    0,0+ 64 Bit OS:            Yes
+      0s    0,0+ 64 Bit Process:       Yes
+      0s    0,0+ Processor Count:      24
+      0s    0,0+ Working Set:          27MB
+      0s    0,0+ C# Framework:         .NET 9.0.11
+      0s    0,0+ C# CLR Version:       9.0.11
+      0s    0,0+ PicoGK Path:          picogk.1.7
+      0s    0,0+ Command Line:         C:\Users\hakan\Documents\C#\CEM\MyFirstApp\bin\Debug\net9.0-windows\MyFirstApp.dll
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ Welcome to PicoGK
+      0s    0,0+ Creating Viewer
+      0s    0,2+ PicoGK:    PicoGK Core Library
+      0s    0,0+            1.7.1
+      0s    0,0+            2024-08-03 22:17:59 picogk.1.7
+      0s    0,0+ 
+      0s    0,0+ VoxelSize: 0,5 (mm)
+      0s    0,0+ Happy Computational Engineering!
+      0s    0,0+ 
+      0s    0,0+ 
+      0s    0,0+ Loading lights embedded environment
+      0s    0,0+ Starting tasks.
+      0s    0,0+ 
+      0s    0,0+ Loading Lights
+     19s   19,3+ [..] Generating Stator Coils...
+     21s    1,4+ [OK] Generating Stator Coils: 1362ms
+     21s    0,0+ [..] Generating Organic Stator...
+     22s    1,0+ [OK] Generating Organic Stator: 958ms
+     22s    0,0+ [..] Generating Inductive Coupler...
+     22s    0,1+ [OK] Generating Inductive Coupler: 119ms
+     22s    0,0+ [..] Generating Rotor Coils...
+     22s    0,5+ [OK] Generating Rotor Coils: 466ms
+    228s  205,8+ [..] Generating Stator Coils...
+    230s    1,4+ [OK] Generating Stator Coils: 1429ms
+    230s    0,0+ [..] Generating Organic Stator...
+    231s    0,9+ [OK] Generating Organic Stator: 948ms
+    231s    0,0+ [..] Generating Inductive Coupler...
+    231s    0,1+ [OK] Generating Inductive Coupler: 123ms
+    231s    0,0+ [..] Generating Rotor Coils...
+    232s    1,0+ [OK] Generating Rotor Coils: 1048ms
+    286s   54,0+ [..] Generating Stator Coils...
+    290s    4,6+ [OK] Generating Stator Coils: 4602ms
+    290s    0,0+ [..] Generating Organic Stator...
+    292s    1,2+ [OK] Generating Organic Stator: 1191ms
+    292s    0,0+ [..] Generating Inductive Coupler...
+    292s    0,3+ [OK] Generating Inductive Coupler: 334ms
+    292s    0,0+ [..] Generating Rotor Coils...
+    293s    1,1+ [OK] Generating Rotor Coils: 1117ms

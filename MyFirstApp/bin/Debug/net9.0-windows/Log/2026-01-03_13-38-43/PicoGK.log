@@ -1,0 +1,96 @@
+      0s    0,0+ Opened C:\Users\hakan\Documents\C#\CEM\MyFirstApp\bin\Debug\net9.0-windows\Log\2026-01-03_13-38-43\PicoGK.log
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ Current time (UTC): 2026-01-03 12:38:43 (UTC)
+      0s    0,0+ Current local time: 2026-01-03 13:38:43 (+01:00)
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ System Info:
+      0s    0,0+ 
+      0s    0,0+ Machine Name:         GENJU
+      0s    0,0+ Operating System      Microsoft Windows 10.0.26100
+      0s    0,0+ Version:              Microsoft Windows NT 10.0.26100.0
+      0s    0,0+ OS Architecture:      X64
+      0s    0,0+ Proc Architecture:    X64
+      0s    0,0+ 64 Bit OS:            Yes
+      0s    0,0+ 64 Bit Process:       Yes
+      0s    0,0+ Processor Count:      24
+      0s    0,0+ Working Set:          22MB
+      0s    0,0+ C# Framework:         .NET 9.0.11
+      0s    0,0+ C# CLR Version:       9.0.11
+      0s    0,0+ PicoGK Path:          picogk.1.7
+      0s    0,0+ Command Line:         C:\Users\hakan\Documents\C#\CEM\MyFirstApp\bin\Debug\net9.0-windows\MyFirstApp.dll
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ Welcome to PicoGK
+      0s    0,0+ Creating Viewer
+      0s    0,2+ PicoGK:    PicoGK Core Library
+      0s    0,0+            1.7.1
+      0s    0,0+            2024-08-03 22:17:59 picogk.1.7
+      0s    0,0+ 
+      0s    0,0+ VoxelSize: 3 (mm)
+      0s    0,0+ Happy Computational Engineering!
+      0s    0,0+ 
+      0s    0,0+ 
+      0s    0,0+ Loading lights embedded environment
+      0s    0,0+ Starting tasks.
+      0s    0,0+ 
+      0s    0,0+ Loading Lights
+      5s    4,5+ --- Generating BWB Multi-Section ---
+     21s   16,0+ --- Generating BWB Multi-Section ---
+     23s    2,1+ --- Generating BWB Multi-Section ---
+     28s    4,8+ --- Generating BWB Multi-Section ---
+     30s    1,9+ --- Generating BWB Multi-Section ---
+     40s   10,5+ --- Generating BWB Multi-Section ---
+     45s    5,3+ --- Generating BWB Multi-Section ---
+     47s    1,6+ --- Generating BWB Multi-Section ---
+     52s    4,6+ --- Generating BWB Multi-Section ---
+     56s    4,4+ --- Generating BWB Multi-Section ---
+     60s    3,8+ --- Generating BWB Multi-Section ---
+     61s    1,6+ --- Generating BWB Multi-Section ---
+     67s    5,5+ --- Generating BWB Multi-Section ---
+     68s    1,5+ --- Generating BWB Multi-Section ---
+     70s    1,9+ --- Generating BWB Multi-Section ---
+     72s    1,9+ --- Generating BWB Multi-Section ---
+     76s    3,9+ --- Generating BWB Multi-Section ---
+     88s   12,1+ --- Generating BWB Multi-Section ---
+     90s    1,6+ --- Generating BWB Multi-Section ---
+     92s    2,0+ --- Generating BWB Multi-Section ---
+     93s    0,8+ --- Generating BWB Multi-Section ---
+     95s    2,1+ --- Generating BWB Multi-Section ---
+     96s    1,0+ --- Generating BWB Multi-Section ---
+     97s    1,6+ --- Generating BWB Multi-Section ---
+     99s    1,7+ --- Generating BWB Multi-Section ---
+    102s    3,2+ --- Generating BWB Multi-Section ---
+    110s    7,8+ --- Generating BWB Multi-Section ---
+    112s    1,7+ --- Generating BWB Multi-Section ---
+    113s    0,9+ --- Generating BWB Multi-Section ---
+    114s    1,2+ --- Generating BWB Multi-Section ---
+    117s    3,0+ --- Generating BWB Multi-Section ---
+    123s    5,7+ --- Generating BWB Multi-Section ---
+    129s    6,2+ --- Generating BWB Multi-Section ---
+    130s    1,4+ --- Generating BWB Multi-Section ---
+    133s    3,2+ --- Generating BWB Multi-Section ---
+    135s    1,4+ --- Generating BWB Multi-Section ---
+    141s    5,6+ --- Generating BWB Multi-Section ---
+    143s    3,0+ --- Generating BWB Multi-Section ---
+    145s    1,2+ --- Generating BWB Multi-Section ---
+    147s    2,1+ --- Generating BWB Multi-Section ---
+    161s   14,6+ --- Generating BWB Multi-Section ---
+    164s    2,6+ --- Generating BWB Multi-Section ---
+    168s    4,2+ --- Generating BWB Multi-Section ---
+    171s    3,0+ --- Generating BWB Multi-Section ---
+    174s    2,3+ --- Generating BWB Multi-Section ---
+    177s    4,0+ --- Generating BWB Multi-Section ---
+    185s    7,9+ --- Generating BWB Multi-Section ---
+    191s    5,3+ --- Generating BWB Multi-Section ---
+    207s   16,0+ --- Generating BWB Multi-Section ---
+    214s    6,8+ --- Generating BWB Multi-Section ---
+    220s    6,2+ --- Generating BWB Multi-Section ---
+    225s    4,8+ --- Generating BWB Multi-Section ---
+    226s    1,3+ --- Generating BWB Multi-Section ---
+    227s    1,2+ --- Generating BWB Multi-Section ---
+    229s    2,5+ --- Generating BWB Multi-Section ---

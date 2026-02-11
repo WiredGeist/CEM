@@ -1,0 +1,65 @@
+      0s    0,0+ Opened C:\Users\hakan\Documents\C#\CEM\MyFirstApp\bin\Debug\net9.0-windows\Log\2026-01-04_12-45-13\PicoGK.log
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ Current time (UTC): 2026-01-04 11:45:13 (UTC)
+      0s    0,0+ Current local time: 2026-01-04 12:45:13 (+01:00)
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ System Info:
+      0s    0,0+ 
+      0s    0,0+ Machine Name:         GENJU
+      0s    0,0+ Operating System      Microsoft Windows 10.0.26100
+      0s    0,0+ Version:              Microsoft Windows NT 10.0.26100.0
+      0s    0,0+ OS Architecture:      X64
+      0s    0,0+ Proc Architecture:    X64
+      0s    0,0+ 64 Bit OS:            Yes
+      0s    0,0+ 64 Bit Process:       Yes
+      0s    0,0+ Processor Count:      24
+      0s    0,0+ Working Set:          27MB
+      0s    0,0+ C# Framework:         .NET 9.0.11
+      0s    0,0+ C# CLR Version:       9.0.11
+      0s    0,0+ PicoGK Path:          picogk.1.7
+      0s    0,0+ Command Line:         C:\Users\hakan\Documents\C#\CEM\MyFirstApp\bin\Debug\net9.0-windows\MyFirstApp.dll
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ Welcome to PicoGK
+      0s    0,0+ Creating Viewer
+      0s    0,1+ PicoGK:    PicoGK Core Library
+      0s    0,0+            1.7.1
+      0s    0,0+            2024-08-03 22:17:59 picogk.1.7
+      0s    0,0+ 
+      0s    0,0+ VoxelSize: 3 (mm)
+      0s    0,0+ Happy Computational Engineering!
+      0s    0,0+ 
+      0s    0,0+ 
+      0s    0,0+ Loading lights embedded environment
+      0s    0,0+ Starting tasks.
+      0s    0,0+ 
+      0s    0,0+ Loading Lights
+     51s   51,0+ --- Generating B-21 V5 ---
+     80s   29,0+ --- Generating B-21 V5 ---
+    132s   51,9+ --- Generating B-21 V5 ---
+    199s   67,3+ --- Generating B-21 V5 ---
+    267s   67,8+ --- Generating B-21 V5 ---
+    285s   18,1+ --- Generating B-21 V5 ---
+    309s   23,5+ --- Generating B-21 V5 ---
+    347s   37,9+ --- Generating B-21 V5 ---
+    386s   39,5+ --- Generating B-21 V5 ---
+    457s   70,9+ --- Generating B-21 V5 ---
+    481s   24,4+ --- Generating B-21 V5 ---
+    539s   57,5+ --- Generating B-21 V5 ---
+    557s   18,1+ --- Generating B-21 V5 ---
+    574s   16,7+ --- Generating B-21 V5 ---
+    605s   31,5+ --- Generating B-21 V5 ---
+    672s   67,2+ --- Generating B-21 V5 ---
+    703s   30,6+ --- Generating B-21 V5 ---
+    723s   20,1+ --- Generating B-21 V5 ---
+    772s   48,7+ --- Generating B-21 V5 ---
+    821s   49,1+ --- Generating B-21 V5 ---
+    836s   15,6+ --- Generating B-21 V5 ---
+    862s   25,7+ --- Generating B-21 V5 ---
+    885s   22,3+ --- Generating B-21 V5 ---
+    916s   31,7+ --- Generating B-21 V5 ---

@@ -1,0 +1,167 @@
+      0s    0,0+ Opened C:\Users\hakan\Documents\C#\CEM\MyFirstApp\bin\Debug\net9.0-windows\Log\2026-01-02_03-09-54\PicoGK.log
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ Current time (UTC): 2026-01-02 02:09:54 (UTC)
+      0s    0,0+ Current local time: 2026-01-02 03:09:54 (+01:00)
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ System Info:
+      0s    0,0+ 
+      0s    0,0+ Machine Name:         GENJU
+      0s    0,0+ Operating System      Microsoft Windows 10.0.26100
+      0s    0,0+ Version:              Microsoft Windows NT 10.0.26100.0
+      0s    0,0+ OS Architecture:      X64
+      0s    0,0+ Proc Architecture:    X64
+      0s    0,0+ 64 Bit OS:            Yes
+      0s    0,0+ 64 Bit Process:       Yes
+      0s    0,0+ Processor Count:      24
+      0s    0,0+ Working Set:          27MB
+      0s    0,0+ C# Framework:         .NET 9.0.11
+      0s    0,0+ C# CLR Version:       9.0.11
+      0s    0,0+ PicoGK Path:          picogk.1.7
+      0s    0,0+ Command Line:         C:\Users\hakan\Documents\C#\CEM\MyFirstApp\bin\Debug\net9.0-windows\MyFirstApp.dll
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ Welcome to PicoGK
+      0s    0,0+ Creating Viewer
+      0s    0,1+ PicoGK:    PicoGK Core Library
+      0s    0,0+            1.7.1
+      0s    0,0+            2024-08-03 22:17:59 picogk.1.7
+      0s    0,0+ 
+      0s    0,0+ VoxelSize: 3 (mm)
+      0s    0,0+ Happy Computational Engineering!
+      0s    0,0+ 
+      0s    0,0+ 
+      0s    0,0+ Loading lights embedded environment
+      0s    0,0+ Starting tasks.
+      0s    0,0+ 
+      0s    0,0+ Loading Lights
+     21s   21,1+ --- Starting Lofted Wing OnConstruct ---
+     21s    0,0+ Planform Defined: RootLE=<0. 0. 0>, TipLE=<419,5498. 500. 0>
+     21s    0,0+ Step 2: Generated a grid with 21 cross-sections.
+     21s    0,0+ Step 3: Attempting to create mesh from grid with MeshUtility.mshFromGrid...
+     21s    0,0+ Step 3.1: Mesh created. Triangle count: 1600
+     21s    0,0+ Step 3.2: Mirrored and appended meshes successfully.
+     21s    0,0+ Step 4: Voxelizing final mesh...
+     21s    0,0+ Step 5: Shelling object...
+     21s    0,1+ --- OnConstruct Finished Successfully ---
+     32s   10,2+ --- Starting Lofted Wing OnConstruct ---
+     32s    0,0+ Planform Defined: RootLE=<0. 0. 0>, TipLE=<419,5498. 500. 0>
+     32s    0,0+ Step 2: Generated a grid with 21 cross-sections.
+     32s    0,0+ Step 3: Attempting to create mesh from grid with MeshUtility.mshFromGrid...
+     32s    0,0+ Step 3.1: Mesh created. Triangle count: 1600
+     32s    0,0+ Step 3.2: Mirrored and appended meshes successfully.
+     32s    0,0+ Step 4: Voxelizing final mesh...
+     32s    0,0+ Step 5: Shelling object...
+     32s    0,1+ --- OnConstruct Finished Successfully ---
+     33s    1,4+ --- Starting Lofted Wing OnConstruct ---
+     33s    0,0+ Planform Defined: RootLE=<0. 0. 0>, TipLE=<419,5498. 500. 0>
+     33s    0,0+ Step 2: Generated a grid with 21 cross-sections.
+     33s    0,0+ Step 3: Attempting to create mesh from grid with MeshUtility.mshFromGrid...
+     33s    0,0+ Step 3.1: Mesh created. Triangle count: 1600
+     33s    0,0+ Step 3.2: Mirrored and appended meshes successfully.
+     33s    0,0+ Step 4: Voxelizing final mesh...
+     33s    0,0+ Step 5: Shelling object...
+     33s    0,1+ --- OnConstruct Finished Successfully ---
+     35s    1,8+ --- Starting Lofted Wing OnConstruct ---
+     35s    0,0+ Planform Defined: RootLE=<0. 0. 0>, TipLE=<419,5498. 500. 0>
+     35s    0,0+ Step 2: Generated a grid with 21 cross-sections.
+     35s    0,0+ Step 3: Attempting to create mesh from grid with MeshUtility.mshFromGrid...
+     35s    0,0+ Step 3.1: Mesh created. Triangle count: 1600
+     35s    0,0+ Step 3.2: Mirrored and appended meshes successfully.
+     35s    0,0+ Step 4: Voxelizing final mesh...
+     35s    0,0+ Step 5: Shelling object...
+     35s    0,1+ --- OnConstruct Finished Successfully ---
+     37s    1,9+ --- Starting Lofted Wing OnConstruct ---
+     37s    0,0+ Planform Defined: RootLE=<0. 0. 0>, TipLE=<419,5498. 500. 0>
+     37s    0,0+ Step 2: Generated a grid with 21 cross-sections.
+     37s    0,0+ Step 3: Attempting to create mesh from grid with MeshUtility.mshFromGrid...
+     37s    0,0+ Step 3.1: Mesh created. Triangle count: 1600
+     37s    0,0+ Step 3.2: Mirrored and appended meshes successfully.
+     37s    0,0+ Step 4: Voxelizing final mesh...
+     37s    0,0+ Step 5: Shelling object...
+     37s    0,1+ --- OnConstruct Finished Successfully ---
+     38s    0,9+ --- Starting Lofted Wing OnConstruct ---
+     38s    0,0+ Planform Defined: RootLE=<0. 0. 0>, TipLE=<419,5498. 500. 0>
+     38s    0,0+ Step 2: Generated a grid with 21 cross-sections.
+     38s    0,0+ Step 3: Attempting to create mesh from grid with MeshUtility.mshFromGrid...
+     38s    0,0+ Step 3.1: Mesh created. Triangle count: 1600
+     38s    0,0+ Step 3.2: Mirrored and appended meshes successfully.
+     38s    0,0+ Step 4: Voxelizing final mesh...
+     38s    0,0+ Step 5: Shelling object...
+     38s    0,1+ --- OnConstruct Finished Successfully ---
+     40s    2,0+ --- Starting Lofted Wing OnConstruct ---
+     40s    0,0+ Planform Defined: RootLE=<0. 0. 0>, TipLE=<419,5498. 500. 0>
+     40s    0,0+ Step 2: Generated a grid with 21 cross-sections.
+     40s    0,0+ Step 3: Attempting to create mesh from grid with MeshUtility.mshFromGrid...
+     40s    0,0+ Step 3.1: Mesh created. Triangle count: 1600
+     40s    0,0+ Step 3.2: Mirrored and appended meshes successfully.
+     40s    0,0+ Step 4: Voxelizing final mesh...
+     40s    0,0+ Step 5: Shelling object...
+     40s    0,0+ --- OnConstruct Finished Successfully ---
+     42s    1,9+ --- Starting Lofted Wing OnConstruct ---
+     42s    0,0+ Planform Defined: RootLE=<0. 0. 0>, TipLE=<419,5498. 500. 0>
+     42s    0,0+ Step 2: Generated a grid with 21 cross-sections.
+     42s    0,0+ Step 3: Attempting to create mesh from grid with MeshUtility.mshFromGrid...
+     42s    0,0+ Step 3.1: Mesh created. Triangle count: 1600
+     42s    0,0+ Step 3.2: Mirrored and appended meshes successfully.
+     42s    0,0+ Step 4: Voxelizing final mesh...
+     42s    0,0+ Step 5: Shelling object...
+     42s    0,0+ --- OnConstruct Finished Successfully ---
+     44s    2,2+ --- Starting Lofted Wing OnConstruct ---
+     44s    0,0+ Planform Defined: RootLE=<0. 0. 0>, TipLE=<419,5498. 500. 0>
+     44s    0,0+ Step 2: Generated a grid with 21 cross-sections.
+     44s    0,0+ Step 3: Attempting to create mesh from grid with MeshUtility.mshFromGrid...
+     44s    0,0+ Step 3.1: Mesh created. Triangle count: 1600
+     44s    0,0+ Step 3.2: Mirrored and appended meshes successfully.
+     44s    0,0+ Step 4: Voxelizing final mesh...
+     44s    0,0+ Step 5: Shelling object...
+     44s    0,0+ --- OnConstruct Finished Successfully ---
+     49s    4,8+ --- Starting Lofted Wing OnConstruct ---
+     49s    0,0+ Planform Defined: RootLE=<0. 0. 0>, TipLE=<645,8969. 769,75. 0>
+     49s    0,0+ Step 2: Generated a grid with 21 cross-sections.
+     49s    0,0+ Step 3: Attempting to create mesh from grid with MeshUtility.mshFromGrid...
+     49s    0,0+ Step 3.1: Mesh created. Triangle count: 1600
+     49s    0,0+ Step 3.2: Mirrored and appended meshes successfully.
+     49s    0,0+ Step 4: Voxelizing final mesh...
+     49s    0,0+ Step 5: Shelling object...
+     49s    0,1+ --- OnConstruct Finished Successfully ---
+     51s    1,2+ --- Starting Lofted Wing OnConstruct ---
+     51s    0,0+ Planform Defined: RootLE=<0. 0. 0>, TipLE=<279,0006. 332,5. 0>
+     51s    0,0+ Step 2: Generated a grid with 21 cross-sections.
+     51s    0,0+ Step 3: Attempting to create mesh from grid with MeshUtility.mshFromGrid...
+     51s    0,0+ Step 3.1: Mesh created. Triangle count: 1600
+     51s    0,0+ Step 3.2: Mirrored and appended meshes successfully.
+     51s    0,0+ Step 4: Voxelizing final mesh...
+     51s    0,0+ Step 5: Shelling object...
+     51s    0,0+ --- OnConstruct Finished Successfully ---
+     52s    0,8+ --- Starting Lofted Wing OnConstruct ---
+     52s    0,0+ Planform Defined: RootLE=<0. 0. 0>, TipLE=<506,81616. 604. 0>
+     52s    0,0+ Step 2: Generated a grid with 21 cross-sections.
+     52s    0,0+ Step 3: Attempting to create mesh from grid with MeshUtility.mshFromGrid...
+     52s    0,0+ Step 3.1: Mesh created. Triangle count: 1600
+     52s    0,0+ Step 3.2: Mirrored and appended meshes successfully.
+     52s    0,0+ Step 4: Voxelizing final mesh...
+     52s    0,0+ Step 5: Shelling object...
+     52s    0,0+ --- OnConstruct Finished Successfully ---
+     52s    0,7+ --- Starting Lofted Wing OnConstruct ---
+     52s    0,0+ Planform Defined: RootLE=<0. 0. 0>, TipLE=<825,86597. 604. 0>
+     52s    0,0+ Step 2: Generated a grid with 21 cross-sections.
+     52s    0,0+ Step 3: Attempting to create mesh from grid with MeshUtility.mshFromGrid...
+     52s    0,0+ Step 3.1: Mesh created. Triangle count: 1600
+     52s    0,0+ Step 3.2: Mirrored and appended meshes successfully.
+     52s    0,0+ Step 4: Voxelizing final mesh...
+     52s    0,0+ Step 5: Shelling object...
+     52s    0,1+ --- OnConstruct Finished Successfully ---
+     54s    1,1+ --- Starting Lofted Wing OnConstruct ---
+     54s    0,0+ Planform Defined: RootLE=<0. 0. 0>, TipLE=<411,40332. 604. 0>
+     54s    0,0+ Step 2: Generated a grid with 21 cross-sections.
+     54s    0,0+ Step 3: Attempting to create mesh from grid with MeshUtility.mshFromGrid...
+     54s    0,0+ Step 3.1: Mesh created. Triangle count: 1600
+     54s    0,0+ Step 3.2: Mirrored and appended meshes successfully.
+     54s    0,0+ Step 4: Voxelizing final mesh...
+     54s    0,0+ Step 5: Shelling object...
+     54s    0,1+ --- OnConstruct Finished Successfully ---

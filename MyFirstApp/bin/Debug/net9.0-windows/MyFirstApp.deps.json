@@ -1,0 +1,88 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "MyFirstApp/1.0.0": {
+        "dependencies": {
+          "PicoGK": "1.7.7.5"
+        },
+        "runtime": {
+          "MyFirstApp.dll": {}
+        }
+      },
+      "PicoGK/1.7.7.5": {
+        "runtime": {
+          "lib/net9.0/PicoGK.dll": {
+            "assemblyVersion": "1.7.7.5",
+            "fileVersion": "1.7.7.5"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/osx-arm64/native/picogk.1.7.dylib": {
+            "rid": "osx-arm64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx-arm64/native/picogk.1.7_liblzma.5.dylib": {
+            "rid": "osx-arm64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx-arm64/native/picogk.1.7_libzstd.1.dylib": {
+            "rid": "osx-arm64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x64/native/blosc.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x64/native/lz4.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x64/native/picogk.1.7.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x64/native/tbb12.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "2021.11.0.0"
+          },
+          "runtimes/win-x64/native/zlib1.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "1.3.1.0"
+          },
+          "runtimes/win-x64/native/zstd.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "1.5.6.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyFirstApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PicoGK/1.7.7.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wTrKEkDRFQ+6z6ci2223jECC9mIx1/IuGyaJI+/Ps3qhNIjxSdfGf1W/XS9YhHznB0hKewstco0CswcySzUaAg==",
+      "path": "picogk/1.7.7.5",
+      "hashPath": "picogk.1.7.7.5.nupkg.sha512"
+    }
+  }
+}

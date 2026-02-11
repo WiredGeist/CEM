@@ -1,0 +1,159 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0-windows7.0": {
+      "PicoGK/1.7.7.5": {
+        "type": "package",
+        "compile": {
+          "lib/net9.0/PicoGK.dll": {}
+        },
+        "runtime": {
+          "lib/net9.0/PicoGK.dll": {}
+        },
+        "runtimeTargets": {
+          "runtimes/osx-arm64/native/picogk.1.7.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/picogk.1.7_liblzma.5.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/osx-arm64/native/picogk.1.7_libzstd.1.dylib": {
+            "assetType": "native",
+            "rid": "osx-arm64"
+          },
+          "runtimes/win-x64/native/blosc.dll": {
+            "assetType": "native",
+            "rid": "win-x64"
+          },
+          "runtimes/win-x64/native/lz4.dll": {
+            "assetType": "native",
+            "rid": "win-x64"
+          },
+          "runtimes/win-x64/native/picogk.1.7.dll": {
+            "assetType": "native",
+            "rid": "win-x64"
+          },
+          "runtimes/win-x64/native/tbb12.dll": {
+            "assetType": "native",
+            "rid": "win-x64"
+          },
+          "runtimes/win-x64/native/zlib1.dll": {
+            "assetType": "native",
+            "rid": "win-x64"
+          },
+          "runtimes/win-x64/native/zstd.dll": {
+            "assetType": "native",
+            "rid": "win-x64"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PicoGK/1.7.7.5": {
+      "sha512": "wTrKEkDRFQ+6z6ci2223jECC9mIx1/IuGyaJI+/Ps3qhNIjxSdfGf1W/XS9YhHznB0hKewstco0CswcySzUaAg==",
+      "type": "package",
+      "path": "picogk/1.7.7.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "lib/net9.0/PicoGK.dll",
+        "picogk.1.7.7.5.nupkg.sha512",
+        "picogk.nuspec",
+        "runtimes/osx-arm64/native/picogk.1.7.dylib",
+        "runtimes/osx-arm64/native/picogk.1.7_liblzma.5.dylib",
+        "runtimes/osx-arm64/native/picogk.1.7_libzstd.1.dylib",
+        "runtimes/win-x64/native/blosc.dll",
+        "runtimes/win-x64/native/lz4.dll",
+        "runtimes/win-x64/native/picogk.1.7.dll",
+        "runtimes/win-x64/native/tbb12.dll",
+        "runtimes/win-x64/native/zlib1.dll",
+        "runtimes/win-x64/native/zstd.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0-windows7.0": [
+      "PicoGK >= 1.7.7.5"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\hakan\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\hakan\\Documents\\C#\\CEM\\MyFirstApp\\MyFirstApp.csproj",
+      "projectName": "MyFirstApp",
+      "projectPath": "C:\\Users\\hakan\\Documents\\C#\\CEM\\MyFirstApp\\MyFirstApp.csproj",
+      "packagesPath": "C:\\Users\\hakan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hakan\\Documents\\C#\\CEM\\MyFirstApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\hakan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0-windows"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0-windows7.0": {
+          "targetAlias": "net9.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net9.0-windows7.0": {
+        "targetAlias": "net9.0-windows",
+        "dependencies": {
+          "PicoGK": {
+            "target": "Package",
+            "version": "[1.7.7.5, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.309/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

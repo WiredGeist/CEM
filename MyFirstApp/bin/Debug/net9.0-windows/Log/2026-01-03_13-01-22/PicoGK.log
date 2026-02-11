@@ -1,0 +1,100 @@
+      0s    0,0+ Opened C:\Users\hakan\Documents\C#\CEM\MyFirstApp\bin\Debug\net9.0-windows\Log\2026-01-03_13-01-22\PicoGK.log
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ Current time (UTC): 2026-01-03 12:01:22 (UTC)
+      0s    0,0+ Current local time: 2026-01-03 13:01:22 (+01:00)
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ System Info:
+      0s    0,0+ 
+      0s    0,0+ Machine Name:         GENJU
+      0s    0,0+ Operating System      Microsoft Windows 10.0.26100
+      0s    0,0+ Version:              Microsoft Windows NT 10.0.26100.0
+      0s    0,0+ OS Architecture:      X64
+      0s    0,0+ Proc Architecture:    X64
+      0s    0,0+ 64 Bit OS:            Yes
+      0s    0,0+ 64 Bit Process:       Yes
+      0s    0,0+ Processor Count:      24
+      0s    0,0+ Working Set:          27MB
+      0s    0,0+ C# Framework:         .NET 9.0.11
+      0s    0,0+ C# CLR Version:       9.0.11
+      0s    0,0+ PicoGK Path:          picogk.1.7
+      0s    0,0+ Command Line:         C:\Users\hakan\Documents\C#\CEM\MyFirstApp\bin\Debug\net9.0-windows\MyFirstApp.dll
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ Welcome to PicoGK
+      0s    0,1+ Creating Viewer
+      0s    0,2+ PicoGK:    PicoGK Core Library
+      0s    0,0+            1.7.1
+      0s    0,0+            2024-08-03 22:17:59 picogk.1.7
+      0s    0,0+ 
+      0s    0,0+ VoxelSize: 3 (mm)
+      0s    0,0+ Happy Computational Engineering!
+      0s    0,0+ 
+      0s    0,0+ 
+      0s    0,0+ Loading lights embedded environment
+      0s    0,0+ Starting tasks.
+      0s    0,0+ 
+      0s    0,0+ Loading Lights
+     88s   87,7+ --- Generating BWB ---
+    135s   46,7+ --- Generating BWB ---
+    136s    1,5+ --- Generating BWB ---
+    138s    1,4+ --- Generating BWB ---
+    139s    1,6+ --- Generating BWB ---
+    141s    1,7+ --- Generating BWB ---
+    142s    1,5+ --- Generating BWB ---
+    144s    1,8+ --- Generating BWB ---
+    146s    1,4+ --- Generating BWB ---
+    147s    1,8+ --- Generating BWB ---
+    151s    3,4+ --- Generating BWB ---
+    153s    2,1+ --- Generating BWB ---
+    154s    1,0+ --- Generating BWB ---
+    157s    2,6+ --- Generating BWB ---
+    159s    2,2+ --- Generating BWB ---
+    161s    1,9+ --- Generating BWB ---
+    163s    2,2+ --- Generating BWB ---
+    166s    3,0+ --- Generating BWB ---
+    167s    1,2+ --- Generating BWB ---
+    169s    2,0+ --- Generating BWB ---
+    170s    1,0+ --- Generating BWB ---
+    172s    1,6+ --- Generating BWB ---
+    173s    1,7+ --- Generating BWB ---
+    174s    0,8+ --- Generating BWB ---
+    176s    1,3+ --- Generating BWB ---
+    177s    1,3+ --- Generating BWB ---
+    178s    1,1+ --- Generating BWB ---
+    180s    2,0+ --- Generating BWB ---
+    208s   27,9+ --- Generating BWB ---
+    223s   15,3+ --- Generating BWB ---
+    225s    2,2+ --- Generating BWB ---
+    227s    1,3+ --- Generating BWB ---
+    228s    1,8+ --- Generating BWB ---
+    239s   10,7+ --- Generating BWB ---
+    241s    2,4+ --- Generating BWB ---
+    243s    2,0+ --- Generating BWB ---
+    245s    1,4+ --- Generating BWB ---
+    282s   37,4+ --- Generating BWB ---
+    284s    2,1+ --- Generating BWB ---
+    299s   14,9+ --- Generating BWB ---
+    303s    3,4+ --- Generating BWB ---
+    306s    3,4+ --- Generating BWB ---
+    309s    2,8+ --- Generating BWB ---
+    310s    1,2+ --- Generating BWB ---
+    314s    4,1+ --- Generating BWB ---
+    363s   49,4+ --- Generating BWB ---
+    366s    2,2+ --- Generating BWB ---
+    367s    1,3+ --- Generating BWB ---
+    368s    1,1+ --- Generating BWB ---
+    372s    4,1+ --- Generating BWB ---
+    375s    2,5+ --- Generating BWB ---
+    380s    5,2+ --- Generating BWB ---
+    384s    4,3+ --- Generating BWB ---
+    388s    3,4+ --- Generating BWB ---
+    391s    3,0+ --- Generating BWB ---
+    394s    3,2+ --- Generating BWB ---
+    399s    4,8+ --- Generating BWB ---
+    412s   13,9+ --- Generating BWB ---
+    415s    2,5+ --- Generating BWB ---

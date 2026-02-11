@@ -1,0 +1,2898 @@
+      0s    0,0+ Opened C:\Users\hakan\Documents\C#\CEM\MyFirstApp\bin\Debug\net9.0-windows\Log\2026-01-02_13-52-17\PicoGK.log
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ Current time (UTC): 2026-01-02 12:52:17 (UTC)
+      0s    0,0+ Current local time: 2026-01-02 13:52:17 (+01:00)
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ System Info:
+      0s    0,0+ 
+      0s    0,0+ Machine Name:         GENJU
+      0s    0,0+ Operating System      Microsoft Windows 10.0.26100
+      0s    0,0+ Version:              Microsoft Windows NT 10.0.26100.0
+      0s    0,0+ OS Architecture:      X64
+      0s    0,0+ Proc Architecture:    X64
+      0s    0,0+ 64 Bit OS:            Yes
+      0s    0,0+ 64 Bit Process:       Yes
+      0s    0,0+ Processor Count:      24
+      0s    0,0+ Working Set:          27MB
+      0s    0,0+ C# Framework:         .NET 9.0.11
+      0s    0,0+ C# CLR Version:       9.0.11
+      0s    0,0+ PicoGK Path:          picogk.1.7
+      0s    0,0+ Command Line:         C:\Users\hakan\Documents\C#\CEM\MyFirstApp\bin\Debug\net9.0-windows\MyFirstApp.dll
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ Welcome to PicoGK
+      0s    0,0+ Creating Viewer
+      0s    0,2+ PicoGK:    PicoGK Core Library
+      0s    0,0+            1.7.1
+      0s    0,0+            2024-08-03 22:17:59 picogk.1.7
+      0s    0,0+ 
+      0s    0,0+ VoxelSize: 3 (mm)
+      0s    0,0+ Happy Computational Engineering!
+      0s    0,0+ 
+      0s    0,0+ 
+      0s    0,0+ Loading lights embedded environment
+      0s    0,0+ Starting tasks.
+      0s    0,0+ 
+      0s    0,0+ Loading Lights
+      5s    4,5+ 
+      5s    4,5+ --- Starting Phyllotaxis Construction ---
+      5s    0,0+ 500 spheres added to lattice.
+      5s    0,0+ --- Phyllotaxis Construction Complete ---
+     12s    7,8+ 
+     12s    7,8+ --- Starting Phyllotaxis Construction ---
+     12s    0,0+ 1067 spheres added to lattice.
+     12s    0,0+ --- Phyllotaxis Construction Complete ---
+     14s    1,4+ 
+     14s    1,4+ --- Starting Phyllotaxis Construction ---
+     14s    0,0+ 195 spheres added to lattice.
+     14s    0,0+ --- Phyllotaxis Construction Complete ---
+     15s    0,8+ 
+     15s    0,8+ --- Starting Phyllotaxis Construction ---
+     15s    0,0+ 282 spheres added to lattice.
+     15s    0,0+ --- Phyllotaxis Construction Complete ---
+     15s    0,7+ 
+     15s    0,7+ --- Starting Phyllotaxis Construction ---
+     15s    0,0+ 100 spheres added to lattice.
+     15s    0,0+ --- Phyllotaxis Construction Complete ---
+     19s    3,3+ 
+     19s    3,3+ --- Starting Phyllotaxis Construction ---
+     19s    0,0+ 100 spheres added to lattice.
+     19s    0,0+ --- Phyllotaxis Construction Complete ---
+     20s    1,2+ 
+     20s    1,2+ --- Starting Phyllotaxis Construction ---
+     20s    0,0+ 100 spheres added to lattice.
+     20s    0,0+ --- Phyllotaxis Construction Complete ---
+     21s    1,2+ 
+     21s    1,2+ --- Starting Phyllotaxis Construction ---
+     21s    0,0+ 100 spheres added to lattice.
+     21s    0,0+ --- Phyllotaxis Construction Complete ---
+     22s    0,7+ 
+     22s    0,7+ --- Starting Phyllotaxis Construction ---
+     22s    0,0+ 100 spheres added to lattice.
+     22s    0,0+ --- Phyllotaxis Construction Complete ---
+     23s    1,6+ 
+     23s    1,6+ --- Starting Phyllotaxis Construction ---
+     23s    0,0+ 719 spheres added to lattice.
+     23s    0,0+ --- Phyllotaxis Construction Complete ---
+     24s    0,6+ 
+     24s    0,6+ --- Starting Phyllotaxis Construction ---
+     24s    0,0+ 1050 spheres added to lattice.
+     24s    0,0+ --- Phyllotaxis Construction Complete ---
+     25s    1,4+ 
+     25s    1,4+ --- Starting Phyllotaxis Construction ---
+     25s    0,0+ 1886 spheres added to lattice.
+     25s    0,0+ --- Phyllotaxis Construction Complete ---
+     45s   19,6+ 
+     45s   19,6+ --- Starting Phyllotaxis Construction ---
+     45s    0,0+ 1886 spheres added to lattice.
+     45s    0,0+ --- Phyllotaxis Construction Complete ---
+     46s    0,7+ 
+     46s    0,7+ --- Starting Phyllotaxis Construction ---
+     46s    0,0+ 1886 spheres added to lattice.
+     46s    0,0+ --- Phyllotaxis Construction Complete ---
+     47s    1,2+ 
+     47s    1,2+ --- Starting Phyllotaxis Construction ---
+     47s    0,0+ 1886 spheres added to lattice.
+     47s    0,0+ --- Phyllotaxis Construction Complete ---
+     48s    1,5+ 
+     48s    1,5+ --- Starting Phyllotaxis Construction ---
+     48s    0,0+ 1886 spheres added to lattice.
+     48s    0,0+ --- Phyllotaxis Construction Complete ---
+     49s    0,9+ 
+     49s    0,9+ --- Starting Phyllotaxis Construction ---
+     49s    0,0+ 1886 spheres added to lattice.
+     49s    0,0+ --- Phyllotaxis Construction Complete ---
+     51s    1,8+ 
+     51s    1,8+ --- Starting Phyllotaxis Construction ---
+     51s    0,0+ 1886 spheres added to lattice.
+     51s    0,0+ --- Phyllotaxis Construction Complete ---
+     57s    5,6+ 
+     57s    5,6+ --- Starting Phyllotaxis Construction ---
+     57s    0,0+ 1886 spheres added to lattice.
+     57s    0,0+ --- Phyllotaxis Construction Complete ---
+     62s    5,0+ 
+     62s    5,0+ --- Starting Phyllotaxis Construction ---
+     62s    0,0+ 396 spheres added to lattice.
+     62s    0,0+ --- Phyllotaxis Construction Complete ---
+     63s    0,8+ 
+     63s    0,8+ --- Starting Phyllotaxis Construction ---
+     63s    0,0+ 2000 spheres added to lattice.
+     63s    0,0+ --- Phyllotaxis Construction Complete ---
+     64s    1,6+ 
+     64s    1,6+ --- Starting Phyllotaxis Construction ---
+     64s    0,0+ 2000 spheres added to lattice.
+     64s    0,0+ --- Phyllotaxis Construction Complete ---
+     65s    1,1+ 
+     65s    1,1+ --- Starting Phyllotaxis Construction ---
+     65s    0,0+ 2000 spheres added to lattice.
+     65s    0,0+ --- Phyllotaxis Construction Complete ---
+     79s   13,4+ 
+     79s   13,4+ --- Starting Space Colonization ---
+     79s    0,0+ Iteration 0: 299 attractors remaining.
+     79s    0,0+ Iteration 1: 299 attractors remaining.
+     79s    0,0+ Iteration 2: 299 attractors remaining.
+     79s    0,0+ Iteration 3: 299 attractors remaining.
+     79s    0,0+ Iteration 4: 299 attractors remaining.
+     79s    0,0+ Iteration 5: 299 attractors remaining.
+     79s    0,0+ Iteration 6: 298 attractors remaining.
+     79s    0,0+ Iteration 7: 297 attractors remaining.
+     79s    0,0+ Iteration 8: 294 attractors remaining.
+     79s    0,0+ Iteration 9: 293 attractors remaining.
+     79s    0,0+ Iteration 10: 291 attractors remaining.
+     79s    0,0+ Iteration 11: 291 attractors remaining.
+     79s    0,0+ Iteration 12: 290 attractors remaining.
+     79s    0,0+ Iteration 13: 289 attractors remaining.
+     79s    0,0+ Iteration 14: 288 attractors remaining.
+     79s    0,0+ Iteration 15: 287 attractors remaining.
+     79s    0,0+ Iteration 16: 287 attractors remaining.
+     79s    0,0+ Iteration 17: 284 attractors remaining.
+     79s    0,0+ Iteration 18: 282 attractors remaining.
+     79s    0,0+ Iteration 19: 282 attractors remaining.
+     79s    0,0+ Iteration 20: 281 attractors remaining.
+     79s    0,0+ Iteration 21: 277 attractors remaining.
+     79s    0,0+ Iteration 22: 273 attractors remaining.
+     79s    0,0+ Iteration 23: 268 attractors remaining.
+     79s    0,0+ Iteration 24: 262 attractors remaining.
+     79s    0,0+ --- Space Colonization Complete ---
+     93s   14,2+ 
+     93s   14,2+ --- Starting Space Colonization ---
+     93s    0,0+ Iteration 0: 354 attractors remaining.
+     93s    0,0+ Iteration 1: 354 attractors remaining.
+     93s    0,0+ Iteration 2: 354 attractors remaining.
+     93s    0,0+ Iteration 3: 353 attractors remaining.
+     93s    0,0+ Iteration 4: 353 attractors remaining.
+     93s    0,0+ Iteration 5: 353 attractors remaining.
+     93s    0,0+ Iteration 6: 351 attractors remaining.
+     93s    0,0+ Iteration 7: 351 attractors remaining.
+     93s    0,0+ Iteration 8: 351 attractors remaining.
+     93s    0,0+ Iteration 9: 351 attractors remaining.
+     93s    0,0+ Iteration 10: 350 attractors remaining.
+     93s    0,0+ Iteration 11: 349 attractors remaining.
+     93s    0,0+ Iteration 12: 347 attractors remaining.
+     93s    0,0+ Iteration 13: 347 attractors remaining.
+     93s    0,0+ Iteration 14: 345 attractors remaining.
+     93s    0,0+ Iteration 15: 343 attractors remaining.
+     93s    0,0+ Iteration 16: 340 attractors remaining.
+     93s    0,0+ Iteration 17: 339 attractors remaining.
+     93s    0,0+ Iteration 18: 336 attractors remaining.
+     93s    0,0+ Iteration 19: 333 attractors remaining.
+     93s    0,0+ Iteration 20: 330 attractors remaining.
+     93s    0,0+ Iteration 21: 327 attractors remaining.
+     93s    0,0+ Iteration 22: 318 attractors remaining.
+     93s    0,0+ Iteration 23: 308 attractors remaining.
+     93s    0,0+ Iteration 24: 299 attractors remaining.
+     93s    0,0+ --- Space Colonization Complete ---
+     94s    1,4+ 
+     94s    1,4+ --- Starting Space Colonization ---
+     94s    0,0+ Iteration 0: 812 attractors remaining.
+     94s    0,0+ Iteration 1: 811 attractors remaining.
+     94s    0,0+ Iteration 2: 809 attractors remaining.
+     94s    0,0+ Iteration 3: 807 attractors remaining.
+     94s    0,0+ Iteration 4: 805 attractors remaining.
+     94s    0,0+ Iteration 5: 803 attractors remaining.
+     94s    0,0+ Iteration 6: 800 attractors remaining.
+     94s    0,0+ Iteration 7: 798 attractors remaining.
+     94s    0,0+ Iteration 8: 796 attractors remaining.
+     94s    0,0+ Iteration 9: 787 attractors remaining.
+     94s    0,0+ Iteration 10: 781 attractors remaining.
+     94s    0,0+ Iteration 11: 774 attractors remaining.
+     94s    0,0+ Iteration 12: 765 attractors remaining.
+     94s    0,0+ Iteration 13: 755 attractors remaining.
+     94s    0,0+ Iteration 14: 742 attractors remaining.
+     94s    0,0+ Iteration 15: 716 attractors remaining.
+     94s    0,0+ Iteration 16: 692 attractors remaining.
+     94s    0,0+ Iteration 17: 671 attractors remaining.
+     94s    0,0+ Iteration 18: 635 attractors remaining.
+     94s    0,0+ Iteration 19: 603 attractors remaining.
+     94s    0,0+ Iteration 20: 571 attractors remaining.
+     94s    0,0+ Iteration 21: 544 attractors remaining.
+     94s    0,0+ Iteration 22: 510 attractors remaining.
+     94s    0,0+ Iteration 23: 482 attractors remaining.
+     94s    0,0+ Iteration 24: 448 attractors remaining.
+     94s    0,0+ --- Space Colonization Complete ---
+     96s    1,5+ 
+     96s    1,5+ --- Starting Space Colonization ---
+     96s    0,0+ Iteration 0: 272 attractors remaining.
+     96s    0,0+ Iteration 1: 272 attractors remaining.
+     96s    0,0+ Iteration 2: 272 attractors remaining.
+     96s    0,0+ Iteration 3: 271 attractors remaining.
+     96s    0,0+ Iteration 4: 271 attractors remaining.
+     96s    0,0+ Iteration 5: 269 attractors remaining.
+     96s    0,0+ Iteration 6: 269 attractors remaining.
+     96s    0,0+ Iteration 7: 269 attractors remaining.
+     96s    0,0+ Iteration 8: 268 attractors remaining.
+     96s    0,0+ Iteration 9: 265 attractors remaining.
+     96s    0,0+ Iteration 10: 264 attractors remaining.
+     96s    0,0+ Iteration 11: 260 attractors remaining.
+     96s    0,0+ Iteration 12: 259 attractors remaining.
+     96s    0,0+ Iteration 13: 254 attractors remaining.
+     96s    0,0+ Iteration 14: 250 attractors remaining.
+     96s    0,0+ Iteration 15: 246 attractors remaining.
+     96s    0,0+ Iteration 16: 235 attractors remaining.
+     96s    0,0+ Iteration 17: 232 attractors remaining.
+     96s    0,0+ Iteration 18: 225 attractors remaining.
+     96s    0,0+ Iteration 19: 220 attractors remaining.
+     96s    0,0+ Iteration 20: 212 attractors remaining.
+     96s    0,0+ Iteration 21: 203 attractors remaining.
+     96s    0,0+ Iteration 22: 196 attractors remaining.
+     96s    0,0+ Iteration 23: 189 attractors remaining.
+     96s    0,0+ Iteration 24: 181 attractors remaining.
+     96s    0,0+ --- Space Colonization Complete ---
+     99s    3,4+ 
+     99s    3,4+ --- Starting Space Colonization ---
+     99s    0,0+ Iteration 0: 271 attractors remaining.
+     99s    0,0+ Iteration 1: 271 attractors remaining.
+     99s    0,0+ Iteration 2: 271 attractors remaining.
+     99s    0,0+ Iteration 3: 271 attractors remaining.
+     99s    0,0+ Iteration 4: 270 attractors remaining.
+     99s    0,0+ Iteration 5: 270 attractors remaining.
+     99s    0,0+ Iteration 6: 270 attractors remaining.
+     99s    0,0+ Iteration 7: 270 attractors remaining.
+     99s    0,0+ Iteration 8: 270 attractors remaining.
+     99s    0,0+ Iteration 9: 270 attractors remaining.
+     99s    0,0+ Iteration 10: 269 attractors remaining.
+     99s    0,0+ Iteration 11: 269 attractors remaining.
+     99s    0,0+ Iteration 12: 268 attractors remaining.
+     99s    0,0+ Iteration 13: 267 attractors remaining.
+     99s    0,0+ Iteration 14: 266 attractors remaining.
+     99s    0,0+ Iteration 15: 266 attractors remaining.
+     99s    0,0+ Iteration 16: 266 attractors remaining.
+     99s    0,0+ Iteration 17: 264 attractors remaining.
+     99s    0,0+ Iteration 18: 264 attractors remaining.
+     99s    0,0+ Iteration 19: 264 attractors remaining.
+     99s    0,0+ Iteration 20: 263 attractors remaining.
+     99s    0,0+ Iteration 21: 263 attractors remaining.
+     99s    0,0+ Iteration 22: 263 attractors remaining.
+     99s    0,0+ Iteration 23: 263 attractors remaining.
+     99s    0,0+ Iteration 24: 263 attractors remaining.
+     99s    0,0+ --- Space Colonization Complete ---
+    101s    1,2+ 
+    101s    1,2+ --- Starting Space Colonization ---
+    101s    0,0+ Iteration 0: 272 attractors remaining.
+    101s    0,0+ Iteration 1: 272 attractors remaining.
+    101s    0,0+ Iteration 2: 272 attractors remaining.
+    101s    0,0+ Iteration 3: 272 attractors remaining.
+    101s    0,0+ Iteration 4: 272 attractors remaining.
+    101s    0,0+ Iteration 5: 272 attractors remaining.
+    101s    0,0+ Iteration 6: 272 attractors remaining.
+    101s    0,0+ Iteration 7: 272 attractors remaining.
+    101s    0,0+ Iteration 8: 272 attractors remaining.
+    101s    0,0+ Iteration 9: 272 attractors remaining.
+    101s    0,0+ Iteration 10: 272 attractors remaining.
+    101s    0,0+ Iteration 11: 272 attractors remaining.
+    101s    0,0+ Iteration 12: 272 attractors remaining.
+    101s    0,0+ Iteration 13: 272 attractors remaining.
+    101s    0,0+ Iteration 14: 272 attractors remaining.
+    101s    0,0+ Iteration 15: 272 attractors remaining.
+    101s    0,0+ Iteration 16: 272 attractors remaining.
+    101s    0,0+ Iteration 17: 272 attractors remaining.
+    101s    0,0+ Iteration 18: 272 attractors remaining.
+    101s    0,0+ Iteration 19: 272 attractors remaining.
+    101s    0,0+ Iteration 20: 272 attractors remaining.
+    101s    0,0+ Iteration 21: 272 attractors remaining.
+    101s    0,0+ Iteration 22: 272 attractors remaining.
+    101s    0,0+ Iteration 23: 272 attractors remaining.
+    101s    0,0+ Iteration 24: 272 attractors remaining.
+    101s    0,0+ --- Space Colonization Complete ---
+    101s    0,8+ 
+    101s    0,8+ --- Starting Space Colonization ---
+    101s    0,0+ Iteration 0: 272 attractors remaining.
+    101s    0,0+ Iteration 1: 272 attractors remaining.
+    101s    0,0+ Iteration 2: 271 attractors remaining.
+    101s    0,0+ Iteration 3: 271 attractors remaining.
+    101s    0,0+ Iteration 4: 270 attractors remaining.
+    101s    0,0+ Iteration 5: 270 attractors remaining.
+    101s    0,0+ Iteration 6: 270 attractors remaining.
+    101s    0,0+ Iteration 7: 270 attractors remaining.
+    101s    0,0+ Iteration 8: 270 attractors remaining.
+    101s    0,0+ Iteration 9: 270 attractors remaining.
+    101s    0,0+ Iteration 10: 270 attractors remaining.
+    101s    0,0+ Iteration 11: 270 attractors remaining.
+    101s    0,0+ Iteration 12: 270 attractors remaining.
+    101s    0,0+ Iteration 13: 270 attractors remaining.
+    101s    0,0+ Iteration 14: 270 attractors remaining.
+    101s    0,0+ Iteration 15: 270 attractors remaining.
+    101s    0,0+ Iteration 16: 270 attractors remaining.
+    101s    0,0+ Iteration 17: 270 attractors remaining.
+    101s    0,0+ Iteration 18: 270 attractors remaining.
+    101s    0,0+ Iteration 19: 270 attractors remaining.
+    101s    0,0+ Iteration 20: 270 attractors remaining.
+    101s    0,0+ Iteration 21: 270 attractors remaining.
+    101s    0,0+ Iteration 22: 270 attractors remaining.
+    101s    0,0+ Iteration 23: 270 attractors remaining.
+    101s    0,0+ Iteration 24: 270 attractors remaining.
+    101s    0,0+ --- Space Colonization Complete ---
+    102s    0,4+ 
+    102s    0,4+ --- Starting Space Colonization ---
+    102s    0,0+ Iteration 0: 272 attractors remaining.
+    102s    0,0+ Iteration 1: 272 attractors remaining.
+    102s    0,0+ Iteration 2: 271 attractors remaining.
+    102s    0,0+ Iteration 3: 271 attractors remaining.
+    102s    0,0+ Iteration 4: 271 attractors remaining.
+    102s    0,0+ Iteration 5: 271 attractors remaining.
+    102s    0,0+ Iteration 6: 271 attractors remaining.
+    102s    0,0+ Iteration 7: 271 attractors remaining.
+    102s    0,0+ Iteration 8: 271 attractors remaining.
+    102s    0,0+ Iteration 9: 271 attractors remaining.
+    102s    0,0+ Iteration 10: 271 attractors remaining.
+    102s    0,0+ Iteration 11: 271 attractors remaining.
+    102s    0,0+ Iteration 12: 271 attractors remaining.
+    102s    0,0+ Iteration 13: 271 attractors remaining.
+    102s    0,0+ Iteration 14: 271 attractors remaining.
+    102s    0,0+ Iteration 15: 271 attractors remaining.
+    102s    0,0+ Iteration 16: 271 attractors remaining.
+    102s    0,0+ Iteration 17: 271 attractors remaining.
+    102s    0,0+ Iteration 18: 271 attractors remaining.
+    102s    0,0+ Iteration 19: 271 attractors remaining.
+    102s    0,0+ Iteration 20: 271 attractors remaining.
+    102s    0,0+ Iteration 21: 271 attractors remaining.
+    102s    0,0+ Iteration 22: 271 attractors remaining.
+    102s    0,0+ Iteration 23: 271 attractors remaining.
+    102s    0,0+ Iteration 24: 271 attractors remaining.
+    102s    0,0+ --- Space Colonization Complete ---
+    102s    0,4+ 
+    102s    0,4+ --- Starting Space Colonization ---
+    102s    0,0+ Iteration 0: 272 attractors remaining.
+    102s    0,0+ Iteration 1: 272 attractors remaining.
+    102s    0,0+ Iteration 2: 272 attractors remaining.
+    102s    0,0+ Iteration 3: 272 attractors remaining.
+    102s    0,0+ Iteration 4: 272 attractors remaining.
+    102s    0,0+ Iteration 5: 272 attractors remaining.
+    102s    0,0+ Iteration 6: 272 attractors remaining.
+    102s    0,0+ Iteration 7: 272 attractors remaining.
+    102s    0,0+ Iteration 8: 272 attractors remaining.
+    102s    0,0+ Iteration 9: 272 attractors remaining.
+    102s    0,0+ Iteration 10: 272 attractors remaining.
+    102s    0,0+ Iteration 11: 272 attractors remaining.
+    102s    0,0+ Iteration 12: 272 attractors remaining.
+    102s    0,0+ Iteration 13: 272 attractors remaining.
+    102s    0,0+ Iteration 14: 272 attractors remaining.
+    102s    0,0+ Iteration 15: 272 attractors remaining.
+    102s    0,0+ Iteration 16: 272 attractors remaining.
+    102s    0,0+ Iteration 17: 272 attractors remaining.
+    102s    0,0+ Iteration 18: 272 attractors remaining.
+    102s    0,0+ Iteration 19: 272 attractors remaining.
+    102s    0,0+ Iteration 20: 272 attractors remaining.
+    102s    0,0+ Iteration 21: 272 attractors remaining.
+    102s    0,0+ Iteration 22: 272 attractors remaining.
+    102s    0,0+ Iteration 23: 272 attractors remaining.
+    102s    0,0+ Iteration 24: 272 attractors remaining.
+    102s    0,0+ --- Space Colonization Complete ---
+    103s    0,4+ 
+    103s    0,4+ --- Starting Space Colonization ---
+    103s    0,0+ Iteration 0: 272 attractors remaining.
+    103s    0,0+ Iteration 1: 272 attractors remaining.
+    103s    0,0+ Iteration 2: 271 attractors remaining.
+    103s    0,0+ Iteration 3: 269 attractors remaining.
+    103s    0,0+ Iteration 4: 267 attractors remaining.
+    103s    0,0+ Iteration 5: 267 attractors remaining.
+    103s    0,0+ Iteration 6: 266 attractors remaining.
+    103s    0,0+ Iteration 7: 264 attractors remaining.
+    103s    0,0+ Iteration 8: 264 attractors remaining.
+    103s    0,0+ Iteration 9: 264 attractors remaining.
+    103s    0,0+ Iteration 10: 264 attractors remaining.
+    103s    0,0+ Iteration 11: 263 attractors remaining.
+    103s    0,0+ Iteration 12: 259 attractors remaining.
+    103s    0,0+ Iteration 13: 256 attractors remaining.
+    103s    0,0+ Iteration 14: 253 attractors remaining.
+    103s    0,0+ Iteration 15: 247 attractors remaining.
+    103s    0,0+ Iteration 16: 245 attractors remaining.
+    103s    0,0+ Iteration 17: 244 attractors remaining.
+    103s    0,0+ Iteration 18: 238 attractors remaining.
+    103s    0,0+ Iteration 19: 229 attractors remaining.
+    103s    0,0+ Iteration 20: 225 attractors remaining.
+    103s    0,0+ Iteration 21: 223 attractors remaining.
+    103s    0,0+ Iteration 22: 210 attractors remaining.
+    103s    0,0+ Iteration 23: 202 attractors remaining.
+    103s    0,0+ Iteration 24: 193 attractors remaining.
+    103s    0,0+ --- Space Colonization Complete ---
+    103s    0,3+ 
+    103s    0,3+ --- Starting Space Colonization ---
+    103s    0,0+ Iteration 0: 272 attractors remaining.
+    103s    0,0+ Iteration 1: 270 attractors remaining.
+    103s    0,0+ Iteration 2: 270 attractors remaining.
+    103s    0,0+ Iteration 3: 270 attractors remaining.
+    103s    0,0+ Iteration 4: 270 attractors remaining.
+    103s    0,0+ Iteration 5: 268 attractors remaining.
+    103s    0,0+ Iteration 6: 268 attractors remaining.
+    103s    0,0+ Iteration 7: 264 attractors remaining.
+    103s    0,0+ Iteration 8: 262 attractors remaining.
+    103s    0,0+ Iteration 9: 257 attractors remaining.
+    103s    0,0+ Iteration 10: 251 attractors remaining.
+    103s    0,0+ Iteration 11: 250 attractors remaining.
+    103s    0,0+ Iteration 12: 246 attractors remaining.
+    103s    0,0+ Iteration 13: 238 attractors remaining.
+    103s    0,0+ Iteration 14: 233 attractors remaining.
+    103s    0,0+ Iteration 15: 230 attractors remaining.
+    103s    0,0+ Iteration 16: 227 attractors remaining.
+    103s    0,0+ Iteration 17: 222 attractors remaining.
+    103s    0,0+ Iteration 18: 218 attractors remaining.
+    103s    0,0+ Iteration 19: 212 attractors remaining.
+    103s    0,0+ Iteration 20: 199 attractors remaining.
+    103s    0,0+ Iteration 21: 183 attractors remaining.
+    103s    0,0+ Iteration 22: 172 attractors remaining.
+    103s    0,0+ Iteration 23: 161 attractors remaining.
+    103s    0,0+ Iteration 24: 149 attractors remaining.
+    103s    0,0+ --- Space Colonization Complete ---
+    104s    0,9+ 
+    104s    0,9+ --- Starting Space Colonization ---
+    104s    0,0+ Iteration 0: 272 attractors remaining.
+    104s    0,0+ Iteration 1: 272 attractors remaining.
+    104s    0,0+ Iteration 2: 272 attractors remaining.
+    104s    0,0+ Iteration 3: 272 attractors remaining.
+    104s    0,0+ Iteration 4: 270 attractors remaining.
+    104s    0,0+ Iteration 5: 269 attractors remaining.
+    104s    0,0+ Iteration 6: 268 attractors remaining.
+    104s    0,0+ Iteration 7: 264 attractors remaining.
+    104s    0,0+ Iteration 8: 261 attractors remaining.
+    104s    0,0+ Iteration 9: 256 attractors remaining.
+    104s    0,0+ Iteration 10: 250 attractors remaining.
+    104s    0,0+ Iteration 11: 237 attractors remaining.
+    104s    0,0+ Iteration 12: 230 attractors remaining.
+    104s    0,0+ Iteration 13: 220 attractors remaining.
+    104s    0,0+ Iteration 14: 211 attractors remaining.
+    104s    0,0+ Iteration 15: 198 attractors remaining.
+    104s    0,0+ Iteration 16: 189 attractors remaining.
+    104s    0,0+ Iteration 17: 169 attractors remaining.
+    104s    0,0+ Iteration 18: 151 attractors remaining.
+    104s    0,0+ Iteration 19: 136 attractors remaining.
+    104s    0,0+ Iteration 20: 121 attractors remaining.
+    104s    0,0+ Iteration 21: 106 attractors remaining.
+    104s    0,0+ Iteration 22: 90 attractors remaining.
+    104s    0,0+ Iteration 23: 84 attractors remaining.
+    104s    0,0+ Iteration 24: 68 attractors remaining.
+    104s    0,0+ --- Space Colonization Complete ---
+    104s    0,4+ 
+    104s    0,4+ --- Starting Space Colonization ---
+    104s    0,0+ Iteration 0: 271 attractors remaining.
+    104s    0,0+ Iteration 1: 267 attractors remaining.
+    104s    0,0+ Iteration 2: 267 attractors remaining.
+    104s    0,0+ Iteration 3: 262 attractors remaining.
+    104s    0,0+ Iteration 4: 256 attractors remaining.
+    104s    0,0+ Iteration 5: 247 attractors remaining.
+    104s    0,0+ Iteration 6: 233 attractors remaining.
+    104s    0,0+ Iteration 7: 218 attractors remaining.
+    104s    0,0+ Iteration 8: 189 attractors remaining.
+    104s    0,0+ Iteration 9: 164 attractors remaining.
+    104s    0,0+ Iteration 10: 134 attractors remaining.
+    104s    0,0+ Iteration 11: 109 attractors remaining.
+    104s    0,0+ Iteration 12: 92 attractors remaining.
+    104s    0,0+ Iteration 13: 71 attractors remaining.
+    104s    0,0+ Iteration 14: 42 attractors remaining.
+    104s    0,0+ Iteration 15: 22 attractors remaining.
+    104s    0,0+ Iteration 16: 14 attractors remaining.
+    104s    0,0+ Iteration 17: 13 attractors remaining.
+    104s    0,0+ Iteration 18: 12 attractors remaining.
+    104s    0,0+ Iteration 19: 12 attractors remaining.
+    104s    0,0+ Iteration 20: 12 attractors remaining.
+    104s    0,0+ Iteration 21: 12 attractors remaining.
+    104s    0,0+ Iteration 22: 12 attractors remaining.
+    104s    0,0+ Iteration 23: 12 attractors remaining.
+    104s    0,0+ Iteration 24: 12 attractors remaining.
+    104s    0,0+ --- Space Colonization Complete ---
+    105s    0,5+ 
+    105s    0,5+ --- Starting Space Colonization ---
+    105s    0,0+ Iteration 0: 260 attractors remaining.
+    105s    0,0+ Iteration 1: 251 attractors remaining.
+    105s    0,0+ Iteration 2: 238 attractors remaining.
+    105s    0,0+ Iteration 3: 218 attractors remaining.
+    105s    0,0+ Iteration 4: 177 attractors remaining.
+    105s    0,0+ Iteration 5: 135 attractors remaining.
+    105s    0,0+ Iteration 6: 85 attractors remaining.
+    105s    0,0+ Iteration 7: 43 attractors remaining.
+    105s    0,0+ Iteration 8: 9 attractors remaining.
+    105s    0,0+ Iteration 9: 2 attractors remaining.
+    105s    0,0+ Iteration 10: 2 attractors remaining.
+    105s    0,0+ Iteration 11: 2 attractors remaining.
+    105s    0,0+ Iteration 12: 2 attractors remaining.
+    105s    0,0+ Iteration 13: 2 attractors remaining.
+    105s    0,0+ Iteration 14: 2 attractors remaining.
+    105s    0,0+ Iteration 15: 2 attractors remaining.
+    105s    0,0+ Iteration 16: 2 attractors remaining.
+    105s    0,0+ Iteration 17: 2 attractors remaining.
+    105s    0,0+ Iteration 18: 2 attractors remaining.
+    105s    0,0+ Iteration 19: 2 attractors remaining.
+    105s    0,0+ Iteration 20: 2 attractors remaining.
+    105s    0,0+ Iteration 21: 2 attractors remaining.
+    105s    0,0+ Iteration 22: 2 attractors remaining.
+    105s    0,0+ Iteration 23: 2 attractors remaining.
+    105s    0,0+ Iteration 24: 2 attractors remaining.
+    105s    0,0+ --- Space Colonization Complete ---
+    105s    0,7+ 
+    105s    0,7+ --- Starting Space Colonization ---
+    105s    0,0+ Iteration 0: 271 attractors remaining.
+    105s    0,0+ Iteration 1: 270 attractors remaining.
+    105s    0,0+ Iteration 2: 268 attractors remaining.
+    105s    0,0+ Iteration 3: 265 attractors remaining.
+    105s    0,0+ Iteration 4: 264 attractors remaining.
+    105s    0,0+ Iteration 5: 258 attractors remaining.
+    105s    0,0+ Iteration 6: 242 attractors remaining.
+    105s    0,0+ Iteration 7: 232 attractors remaining.
+    105s    0,0+ Iteration 8: 212 attractors remaining.
+    105s    0,0+ Iteration 9: 195 attractors remaining.
+    105s    0,0+ Iteration 10: 173 attractors remaining.
+    105s    0,0+ Iteration 11: 153 attractors remaining.
+    105s    0,0+ Iteration 12: 123 attractors remaining.
+    105s    0,0+ Iteration 13: 96 attractors remaining.
+    105s    0,0+ Iteration 14: 68 attractors remaining.
+    105s    0,0+ Iteration 15: 51 attractors remaining.
+    105s    0,0+ Iteration 16: 30 attractors remaining.
+    105s    0,0+ Iteration 17: 16 attractors remaining.
+    105s    0,0+ Iteration 18: 5 attractors remaining.
+    105s    0,0+ Iteration 19: 2 attractors remaining.
+    105s    0,0+ Iteration 20: 2 attractors remaining.
+    105s    0,0+ Iteration 21: 2 attractors remaining.
+    105s    0,0+ Iteration 22: 2 attractors remaining.
+    105s    0,0+ Iteration 23: 2 attractors remaining.
+    105s    0,0+ Iteration 24: 2 attractors remaining.
+    105s    0,0+ --- Space Colonization Complete ---
+    106s    0,6+ 
+    106s    0,6+ --- Starting Space Colonization ---
+    106s    0,0+ Iteration 0: 270 attractors remaining.
+    106s    0,0+ Iteration 1: 270 attractors remaining.
+    106s    0,0+ Iteration 2: 269 attractors remaining.
+    106s    0,0+ Iteration 3: 264 attractors remaining.
+    106s    0,0+ Iteration 4: 261 attractors remaining.
+    106s    0,0+ Iteration 5: 258 attractors remaining.
+    106s    0,0+ Iteration 6: 249 attractors remaining.
+    106s    0,0+ Iteration 7: 242 attractors remaining.
+    106s    0,0+ Iteration 8: 229 attractors remaining.
+    106s    0,0+ Iteration 9: 219 attractors remaining.
+    106s    0,0+ Iteration 10: 204 attractors remaining.
+    106s    0,0+ Iteration 11: 181 attractors remaining.
+    106s    0,0+ Iteration 12: 164 attractors remaining.
+    106s    0,0+ Iteration 13: 142 attractors remaining.
+    106s    0,0+ Iteration 14: 115 attractors remaining.
+    106s    0,0+ Iteration 15: 92 attractors remaining.
+    106s    0,0+ Iteration 16: 73 attractors remaining.
+    106s    0,0+ Iteration 17: 54 attractors remaining.
+    106s    0,0+ Iteration 18: 38 attractors remaining.
+    106s    0,0+ Iteration 19: 23 attractors remaining.
+    106s    0,0+ Iteration 20: 15 attractors remaining.
+    106s    0,0+ Iteration 21: 12 attractors remaining.
+    106s    0,0+ Iteration 22: 10 attractors remaining.
+    106s    0,0+ Iteration 23: 10 attractors remaining.
+    106s    0,0+ Iteration 24: 10 attractors remaining.
+    106s    0,0+ --- Space Colonization Complete ---
+    107s    0,5+ 
+    107s    0,5+ --- Starting Space Colonization ---
+    107s    0,0+ Iteration 0: 272 attractors remaining.
+    107s    0,0+ Iteration 1: 272 attractors remaining.
+    107s    0,0+ Iteration 2: 271 attractors remaining.
+    107s    0,0+ Iteration 3: 267 attractors remaining.
+    107s    0,0+ Iteration 4: 264 attractors remaining.
+    107s    0,0+ Iteration 5: 262 attractors remaining.
+    107s    0,0+ Iteration 6: 261 attractors remaining.
+    107s    0,0+ Iteration 7: 255 attractors remaining.
+    107s    0,0+ Iteration 8: 244 attractors remaining.
+    107s    0,0+ Iteration 9: 239 attractors remaining.
+    107s    0,0+ Iteration 10: 227 attractors remaining.
+    107s    0,0+ Iteration 11: 215 attractors remaining.
+    107s    0,0+ Iteration 12: 200 attractors remaining.
+    107s    0,0+ Iteration 13: 185 attractors remaining.
+    107s    0,0+ Iteration 14: 175 attractors remaining.
+    107s    0,0+ Iteration 15: 164 attractors remaining.
+    107s    0,0+ Iteration 16: 142 attractors remaining.
+    107s    0,0+ Iteration 17: 124 attractors remaining.
+    107s    0,0+ Iteration 18: 112 attractors remaining.
+    107s    0,0+ Iteration 19: 88 attractors remaining.
+    107s    0,0+ Iteration 20: 80 attractors remaining.
+    107s    0,0+ Iteration 21: 63 attractors remaining.
+    107s    0,0+ Iteration 22: 54 attractors remaining.
+    107s    0,0+ Iteration 23: 40 attractors remaining.
+    107s    0,0+ Iteration 24: 32 attractors remaining.
+    107s    0,0+ --- Space Colonization Complete ---
+    107s    0,6+ 
+    107s    0,6+ --- Starting Space Colonization ---
+    107s    0,0+ Iteration 0: 272 attractors remaining.
+    107s    0,0+ Iteration 1: 272 attractors remaining.
+    107s    0,0+ Iteration 2: 271 attractors remaining.
+    107s    0,0+ Iteration 3: 271 attractors remaining.
+    107s    0,0+ Iteration 4: 271 attractors remaining.
+    107s    0,0+ Iteration 5: 270 attractors remaining.
+    107s    0,0+ Iteration 6: 270 attractors remaining.
+    107s    0,0+ Iteration 7: 270 attractors remaining.
+    107s    0,0+ Iteration 8: 270 attractors remaining.
+    107s    0,0+ Iteration 9: 270 attractors remaining.
+    107s    0,0+ Iteration 10: 269 attractors remaining.
+    107s    0,0+ Iteration 11: 268 attractors remaining.
+    107s    0,0+ Iteration 12: 268 attractors remaining.
+    107s    0,0+ Iteration 13: 266 attractors remaining.
+    107s    0,0+ Iteration 14: 265 attractors remaining.
+    107s    0,0+ Iteration 15: 264 attractors remaining.
+    107s    0,0+ Iteration 16: 264 attractors remaining.
+    107s    0,0+ Iteration 17: 264 attractors remaining.
+    107s    0,0+ Iteration 18: 264 attractors remaining.
+    107s    0,0+ Iteration 19: 260 attractors remaining.
+    107s    0,0+ Iteration 20: 259 attractors remaining.
+    107s    0,0+ Iteration 21: 258 attractors remaining.
+    107s    0,0+ Iteration 22: 258 attractors remaining.
+    107s    0,0+ Iteration 23: 258 attractors remaining.
+    107s    0,0+ Iteration 24: 257 attractors remaining.
+    107s    0,0+ --- Space Colonization Complete ---
+    108s    0,7+ 
+    108s    0,7+ --- Starting Space Colonization ---
+    108s    0,0+ Iteration 0: 271 attractors remaining.
+    108s    0,0+ Iteration 1: 270 attractors remaining.
+    108s    0,0+ Iteration 2: 270 attractors remaining.
+    108s    0,0+ Iteration 3: 269 attractors remaining.
+    108s    0,0+ Iteration 4: 267 attractors remaining.
+    108s    0,0+ Iteration 5: 266 attractors remaining.
+    108s    0,0+ Iteration 6: 266 attractors remaining.
+    108s    0,0+ Iteration 7: 266 attractors remaining.
+    108s    0,0+ Iteration 8: 263 attractors remaining.
+    108s    0,0+ Iteration 9: 256 attractors remaining.
+    108s    0,0+ Iteration 10: 253 attractors remaining.
+    108s    0,0+ Iteration 11: 251 attractors remaining.
+    108s    0,0+ Iteration 12: 244 attractors remaining.
+    108s    0,0+ Iteration 13: 238 attractors remaining.
+    108s    0,0+ Iteration 14: 235 attractors remaining.
+    108s    0,0+ Iteration 15: 230 attractors remaining.
+    108s    0,0+ Iteration 16: 222 attractors remaining.
+    108s    0,0+ Iteration 17: 216 attractors remaining.
+    108s    0,0+ Iteration 18: 210 attractors remaining.
+    108s    0,0+ Iteration 19: 204 attractors remaining.
+    108s    0,0+ Iteration 20: 194 attractors remaining.
+    108s    0,0+ Iteration 21: 184 attractors remaining.
+    108s    0,0+ Iteration 22: 173 attractors remaining.
+    108s    0,0+ Iteration 23: 165 attractors remaining.
+    108s    0,0+ Iteration 24: 157 attractors remaining.
+    108s    0,0+ --- Space Colonization Complete ---
+    109s    1,2+ 
+    109s    1,2+ --- Starting Space Colonization ---
+    109s    0,0+ Iteration 0: 272 attractors remaining.
+    109s    0,0+ Iteration 1: 270 attractors remaining.
+    109s    0,0+ Iteration 2: 269 attractors remaining.
+    109s    0,0+ Iteration 3: 269 attractors remaining.
+    109s    0,0+ Iteration 4: 268 attractors remaining.
+    109s    0,0+ Iteration 5: 265 attractors remaining.
+    109s    0,0+ Iteration 6: 261 attractors remaining.
+    109s    0,0+ Iteration 7: 259 attractors remaining.
+    109s    0,0+ Iteration 8: 253 attractors remaining.
+    109s    0,0+ Iteration 9: 249 attractors remaining.
+    109s    0,0+ Iteration 10: 242 attractors remaining.
+    109s    0,0+ Iteration 11: 238 attractors remaining.
+    109s    0,0+ Iteration 12: 232 attractors remaining.
+    109s    0,0+ Iteration 13: 221 attractors remaining.
+    109s    0,0+ Iteration 14: 209 attractors remaining.
+    109s    0,0+ Iteration 15: 202 attractors remaining.
+    109s    0,0+ Iteration 16: 191 attractors remaining.
+    109s    0,0+ Iteration 17: 179 attractors remaining.
+    109s    0,0+ Iteration 18: 162 attractors remaining.
+    109s    0,0+ Iteration 19: 147 attractors remaining.
+    109s    0,0+ Iteration 20: 137 attractors remaining.
+    109s    0,0+ Iteration 21: 125 attractors remaining.
+    109s    0,0+ Iteration 22: 117 attractors remaining.
+    109s    0,0+ Iteration 23: 105 attractors remaining.
+    109s    0,0+ Iteration 24: 93 attractors remaining.
+    109s    0,0+ --- Space Colonization Complete ---
+    110s    0,5+ 
+    110s    0,5+ --- Starting Space Colonization ---
+    110s    0,0+ Iteration 0: 271 attractors remaining.
+    110s    0,0+ Iteration 1: 271 attractors remaining.
+    110s    0,0+ Iteration 2: 270 attractors remaining.
+    110s    0,0+ Iteration 3: 269 attractors remaining.
+    110s    0,0+ Iteration 4: 267 attractors remaining.
+    110s    0,0+ Iteration 5: 265 attractors remaining.
+    110s    0,0+ Iteration 6: 262 attractors remaining.
+    110s    0,0+ Iteration 7: 256 attractors remaining.
+    110s    0,0+ Iteration 8: 248 attractors remaining.
+    110s    0,0+ Iteration 9: 239 attractors remaining.
+    110s    0,0+ Iteration 10: 230 attractors remaining.
+    110s    0,0+ Iteration 11: 221 attractors remaining.
+    110s    0,0+ Iteration 12: 208 attractors remaining.
+    110s    0,0+ Iteration 13: 188 attractors remaining.
+    110s    0,0+ Iteration 14: 176 attractors remaining.
+    110s    0,0+ Iteration 15: 156 attractors remaining.
+    110s    0,0+ Iteration 16: 136 attractors remaining.
+    110s    0,0+ Iteration 17: 119 attractors remaining.
+    110s    0,0+ Iteration 18: 106 attractors remaining.
+    110s    0,0+ Iteration 19: 95 attractors remaining.
+    110s    0,0+ Iteration 20: 86 attractors remaining.
+    110s    0,0+ Iteration 21: 67 attractors remaining.
+    110s    0,0+ Iteration 22: 55 attractors remaining.
+    110s    0,0+ Iteration 23: 50 attractors remaining.
+    110s    0,0+ Iteration 24: 49 attractors remaining.
+    110s    0,0+ --- Space Colonization Complete ---
+    110s    0,5+ 
+    110s    0,5+ --- Starting Space Colonization ---
+    110s    0,0+ Iteration 0: 272 attractors remaining.
+    110s    0,0+ Iteration 1: 272 attractors remaining.
+    110s    0,0+ Iteration 2: 271 attractors remaining.
+    110s    0,0+ Iteration 3: 269 attractors remaining.
+    110s    0,0+ Iteration 4: 266 attractors remaining.
+    110s    0,0+ Iteration 5: 259 attractors remaining.
+    110s    0,0+ Iteration 6: 256 attractors remaining.
+    110s    0,0+ Iteration 7: 242 attractors remaining.
+    110s    0,0+ Iteration 8: 221 attractors remaining.
+    110s    0,0+ Iteration 9: 196 attractors remaining.
+    110s    0,0+ Iteration 10: 176 attractors remaining.
+    110s    0,0+ Iteration 11: 153 attractors remaining.
+    110s    0,0+ Iteration 12: 131 attractors remaining.
+    110s    0,0+ Iteration 13: 106 attractors remaining.
+    110s    0,0+ Iteration 14: 92 attractors remaining.
+    110s    0,0+ Iteration 15: 79 attractors remaining.
+    110s    0,0+ Iteration 16: 67 attractors remaining.
+    110s    0,0+ Iteration 17: 55 attractors remaining.
+    110s    0,0+ Iteration 18: 50 attractors remaining.
+    110s    0,0+ Iteration 19: 48 attractors remaining.
+    110s    0,0+ Iteration 20: 46 attractors remaining.
+    110s    0,0+ Iteration 21: 46 attractors remaining.
+    110s    0,0+ Iteration 22: 45 attractors remaining.
+    110s    0,0+ Iteration 23: 45 attractors remaining.
+    110s    0,0+ Iteration 24: 45 attractors remaining.
+    110s    0,1+ --- Space Colonization Complete ---
+    112s    1,4+ 
+    112s    1,4+ --- Starting Space Colonization ---
+    112s    0,0+ Iteration 0: 271 attractors remaining.
+    112s    0,0+ Iteration 1: 271 attractors remaining.
+    112s    0,0+ Iteration 2: 270 attractors remaining.
+    112s    0,0+ Iteration 3: 267 attractors remaining.
+    112s    0,0+ Iteration 4: 264 attractors remaining.
+    112s    0,0+ Iteration 5: 258 attractors remaining.
+    112s    0,0+ Iteration 6: 249 attractors remaining.
+    112s    0,0+ Iteration 7: 240 attractors remaining.
+    112s    0,0+ Iteration 8: 229 attractors remaining.
+    112s    0,0+ Iteration 9: 213 attractors remaining.
+    112s    0,0+ Iteration 10: 197 attractors remaining.
+    112s    0,0+ Iteration 11: 178 attractors remaining.
+    112s    0,0+ Iteration 12: 165 attractors remaining.
+    112s    0,0+ Iteration 13: 144 attractors remaining.
+    112s    0,0+ Iteration 14: 133 attractors remaining.
+    112s    0,0+ Iteration 15: 123 attractors remaining.
+    112s    0,0+ Iteration 16: 120 attractors remaining.
+    112s    0,0+ Iteration 17: 120 attractors remaining.
+    112s    0,0+ Iteration 18: 120 attractors remaining.
+    112s    0,0+ Iteration 19: 120 attractors remaining.
+    112s    0,0+ Iteration 20: 120 attractors remaining.
+    112s    0,0+ Iteration 21: 120 attractors remaining.
+    112s    0,0+ Iteration 22: 120 attractors remaining.
+    112s    0,0+ Iteration 23: 120 attractors remaining.
+    112s    0,0+ Iteration 24: 120 attractors remaining.
+    112s    0,2+ --- Space Colonization Complete ---
+    115s    2,7+ 
+    115s    2,7+ --- Starting Space Colonization ---
+    115s    0,0+ Iteration 0: 206 attractors remaining.
+    115s    0,0+ Iteration 1: 205 attractors remaining.
+    115s    0,0+ Iteration 2: 204 attractors remaining.
+    115s    0,0+ Iteration 3: 201 attractors remaining.
+    115s    0,0+ Iteration 4: 198 attractors remaining.
+    115s    0,0+ Iteration 5: 194 attractors remaining.
+    115s    0,0+ Iteration 6: 185 attractors remaining.
+    115s    0,0+ Iteration 7: 180 attractors remaining.
+    115s    0,0+ Iteration 8: 171 attractors remaining.
+    115s    0,0+ Iteration 9: 152 attractors remaining.
+    115s    0,0+ Iteration 10: 130 attractors remaining.
+    115s    0,0+ Iteration 11: 111 attractors remaining.
+    115s    0,0+ Iteration 12: 101 attractors remaining.
+    115s    0,0+ Iteration 13: 94 attractors remaining.
+    115s    0,0+ Iteration 14: 89 attractors remaining.
+    115s    0,0+ Iteration 15: 87 attractors remaining.
+    115s    0,0+ Iteration 16: 84 attractors remaining.
+    115s    0,0+ Iteration 17: 82 attractors remaining.
+    115s    0,0+ Iteration 18: 82 attractors remaining.
+    115s    0,0+ Iteration 19: 82 attractors remaining.
+    115s    0,0+ Iteration 20: 82 attractors remaining.
+    115s    0,0+ Iteration 21: 82 attractors remaining.
+    115s    0,0+ Iteration 22: 82 attractors remaining.
+    115s    0,0+ Iteration 23: 82 attractors remaining.
+    115s    0,0+ Iteration 24: 82 attractors remaining.
+    115s    0,1+ --- Space Colonization Complete ---
+    115s    0,3+ 
+    115s    0,3+ --- Starting Space Colonization ---
+    115s    0,0+ Iteration 0: 148 attractors remaining.
+    115s    0,0+ Iteration 1: 148 attractors remaining.
+    115s    0,0+ Iteration 2: 148 attractors remaining.
+    115s    0,0+ Iteration 3: 148 attractors remaining.
+    115s    0,0+ Iteration 4: 148 attractors remaining.
+    115s    0,0+ Iteration 5: 148 attractors remaining.
+    115s    0,0+ Iteration 6: 148 attractors remaining.
+    115s    0,0+ Iteration 7: 148 attractors remaining.
+    115s    0,0+ Iteration 8: 148 attractors remaining.
+    115s    0,0+ Iteration 9: 148 attractors remaining.
+    115s    0,0+ Iteration 10: 148 attractors remaining.
+    115s    0,0+ Iteration 11: 148 attractors remaining.
+    115s    0,0+ Iteration 12: 148 attractors remaining.
+    115s    0,0+ Iteration 13: 148 attractors remaining.
+    115s    0,0+ Iteration 14: 148 attractors remaining.
+    115s    0,0+ Iteration 15: 148 attractors remaining.
+    115s    0,0+ Iteration 16: 148 attractors remaining.
+    115s    0,0+ Iteration 17: 148 attractors remaining.
+    115s    0,0+ Iteration 18: 148 attractors remaining.
+    115s    0,0+ Iteration 19: 148 attractors remaining.
+    115s    0,0+ Iteration 20: 148 attractors remaining.
+    115s    0,0+ Iteration 21: 148 attractors remaining.
+    115s    0,0+ Iteration 22: 148 attractors remaining.
+    115s    0,0+ Iteration 23: 148 attractors remaining.
+    115s    0,0+ Iteration 24: 148 attractors remaining.
+    115s    0,0+ --- Space Colonization Complete ---
+    116s    0,6+ 
+    116s    0,6+ --- Starting Space Colonization ---
+    116s    0,0+ Iteration 0: 176 attractors remaining.
+    116s    0,0+ Iteration 1: 176 attractors remaining.
+    116s    0,0+ Iteration 2: 175 attractors remaining.
+    116s    0,0+ Iteration 3: 174 attractors remaining.
+    116s    0,0+ Iteration 4: 174 attractors remaining.
+    116s    0,0+ Iteration 5: 170 attractors remaining.
+    116s    0,0+ Iteration 6: 167 attractors remaining.
+    116s    0,0+ Iteration 7: 161 attractors remaining.
+    116s    0,0+ Iteration 8: 151 attractors remaining.
+    116s    0,0+ Iteration 9: 143 attractors remaining.
+    116s    0,0+ Iteration 10: 129 attractors remaining.
+    116s    0,0+ Iteration 11: 117 attractors remaining.
+    116s    0,0+ Iteration 12: 108 attractors remaining.
+    116s    0,0+ Iteration 13: 99 attractors remaining.
+    116s    0,0+ Iteration 14: 89 attractors remaining.
+    116s    0,0+ Iteration 15: 83 attractors remaining.
+    116s    0,0+ Iteration 16: 78 attractors remaining.
+    116s    0,0+ Iteration 17: 77 attractors remaining.
+    116s    0,0+ Iteration 18: 75 attractors remaining.
+    116s    0,0+ Iteration 19: 75 attractors remaining.
+    116s    0,0+ Iteration 20: 75 attractors remaining.
+    116s    0,0+ Iteration 21: 75 attractors remaining.
+    116s    0,0+ Iteration 22: 75 attractors remaining.
+    116s    0,0+ Iteration 23: 75 attractors remaining.
+    116s    0,0+ Iteration 24: 75 attractors remaining.
+    116s    0,1+ --- Space Colonization Complete ---
+    116s    0,3+ 
+    116s    0,3+ --- Starting Space Colonization ---
+    116s    0,0+ Iteration 0: 194 attractors remaining.
+    116s    0,0+ Iteration 1: 194 attractors remaining.
+    116s    0,0+ Iteration 2: 191 attractors remaining.
+    116s    0,0+ Iteration 3: 186 attractors remaining.
+    116s    0,0+ Iteration 4: 185 attractors remaining.
+    116s    0,0+ Iteration 5: 181 attractors remaining.
+    116s    0,0+ Iteration 6: 174 attractors remaining.
+    116s    0,0+ Iteration 7: 169 attractors remaining.
+    116s    0,0+ Iteration 8: 162 attractors remaining.
+    116s    0,0+ Iteration 9: 153 attractors remaining.
+    116s    0,0+ Iteration 10: 144 attractors remaining.
+    116s    0,0+ Iteration 11: 136 attractors remaining.
+    116s    0,0+ Iteration 12: 130 attractors remaining.
+    116s    0,0+ Iteration 13: 119 attractors remaining.
+    116s    0,0+ Iteration 14: 107 attractors remaining.
+    116s    0,0+ Iteration 15: 97 attractors remaining.
+    116s    0,0+ Iteration 16: 92 attractors remaining.
+    116s    0,0+ Iteration 17: 91 attractors remaining.
+    116s    0,0+ Iteration 18: 89 attractors remaining.
+    116s    0,0+ Iteration 19: 87 attractors remaining.
+    116s    0,0+ Iteration 20: 87 attractors remaining.
+    116s    0,0+ Iteration 21: 87 attractors remaining.
+    116s    0,0+ Iteration 22: 87 attractors remaining.
+    116s    0,0+ Iteration 23: 87 attractors remaining.
+    116s    0,0+ Iteration 24: 87 attractors remaining.
+    116s    0,1+ --- Space Colonization Complete ---
+    117s    0,4+ 
+    117s    0,4+ --- Starting Space Colonization ---
+    117s    0,0+ Iteration 0: 226 attractors remaining.
+    117s    0,0+ Iteration 1: 225 attractors remaining.
+    117s    0,0+ Iteration 2: 225 attractors remaining.
+    117s    0,0+ Iteration 3: 225 attractors remaining.
+    117s    0,0+ Iteration 4: 222 attractors remaining.
+    117s    0,0+ Iteration 5: 216 attractors remaining.
+    117s    0,0+ Iteration 6: 205 attractors remaining.
+    117s    0,0+ Iteration 7: 196 attractors remaining.
+    117s    0,0+ Iteration 8: 177 attractors remaining.
+    117s    0,0+ Iteration 9: 164 attractors remaining.
+    117s    0,0+ Iteration 10: 149 attractors remaining.
+    117s    0,0+ Iteration 11: 133 attractors remaining.
+    117s    0,0+ Iteration 12: 114 attractors remaining.
+    117s    0,0+ Iteration 13: 104 attractors remaining.
+    117s    0,0+ Iteration 14: 95 attractors remaining.
+    117s    0,0+ Iteration 15: 91 attractors remaining.
+    117s    0,0+ Iteration 16: 91 attractors remaining.
+    117s    0,0+ Iteration 17: 91 attractors remaining.
+    117s    0,0+ Iteration 18: 91 attractors remaining.
+    117s    0,0+ Iteration 19: 91 attractors remaining.
+    117s    0,0+ Iteration 20: 91 attractors remaining.
+    117s    0,0+ Iteration 21: 91 attractors remaining.
+    117s    0,0+ Iteration 22: 91 attractors remaining.
+    117s    0,0+ Iteration 23: 91 attractors remaining.
+    117s    0,0+ Iteration 24: 91 attractors remaining.
+    117s    0,2+ --- Space Colonization Complete ---
+    118s    1,1+ 
+    118s    1,1+ --- Starting Space Colonization ---
+    118s    0,0+ Iteration 0: 227 attractors remaining.
+    118s    0,0+ Iteration 1: 226 attractors remaining.
+    118s    0,0+ Iteration 2: 224 attractors remaining.
+    118s    0,0+ Iteration 3: 223 attractors remaining.
+    118s    0,0+ Iteration 4: 220 attractors remaining.
+    118s    0,0+ Iteration 5: 214 attractors remaining.
+    118s    0,0+ Iteration 6: 211 attractors remaining.
+    118s    0,0+ Iteration 7: 205 attractors remaining.
+    118s    0,0+ Iteration 8: 192 attractors remaining.
+    118s    0,0+ Iteration 9: 173 attractors remaining.
+    118s    0,0+ Iteration 10: 151 attractors remaining.
+    118s    0,0+ Iteration 11: 133 attractors remaining.
+    118s    0,0+ Iteration 12: 109 attractors remaining.
+    118s    0,0+ Iteration 13: 97 attractors remaining.
+    118s    0,0+ Iteration 14: 96 attractors remaining.
+    118s    0,0+ Iteration 15: 96 attractors remaining.
+    118s    0,0+ Iteration 16: 95 attractors remaining.
+    118s    0,0+ Iteration 17: 95 attractors remaining.
+    118s    0,0+ Iteration 18: 95 attractors remaining.
+    118s    0,0+ Iteration 19: 95 attractors remaining.
+    118s    0,0+ Iteration 20: 95 attractors remaining.
+    118s    0,0+ Iteration 21: 95 attractors remaining.
+    118s    0,0+ Iteration 22: 95 attractors remaining.
+    118s    0,0+ Iteration 23: 95 attractors remaining.
+    118s    0,0+ Iteration 24: 95 attractors remaining.
+    118s    0,2+ --- Space Colonization Complete ---
+    119s    0,4+ 
+    119s    0,4+ --- Starting Space Colonization ---
+    119s    0,0+ Iteration 0: 228 attractors remaining.
+    119s    0,0+ Iteration 1: 226 attractors remaining.
+    119s    0,0+ Iteration 2: 224 attractors remaining.
+    119s    0,0+ Iteration 3: 222 attractors remaining.
+    119s    0,0+ Iteration 4: 218 attractors remaining.
+    119s    0,0+ Iteration 5: 210 attractors remaining.
+    119s    0,0+ Iteration 6: 195 attractors remaining.
+    119s    0,0+ Iteration 7: 172 attractors remaining.
+    119s    0,0+ Iteration 8: 144 attractors remaining.
+    119s    0,0+ Iteration 9: 123 attractors remaining.
+    119s    0,0+ Iteration 10: 104 attractors remaining.
+    119s    0,0+ Iteration 11: 95 attractors remaining.
+    119s    0,0+ Iteration 12: 88 attractors remaining.
+    119s    0,0+ Iteration 13: 85 attractors remaining.
+    119s    0,0+ Iteration 14: 85 attractors remaining.
+    119s    0,0+ Iteration 15: 85 attractors remaining.
+    119s    0,0+ Iteration 16: 85 attractors remaining.
+    119s    0,0+ Iteration 17: 85 attractors remaining.
+    119s    0,0+ Iteration 18: 85 attractors remaining.
+    119s    0,0+ Iteration 19: 85 attractors remaining.
+    119s    0,0+ Iteration 20: 85 attractors remaining.
+    119s    0,0+ Iteration 21: 85 attractors remaining.
+    119s    0,0+ Iteration 22: 85 attractors remaining.
+    119s    0,0+ Iteration 23: 85 attractors remaining.
+    119s    0,0+ Iteration 24: 85 attractors remaining.
+    119s    0,2+ --- Space Colonization Complete ---
+    119s    0,3+ 
+    119s    0,3+ --- Starting Space Colonization ---
+    119s    0,0+ Iteration 0: 227 attractors remaining.
+    119s    0,0+ Iteration 1: 226 attractors remaining.
+    119s    0,0+ Iteration 2: 225 attractors remaining.
+    119s    0,0+ Iteration 3: 225 attractors remaining.
+    119s    0,0+ Iteration 4: 218 attractors remaining.
+    119s    0,0+ Iteration 5: 201 attractors remaining.
+    119s    0,0+ Iteration 6: 182 attractors remaining.
+    119s    0,0+ Iteration 7: 151 attractors remaining.
+    119s    0,0+ Iteration 8: 122 attractors remaining.
+    119s    0,0+ Iteration 9: 109 attractors remaining.
+    119s    0,0+ Iteration 10: 93 attractors remaining.
+    119s    0,0+ Iteration 11: 85 attractors remaining.
+    119s    0,0+ Iteration 12: 82 attractors remaining.
+    119s    0,0+ Iteration 13: 82 attractors remaining.
+    119s    0,0+ Iteration 14: 82 attractors remaining.
+    119s    0,0+ Iteration 15: 82 attractors remaining.
+    119s    0,0+ Iteration 16: 82 attractors remaining.
+    119s    0,0+ Iteration 17: 82 attractors remaining.
+    119s    0,0+ Iteration 18: 82 attractors remaining.
+    119s    0,0+ Iteration 19: 82 attractors remaining.
+    119s    0,0+ Iteration 20: 82 attractors remaining.
+    119s    0,0+ Iteration 21: 82 attractors remaining.
+    119s    0,0+ Iteration 22: 82 attractors remaining.
+    119s    0,0+ Iteration 23: 82 attractors remaining.
+    119s    0,0+ Iteration 24: 82 attractors remaining.
+    119s    0,2+ --- Space Colonization Complete ---
+    120s    0,4+ 
+    120s    0,4+ --- Starting Space Colonization ---
+    120s    0,0+ Iteration 0: 228 attractors remaining.
+    120s    0,0+ Iteration 1: 228 attractors remaining.
+    120s    0,0+ Iteration 2: 227 attractors remaining.
+    120s    0,0+ Iteration 3: 220 attractors remaining.
+    120s    0,0+ Iteration 4: 213 attractors remaining.
+    120s    0,0+ Iteration 5: 195 attractors remaining.
+    120s    0,0+ Iteration 6: 169 attractors remaining.
+    120s    0,0+ Iteration 7: 145 attractors remaining.
+    120s    0,0+ Iteration 8: 120 attractors remaining.
+    120s    0,0+ Iteration 9: 87 attractors remaining.
+    120s    0,0+ Iteration 10: 74 attractors remaining.
+    120s    0,0+ Iteration 11: 74 attractors remaining.
+    120s    0,0+ Iteration 12: 74 attractors remaining.
+    120s    0,0+ Iteration 13: 74 attractors remaining.
+    120s    0,0+ Iteration 14: 74 attractors remaining.
+    120s    0,0+ Iteration 15: 74 attractors remaining.
+    120s    0,0+ Iteration 16: 74 attractors remaining.
+    120s    0,0+ Iteration 17: 74 attractors remaining.
+    120s    0,0+ Iteration 18: 74 attractors remaining.
+    120s    0,0+ Iteration 19: 74 attractors remaining.
+    120s    0,0+ Iteration 20: 74 attractors remaining.
+    120s    0,0+ Iteration 21: 74 attractors remaining.
+    120s    0,0+ Iteration 22: 74 attractors remaining.
+    120s    0,0+ Iteration 23: 74 attractors remaining.
+    120s    0,0+ Iteration 24: 74 attractors remaining.
+    120s    0,1+ --- Space Colonization Complete ---
+    120s    0,2+ 
+    120s    0,2+ --- Starting Space Colonization ---
+    120s    0,0+ Iteration 0: 228 attractors remaining.
+    120s    0,0+ Iteration 1: 228 attractors remaining.
+    120s    0,0+ Iteration 2: 227 attractors remaining.
+    120s    0,0+ Iteration 3: 224 attractors remaining.
+    120s    0,0+ Iteration 4: 215 attractors remaining.
+    120s    0,0+ Iteration 5: 204 attractors remaining.
+    120s    0,0+ Iteration 6: 193 attractors remaining.
+    120s    0,0+ Iteration 7: 178 attractors remaining.
+    120s    0,0+ Iteration 8: 150 attractors remaining.
+    120s    0,0+ Iteration 9: 117 attractors remaining.
+    120s    0,0+ Iteration 10: 103 attractors remaining.
+    120s    0,0+ Iteration 11: 96 attractors remaining.
+    120s    0,0+ Iteration 12: 95 attractors remaining.
+    120s    0,0+ Iteration 13: 95 attractors remaining.
+    120s    0,0+ Iteration 14: 95 attractors remaining.
+    120s    0,0+ Iteration 15: 95 attractors remaining.
+    120s    0,0+ Iteration 16: 95 attractors remaining.
+    120s    0,0+ Iteration 17: 95 attractors remaining.
+    120s    0,0+ Iteration 18: 95 attractors remaining.
+    120s    0,0+ Iteration 19: 95 attractors remaining.
+    120s    0,0+ Iteration 20: 95 attractors remaining.
+    120s    0,0+ Iteration 21: 95 attractors remaining.
+    120s    0,0+ Iteration 22: 95 attractors remaining.
+    120s    0,0+ Iteration 23: 95 attractors remaining.
+    120s    0,0+ Iteration 24: 95 attractors remaining.
+    120s    0,2+ --- Space Colonization Complete ---
+    121s    0,6+ 
+    121s    0,6+ --- Starting Space Colonization ---
+    121s    0,0+ Iteration 0: 227 attractors remaining.
+    121s    0,0+ Iteration 1: 226 attractors remaining.
+    121s    0,0+ Iteration 2: 225 attractors remaining.
+    121s    0,0+ Iteration 3: 224 attractors remaining.
+    121s    0,0+ Iteration 4: 220 attractors remaining.
+    121s    0,0+ Iteration 5: 216 attractors remaining.
+    121s    0,0+ Iteration 6: 213 attractors remaining.
+    121s    0,0+ Iteration 7: 208 attractors remaining.
+    121s    0,0+ Iteration 8: 202 attractors remaining.
+    121s    0,0+ Iteration 9: 196 attractors remaining.
+    121s    0,0+ Iteration 10: 184 attractors remaining.
+    121s    0,0+ Iteration 11: 169 attractors remaining.
+    121s    0,0+ Iteration 12: 151 attractors remaining.
+    121s    0,0+ Iteration 13: 127 attractors remaining.
+    121s    0,0+ Iteration 14: 117 attractors remaining.
+    121s    0,0+ Iteration 15: 105 attractors remaining.
+    121s    0,0+ Iteration 16: 97 attractors remaining.
+    121s    0,0+ Iteration 17: 96 attractors remaining.
+    121s    0,0+ Iteration 18: 96 attractors remaining.
+    121s    0,0+ Iteration 19: 96 attractors remaining.
+    121s    0,0+ Iteration 20: 96 attractors remaining.
+    121s    0,0+ Iteration 21: 96 attractors remaining.
+    121s    0,0+ Iteration 22: 96 attractors remaining.
+    121s    0,0+ Iteration 23: 96 attractors remaining.
+    121s    0,0+ Iteration 24: 96 attractors remaining.
+    121s    0,1+ --- Space Colonization Complete ---
+    122s    0,9+ 
+    122s    0,9+ --- Starting Space Colonization ---
+    122s    0,0+ Iteration 0: 228 attractors remaining.
+    122s    0,0+ Iteration 1: 225 attractors remaining.
+    122s    0,0+ Iteration 2: 225 attractors remaining.
+    122s    0,0+ Iteration 3: 224 attractors remaining.
+    122s    0,0+ Iteration 4: 223 attractors remaining.
+    122s    0,0+ Iteration 5: 217 attractors remaining.
+    122s    0,0+ Iteration 6: 214 attractors remaining.
+    122s    0,0+ Iteration 7: 212 attractors remaining.
+    122s    0,0+ Iteration 8: 209 attractors remaining.
+    122s    0,0+ Iteration 9: 202 attractors remaining.
+    122s    0,0+ Iteration 10: 193 attractors remaining.
+    122s    0,0+ Iteration 11: 189 attractors remaining.
+    122s    0,0+ Iteration 12: 180 attractors remaining.
+    122s    0,0+ Iteration 13: 177 attractors remaining.
+    122s    0,0+ Iteration 14: 174 attractors remaining.
+    122s    0,0+ Iteration 15: 165 attractors remaining.
+    122s    0,0+ Iteration 16: 157 attractors remaining.
+    122s    0,0+ Iteration 17: 143 attractors remaining.
+    122s    0,0+ Iteration 18: 133 attractors remaining.
+    122s    0,0+ Iteration 19: 123 attractors remaining.
+    122s    0,0+ Iteration 20: 117 attractors remaining.
+    122s    0,0+ Iteration 21: 110 attractors remaining.
+    122s    0,0+ Iteration 22: 110 attractors remaining.
+    122s    0,0+ Iteration 23: 110 attractors remaining.
+    122s    0,0+ Iteration 24: 108 attractors remaining.
+    122s    0,1+ --- Space Colonization Complete ---
+    122s    0,4+ 
+    122s    0,4+ --- Starting Space Colonization ---
+    122s    0,0+ Iteration 0: 228 attractors remaining.
+    122s    0,0+ Iteration 1: 228 attractors remaining.
+    122s    0,0+ Iteration 2: 227 attractors remaining.
+    122s    0,0+ Iteration 3: 227 attractors remaining.
+    122s    0,0+ Iteration 4: 226 attractors remaining.
+    122s    0,0+ Iteration 5: 225 attractors remaining.
+    122s    0,0+ Iteration 6: 222 attractors remaining.
+    122s    0,0+ Iteration 7: 217 attractors remaining.
+    122s    0,0+ Iteration 8: 213 attractors remaining.
+    122s    0,0+ Iteration 9: 211 attractors remaining.
+    122s    0,0+ Iteration 10: 206 attractors remaining.
+    122s    0,0+ Iteration 11: 202 attractors remaining.
+    123s    0,0+ Iteration 12: 197 attractors remaining.
+    123s    0,0+ Iteration 13: 192 attractors remaining.
+    123s    0,0+ Iteration 14: 185 attractors remaining.
+    123s    0,0+ Iteration 15: 171 attractors remaining.
+    123s    0,0+ Iteration 16: 158 attractors remaining.
+    123s    0,0+ Iteration 17: 144 attractors remaining.
+    123s    0,0+ Iteration 18: 138 attractors remaining.
+    123s    0,0+ Iteration 19: 132 attractors remaining.
+    123s    0,0+ Iteration 20: 129 attractors remaining.
+    123s    0,0+ Iteration 21: 127 attractors remaining.
+    123s    0,0+ Iteration 22: 125 attractors remaining.
+    123s    0,0+ Iteration 23: 125 attractors remaining.
+    123s    0,0+ Iteration 24: 121 attractors remaining.
+    123s    0,1+ --- Space Colonization Complete ---
+    123s    0,8+ 
+    123s    0,8+ --- Starting Space Colonization ---
+    123s    0,0+ Iteration 0: 228 attractors remaining.
+    123s    0,0+ Iteration 1: 228 attractors remaining.
+    123s    0,0+ Iteration 2: 228 attractors remaining.
+    123s    0,0+ Iteration 3: 228 attractors remaining.
+    123s    0,0+ Iteration 4: 225 attractors remaining.
+    123s    0,0+ Iteration 5: 223 attractors remaining.
+    123s    0,0+ Iteration 6: 220 attractors remaining.
+    123s    0,0+ Iteration 7: 220 attractors remaining.
+    123s    0,0+ Iteration 8: 219 attractors remaining.
+    123s    0,0+ Iteration 9: 217 attractors remaining.
+    123s    0,0+ Iteration 10: 216 attractors remaining.
+    123s    0,0+ Iteration 11: 215 attractors remaining.
+    123s    0,0+ Iteration 12: 212 attractors remaining.
+    123s    0,0+ Iteration 13: 210 attractors remaining.
+    123s    0,0+ Iteration 14: 206 attractors remaining.
+    123s    0,0+ Iteration 15: 198 attractors remaining.
+    123s    0,0+ Iteration 16: 193 attractors remaining.
+    123s    0,0+ Iteration 17: 188 attractors remaining.
+    123s    0,0+ Iteration 18: 185 attractors remaining.
+    123s    0,0+ Iteration 19: 183 attractors remaining.
+    123s    0,0+ Iteration 20: 179 attractors remaining.
+    123s    0,0+ Iteration 21: 177 attractors remaining.
+    123s    0,0+ Iteration 22: 177 attractors remaining.
+    123s    0,0+ Iteration 23: 177 attractors remaining.
+    123s    0,0+ Iteration 24: 177 attractors remaining.
+    124s    0,1+ --- Space Colonization Complete ---
+    128s    4,2+ 
+    128s    4,2+ --- Starting Space Colonization ---
+    128s    0,0+ Iteration 0: 227 attractors remaining.
+    128s    0,0+ Iteration 1: 227 attractors remaining.
+    128s    0,0+ Iteration 2: 227 attractors remaining.
+    128s    0,0+ Iteration 3: 227 attractors remaining.
+    128s    0,0+ Iteration 4: 227 attractors remaining.
+    128s    0,0+ Iteration 5: 227 attractors remaining.
+    128s    0,0+ Iteration 6: 227 attractors remaining.
+    128s    0,0+ Iteration 7: 227 attractors remaining.
+    128s    0,0+ Iteration 8: 227 attractors remaining.
+    128s    0,0+ Iteration 9: 227 attractors remaining.
+    128s    0,0+ Iteration 10: 227 attractors remaining.
+    128s    0,0+ Iteration 11: 227 attractors remaining.
+    128s    0,0+ Iteration 12: 227 attractors remaining.
+    128s    0,0+ Iteration 13: 227 attractors remaining.
+    128s    0,0+ Iteration 14: 227 attractors remaining.
+    128s    0,0+ Iteration 15: 227 attractors remaining.
+    128s    0,0+ Iteration 16: 227 attractors remaining.
+    128s    0,0+ Iteration 17: 227 attractors remaining.
+    128s    0,0+ Iteration 18: 227 attractors remaining.
+    128s    0,0+ Iteration 19: 227 attractors remaining.
+    128s    0,0+ Iteration 20: 227 attractors remaining.
+    128s    0,0+ Iteration 21: 227 attractors remaining.
+    128s    0,0+ Iteration 22: 227 attractors remaining.
+    128s    0,0+ Iteration 23: 227 attractors remaining.
+    128s    0,0+ Iteration 24: 227 attractors remaining.
+    128s    0,0+ --- Space Colonization Complete ---
+    128s    0,6+ 
+    128s    0,6+ --- Starting Space Colonization ---
+    128s    0,0+ Iteration 0: 228 attractors remaining.
+    128s    0,0+ Iteration 1: 226 attractors remaining.
+    128s    0,0+ Iteration 2: 226 attractors remaining.
+    128s    0,0+ Iteration 3: 226 attractors remaining.
+    128s    0,0+ Iteration 4: 222 attractors remaining.
+    128s    0,0+ Iteration 5: 220 attractors remaining.
+    128s    0,0+ Iteration 6: 219 attractors remaining.
+    128s    0,0+ Iteration 7: 218 attractors remaining.
+    128s    0,0+ Iteration 8: 218 attractors remaining.
+    128s    0,0+ Iteration 9: 216 attractors remaining.
+    128s    0,0+ Iteration 10: 216 attractors remaining.
+    128s    0,0+ Iteration 11: 216 attractors remaining.
+    128s    0,0+ Iteration 12: 216 attractors remaining.
+    128s    0,0+ Iteration 13: 215 attractors remaining.
+    128s    0,0+ Iteration 14: 215 attractors remaining.
+    128s    0,0+ Iteration 15: 215 attractors remaining.
+    128s    0,0+ Iteration 16: 215 attractors remaining.
+    128s    0,0+ Iteration 17: 215 attractors remaining.
+    128s    0,0+ Iteration 18: 215 attractors remaining.
+    128s    0,0+ Iteration 19: 215 attractors remaining.
+    128s    0,0+ Iteration 20: 215 attractors remaining.
+    128s    0,0+ Iteration 21: 215 attractors remaining.
+    128s    0,0+ Iteration 22: 215 attractors remaining.
+    128s    0,0+ Iteration 23: 215 attractors remaining.
+    128s    0,0+ Iteration 24: 215 attractors remaining.
+    128s    0,0+ --- Space Colonization Complete ---
+    129s    0,7+ 
+    129s    0,7+ --- Starting Space Colonization ---
+    129s    0,0+ Iteration 0: 228 attractors remaining.
+    129s    0,0+ Iteration 1: 227 attractors remaining.
+    129s    0,0+ Iteration 2: 227 attractors remaining.
+    129s    0,0+ Iteration 3: 227 attractors remaining.
+    129s    0,0+ Iteration 4: 227 attractors remaining.
+    129s    0,0+ Iteration 5: 227 attractors remaining.
+    129s    0,0+ Iteration 6: 227 attractors remaining.
+    129s    0,0+ Iteration 7: 227 attractors remaining.
+    129s    0,0+ Iteration 8: 227 attractors remaining.
+    129s    0,0+ Iteration 9: 227 attractors remaining.
+    129s    0,0+ Iteration 10: 227 attractors remaining.
+    129s    0,0+ Iteration 11: 227 attractors remaining.
+    129s    0,0+ Iteration 12: 227 attractors remaining.
+    129s    0,0+ Iteration 13: 227 attractors remaining.
+    129s    0,0+ Iteration 14: 227 attractors remaining.
+    129s    0,0+ Iteration 15: 227 attractors remaining.
+    129s    0,0+ Iteration 16: 227 attractors remaining.
+    129s    0,0+ Iteration 17: 227 attractors remaining.
+    129s    0,0+ Iteration 18: 227 attractors remaining.
+    129s    0,0+ Iteration 19: 227 attractors remaining.
+    129s    0,0+ Iteration 20: 227 attractors remaining.
+    129s    0,0+ Iteration 21: 227 attractors remaining.
+    129s    0,0+ Iteration 22: 227 attractors remaining.
+    129s    0,0+ Iteration 23: 227 attractors remaining.
+    129s    0,0+ Iteration 24: 227 attractors remaining.
+    129s    0,0+ --- Space Colonization Complete ---
+    130s    0,8+ 
+    130s    0,8+ --- Starting Space Colonization ---
+    130s    0,0+ Iteration 0: 228 attractors remaining.
+    130s    0,0+ Iteration 1: 227 attractors remaining.
+    130s    0,0+ Iteration 2: 226 attractors remaining.
+    130s    0,0+ Iteration 3: 226 attractors remaining.
+    130s    0,0+ Iteration 4: 226 attractors remaining.
+    130s    0,0+ Iteration 5: 226 attractors remaining.
+    130s    0,0+ Iteration 6: 225 attractors remaining.
+    130s    0,0+ Iteration 7: 224 attractors remaining.
+    130s    0,0+ Iteration 8: 224 attractors remaining.
+    130s    0,0+ Iteration 9: 222 attractors remaining.
+    130s    0,0+ Iteration 10: 222 attractors remaining.
+    130s    0,0+ Iteration 11: 221 attractors remaining.
+    130s    0,0+ Iteration 12: 221 attractors remaining.
+    130s    0,0+ Iteration 13: 221 attractors remaining.
+    130s    0,0+ Iteration 14: 220 attractors remaining.
+    130s    0,0+ Iteration 15: 220 attractors remaining.
+    130s    0,0+ Iteration 16: 217 attractors remaining.
+    130s    0,0+ Iteration 17: 217 attractors remaining.
+    130s    0,0+ Iteration 18: 215 attractors remaining.
+    130s    0,0+ Iteration 19: 215 attractors remaining.
+    130s    0,0+ Iteration 20: 214 attractors remaining.
+    130s    0,0+ Iteration 21: 212 attractors remaining.
+    130s    0,0+ Iteration 22: 209 attractors remaining.
+    130s    0,0+ Iteration 23: 208 attractors remaining.
+    130s    0,0+ Iteration 24: 207 attractors remaining.
+    130s    0,0+ --- Space Colonization Complete ---
+    130s    0,4+ 
+    130s    0,4+ --- Starting Space Colonization ---
+    130s    0,0+ Iteration 0: 228 attractors remaining.
+    130s    0,0+ Iteration 1: 228 attractors remaining.
+    130s    0,0+ Iteration 2: 228 attractors remaining.
+    130s    0,0+ Iteration 3: 227 attractors remaining.
+    130s    0,0+ Iteration 4: 227 attractors remaining.
+    130s    0,0+ Iteration 5: 227 attractors remaining.
+    130s    0,0+ Iteration 6: 227 attractors remaining.
+    130s    0,0+ Iteration 7: 227 attractors remaining.
+    130s    0,0+ Iteration 8: 227 attractors remaining.
+    130s    0,0+ Iteration 9: 227 attractors remaining.
+    130s    0,0+ Iteration 10: 227 attractors remaining.
+    130s    0,0+ Iteration 11: 227 attractors remaining.
+    130s    0,0+ Iteration 12: 227 attractors remaining.
+    130s    0,0+ Iteration 13: 227 attractors remaining.
+    130s    0,0+ Iteration 14: 227 attractors remaining.
+    130s    0,0+ Iteration 15: 227 attractors remaining.
+    130s    0,0+ Iteration 16: 227 attractors remaining.
+    130s    0,0+ Iteration 17: 227 attractors remaining.
+    130s    0,0+ Iteration 18: 227 attractors remaining.
+    130s    0,0+ Iteration 19: 227 attractors remaining.
+    130s    0,0+ Iteration 20: 227 attractors remaining.
+    130s    0,0+ Iteration 21: 227 attractors remaining.
+    130s    0,0+ Iteration 22: 227 attractors remaining.
+    130s    0,0+ Iteration 23: 227 attractors remaining.
+    130s    0,0+ Iteration 24: 227 attractors remaining.
+    130s    0,0+ --- Space Colonization Complete ---
+    131s    0,6+ 
+    131s    0,6+ --- Starting Space Colonization ---
+    131s    0,0+ Iteration 0: 227 attractors remaining.
+    131s    0,0+ Iteration 1: 225 attractors remaining.
+    131s    0,0+ Iteration 2: 225 attractors remaining.
+    131s    0,0+ Iteration 3: 224 attractors remaining.
+    131s    0,0+ Iteration 4: 224 attractors remaining.
+    131s    0,0+ Iteration 5: 224 attractors remaining.
+    131s    0,0+ Iteration 6: 224 attractors remaining.
+    131s    0,0+ Iteration 7: 224 attractors remaining.
+    131s    0,0+ Iteration 8: 224 attractors remaining.
+    131s    0,0+ Iteration 9: 224 attractors remaining.
+    131s    0,0+ Iteration 10: 224 attractors remaining.
+    131s    0,0+ Iteration 11: 224 attractors remaining.
+    131s    0,0+ Iteration 12: 224 attractors remaining.
+    131s    0,0+ Iteration 13: 224 attractors remaining.
+    131s    0,0+ Iteration 14: 224 attractors remaining.
+    131s    0,0+ Iteration 15: 224 attractors remaining.
+    131s    0,0+ Iteration 16: 224 attractors remaining.
+    131s    0,0+ Iteration 17: 224 attractors remaining.
+    131s    0,0+ Iteration 18: 224 attractors remaining.
+    131s    0,0+ Iteration 19: 224 attractors remaining.
+    131s    0,0+ Iteration 20: 224 attractors remaining.
+    131s    0,0+ Iteration 21: 224 attractors remaining.
+    131s    0,0+ Iteration 22: 224 attractors remaining.
+    131s    0,0+ Iteration 23: 224 attractors remaining.
+    131s    0,0+ Iteration 24: 224 attractors remaining.
+    131s    0,0+ --- Space Colonization Complete ---
+    132s    1,6+ 
+    132s    1,6+ --- Starting Space Colonization ---
+    132s    0,0+ Iteration 0: 228 attractors remaining.
+    132s    0,0+ Iteration 1: 228 attractors remaining.
+    132s    0,0+ Iteration 2: 228 attractors remaining.
+    132s    0,0+ Iteration 3: 228 attractors remaining.
+    132s    0,0+ Iteration 4: 228 attractors remaining.
+    132s    0,0+ Iteration 5: 228 attractors remaining.
+    132s    0,0+ Iteration 6: 228 attractors remaining.
+    132s    0,0+ Iteration 7: 228 attractors remaining.
+    132s    0,0+ Iteration 8: 228 attractors remaining.
+    132s    0,0+ Iteration 9: 228 attractors remaining.
+    132s    0,0+ Iteration 10: 228 attractors remaining.
+    132s    0,0+ Iteration 11: 228 attractors remaining.
+    132s    0,0+ Iteration 12: 228 attractors remaining.
+    132s    0,0+ Iteration 13: 228 attractors remaining.
+    132s    0,0+ Iteration 14: 228 attractors remaining.
+    132s    0,0+ Iteration 15: 228 attractors remaining.
+    132s    0,0+ Iteration 16: 228 attractors remaining.
+    132s    0,0+ Iteration 17: 228 attractors remaining.
+    132s    0,0+ Iteration 18: 228 attractors remaining.
+    132s    0,0+ Iteration 19: 228 attractors remaining.
+    132s    0,0+ Iteration 20: 228 attractors remaining.
+    132s    0,0+ Iteration 21: 228 attractors remaining.
+    132s    0,0+ Iteration 22: 228 attractors remaining.
+    132s    0,0+ Iteration 23: 228 attractors remaining.
+    132s    0,0+ Iteration 24: 228 attractors remaining.
+    132s    0,0+ --- Space Colonization Complete ---
+    133s    0,6+ 
+    133s    0,6+ --- Starting Space Colonization ---
+    133s    0,0+ Iteration 0: 227 attractors remaining.
+    133s    0,0+ Iteration 1: 227 attractors remaining.
+    133s    0,0+ Iteration 2: 227 attractors remaining.
+    133s    0,0+ Iteration 3: 227 attractors remaining.
+    133s    0,0+ Iteration 4: 227 attractors remaining.
+    133s    0,0+ Iteration 5: 227 attractors remaining.
+    133s    0,0+ Iteration 6: 227 attractors remaining.
+    133s    0,0+ Iteration 7: 227 attractors remaining.
+    133s    0,0+ Iteration 8: 227 attractors remaining.
+    133s    0,0+ Iteration 9: 227 attractors remaining.
+    133s    0,0+ Iteration 10: 227 attractors remaining.
+    133s    0,0+ Iteration 11: 227 attractors remaining.
+    133s    0,0+ Iteration 12: 227 attractors remaining.
+    133s    0,0+ Iteration 13: 227 attractors remaining.
+    133s    0,0+ Iteration 14: 227 attractors remaining.
+    133s    0,0+ Iteration 15: 227 attractors remaining.
+    133s    0,0+ Iteration 16: 227 attractors remaining.
+    133s    0,0+ Iteration 17: 227 attractors remaining.
+    133s    0,0+ Iteration 18: 227 attractors remaining.
+    133s    0,0+ Iteration 19: 227 attractors remaining.
+    133s    0,0+ Iteration 20: 227 attractors remaining.
+    133s    0,0+ Iteration 21: 227 attractors remaining.
+    133s    0,0+ Iteration 22: 227 attractors remaining.
+    133s    0,0+ Iteration 23: 227 attractors remaining.
+    133s    0,0+ Iteration 24: 227 attractors remaining.
+    133s    0,0+ --- Space Colonization Complete ---
+    133s    0,4+ 
+    133s    0,4+ --- Starting Space Colonization ---
+    133s    0,0+ Iteration 0: 228 attractors remaining.
+    133s    0,0+ Iteration 1: 228 attractors remaining.
+    133s    0,0+ Iteration 2: 228 attractors remaining.
+    133s    0,0+ Iteration 3: 228 attractors remaining.
+    133s    0,0+ Iteration 4: 228 attractors remaining.
+    133s    0,0+ Iteration 5: 228 attractors remaining.
+    133s    0,0+ Iteration 6: 228 attractors remaining.
+    133s    0,0+ Iteration 7: 228 attractors remaining.
+    133s    0,0+ Iteration 8: 228 attractors remaining.
+    133s    0,0+ Iteration 9: 228 attractors remaining.
+    133s    0,0+ Iteration 10: 228 attractors remaining.
+    133s    0,0+ Iteration 11: 228 attractors remaining.
+    133s    0,0+ Iteration 12: 228 attractors remaining.
+    133s    0,0+ Iteration 13: 228 attractors remaining.
+    133s    0,0+ Iteration 14: 228 attractors remaining.
+    133s    0,0+ Iteration 15: 228 attractors remaining.
+    133s    0,0+ Iteration 16: 228 attractors remaining.
+    133s    0,0+ Iteration 17: 228 attractors remaining.
+    133s    0,0+ Iteration 18: 228 attractors remaining.
+    133s    0,0+ Iteration 19: 228 attractors remaining.
+    133s    0,0+ Iteration 20: 228 attractors remaining.
+    133s    0,0+ Iteration 21: 228 attractors remaining.
+    133s    0,0+ Iteration 22: 228 attractors remaining.
+    133s    0,0+ Iteration 23: 228 attractors remaining.
+    133s    0,0+ Iteration 24: 228 attractors remaining.
+    133s    0,0+ --- Space Colonization Complete ---
+    134s    0,3+ 
+    134s    0,3+ --- Starting Space Colonization ---
+    134s    0,0+ Iteration 0: 228 attractors remaining.
+    134s    0,0+ Iteration 1: 228 attractors remaining.
+    134s    0,0+ Iteration 2: 228 attractors remaining.
+    134s    0,0+ Iteration 3: 228 attractors remaining.
+    134s    0,0+ Iteration 4: 228 attractors remaining.
+    134s    0,0+ Iteration 5: 228 attractors remaining.
+    134s    0,0+ Iteration 6: 228 attractors remaining.
+    134s    0,0+ Iteration 7: 228 attractors remaining.
+    134s    0,0+ Iteration 8: 228 attractors remaining.
+    134s    0,0+ Iteration 9: 228 attractors remaining.
+    134s    0,0+ Iteration 10: 228 attractors remaining.
+    134s    0,0+ Iteration 11: 228 attractors remaining.
+    134s    0,0+ Iteration 12: 228 attractors remaining.
+    134s    0,0+ Iteration 13: 228 attractors remaining.
+    134s    0,0+ Iteration 14: 228 attractors remaining.
+    134s    0,0+ Iteration 15: 228 attractors remaining.
+    134s    0,0+ Iteration 16: 228 attractors remaining.
+    134s    0,0+ Iteration 17: 228 attractors remaining.
+    134s    0,0+ Iteration 18: 228 attractors remaining.
+    134s    0,0+ Iteration 19: 228 attractors remaining.
+    134s    0,0+ Iteration 20: 228 attractors remaining.
+    134s    0,0+ Iteration 21: 228 attractors remaining.
+    134s    0,0+ Iteration 22: 228 attractors remaining.
+    134s    0,0+ Iteration 23: 228 attractors remaining.
+    134s    0,0+ Iteration 24: 228 attractors remaining.
+    134s    0,0+ --- Space Colonization Complete ---
+    134s    0,8+ 
+    134s    0,8+ --- Starting Space Colonization ---
+    134s    0,0+ Iteration 0: 228 attractors remaining.
+    134s    0,0+ Iteration 1: 228 attractors remaining.
+    134s    0,0+ Iteration 2: 228 attractors remaining.
+    134s    0,0+ Iteration 3: 228 attractors remaining.
+    134s    0,0+ Iteration 4: 228 attractors remaining.
+    134s    0,0+ Iteration 5: 228 attractors remaining.
+    134s    0,0+ Iteration 6: 228 attractors remaining.
+    134s    0,0+ Iteration 7: 228 attractors remaining.
+    134s    0,0+ Iteration 8: 228 attractors remaining.
+    134s    0,0+ Iteration 9: 228 attractors remaining.
+    134s    0,0+ Iteration 10: 228 attractors remaining.
+    134s    0,0+ Iteration 11: 228 attractors remaining.
+    134s    0,0+ Iteration 12: 228 attractors remaining.
+    134s    0,0+ Iteration 13: 228 attractors remaining.
+    134s    0,0+ Iteration 14: 228 attractors remaining.
+    134s    0,0+ Iteration 15: 228 attractors remaining.
+    134s    0,0+ Iteration 16: 228 attractors remaining.
+    134s    0,0+ Iteration 17: 228 attractors remaining.
+    134s    0,0+ Iteration 18: 228 attractors remaining.
+    134s    0,0+ Iteration 19: 228 attractors remaining.
+    134s    0,0+ Iteration 20: 228 attractors remaining.
+    134s    0,0+ Iteration 21: 228 attractors remaining.
+    134s    0,0+ Iteration 22: 228 attractors remaining.
+    134s    0,0+ Iteration 23: 228 attractors remaining.
+    134s    0,0+ Iteration 24: 228 attractors remaining.
+    134s    0,0+ --- Space Colonization Complete ---
+    135s    0,9+ 
+    135s    0,9+ --- Starting Space Colonization ---
+    135s    0,0+ Iteration 0: 228 attractors remaining.
+    135s    0,0+ Iteration 1: 228 attractors remaining.
+    135s    0,0+ Iteration 2: 228 attractors remaining.
+    135s    0,0+ Iteration 3: 228 attractors remaining.
+    135s    0,0+ Iteration 4: 228 attractors remaining.
+    135s    0,0+ Iteration 5: 227 attractors remaining.
+    135s    0,0+ Iteration 6: 227 attractors remaining.
+    135s    0,0+ Iteration 7: 225 attractors remaining.
+    135s    0,0+ Iteration 8: 225 attractors remaining.
+    135s    0,0+ Iteration 9: 222 attractors remaining.
+    135s    0,0+ Iteration 10: 217 attractors remaining.
+    135s    0,0+ Iteration 11: 213 attractors remaining.
+    135s    0,0+ Iteration 12: 205 attractors remaining.
+    135s    0,0+ Iteration 13: 201 attractors remaining.
+    135s    0,0+ Iteration 14: 199 attractors remaining.
+    135s    0,0+ Iteration 15: 193 attractors remaining.
+    135s    0,0+ Iteration 16: 192 attractors remaining.
+    135s    0,0+ Iteration 17: 187 attractors remaining.
+    135s    0,0+ Iteration 18: 183 attractors remaining.
+    135s    0,0+ Iteration 19: 179 attractors remaining.
+    135s    0,0+ Iteration 20: 168 attractors remaining.
+    135s    0,0+ Iteration 21: 162 attractors remaining.
+    135s    0,0+ Iteration 22: 149 attractors remaining.
+    135s    0,0+ Iteration 23: 146 attractors remaining.
+    135s    0,0+ Iteration 24: 139 attractors remaining.
+    135s    0,0+ --- Space Colonization Complete ---
+    137s    1,3+ 
+    137s    1,3+ --- Starting Space Colonization ---
+    137s    0,0+ Iteration 0: 227 attractors remaining.
+    137s    0,0+ Iteration 1: 227 attractors remaining.
+    137s    0,0+ Iteration 2: 227 attractors remaining.
+    137s    0,0+ Iteration 3: 226 attractors remaining.
+    137s    0,0+ Iteration 4: 226 attractors remaining.
+    137s    0,0+ Iteration 5: 225 attractors remaining.
+    137s    0,0+ Iteration 6: 225 attractors remaining.
+    137s    0,0+ Iteration 7: 223 attractors remaining.
+    137s    0,0+ Iteration 8: 222 attractors remaining.
+    137s    0,0+ Iteration 9: 222 attractors remaining.
+    137s    0,0+ Iteration 10: 220 attractors remaining.
+    137s    0,0+ Iteration 11: 217 attractors remaining.
+    137s    0,0+ Iteration 12: 217 attractors remaining.
+    137s    0,0+ Iteration 13: 214 attractors remaining.
+    137s    0,0+ Iteration 14: 209 attractors remaining.
+    137s    0,0+ Iteration 15: 202 attractors remaining.
+    137s    0,0+ Iteration 16: 196 attractors remaining.
+    137s    0,0+ Iteration 17: 189 attractors remaining.
+    137s    0,0+ Iteration 18: 176 attractors remaining.
+    137s    0,0+ Iteration 19: 161 attractors remaining.
+    137s    0,0+ Iteration 20: 150 attractors remaining.
+    137s    0,0+ Iteration 21: 142 attractors remaining.
+    137s    0,0+ Iteration 22: 133 attractors remaining.
+    137s    0,0+ Iteration 23: 126 attractors remaining.
+    137s    0,0+ Iteration 24: 117 attractors remaining.
+    137s    0,0+ --- Space Colonization Complete ---
+    137s    0,7+ 
+    137s    0,7+ --- Starting Space Colonization ---
+    137s    0,0+ Iteration 0: 228 attractors remaining.
+    137s    0,0+ Iteration 1: 228 attractors remaining.
+    137s    0,0+ Iteration 2: 227 attractors remaining.
+    137s    0,0+ Iteration 3: 227 attractors remaining.
+    137s    0,0+ Iteration 4: 226 attractors remaining.
+    137s    0,0+ Iteration 5: 223 attractors remaining.
+    137s    0,0+ Iteration 6: 221 attractors remaining.
+    137s    0,0+ Iteration 7: 221 attractors remaining.
+    137s    0,0+ Iteration 8: 218 attractors remaining.
+    137s    0,0+ Iteration 9: 216 attractors remaining.
+    137s    0,0+ Iteration 10: 213 attractors remaining.
+    137s    0,0+ Iteration 11: 211 attractors remaining.
+    137s    0,0+ Iteration 12: 208 attractors remaining.
+    137s    0,0+ Iteration 13: 207 attractors remaining.
+    137s    0,0+ Iteration 14: 206 attractors remaining.
+    137s    0,0+ Iteration 15: 204 attractors remaining.
+    137s    0,0+ Iteration 16: 203 attractors remaining.
+    137s    0,0+ Iteration 17: 203 attractors remaining.
+    137s    0,0+ Iteration 18: 202 attractors remaining.
+    137s    0,0+ Iteration 19: 201 attractors remaining.
+    137s    0,0+ Iteration 20: 200 attractors remaining.
+    137s    0,0+ Iteration 21: 198 attractors remaining.
+    137s    0,0+ Iteration 22: 197 attractors remaining.
+    137s    0,0+ Iteration 23: 196 attractors remaining.
+    137s    0,0+ Iteration 24: 195 attractors remaining.
+    137s    0,0+ --- Space Colonization Complete ---
+    139s    1,5+ 
+    139s    1,5+ --- Starting Space Colonization ---
+    139s    0,0+ Iteration 0: 228 attractors remaining.
+    139s    0,0+ Iteration 1: 228 attractors remaining.
+    139s    0,0+ Iteration 2: 228 attractors remaining.
+    139s    0,0+ Iteration 3: 227 attractors remaining.
+    139s    0,0+ Iteration 4: 227 attractors remaining.
+    139s    0,0+ Iteration 5: 227 attractors remaining.
+    139s    0,0+ Iteration 6: 226 attractors remaining.
+    139s    0,0+ Iteration 7: 226 attractors remaining.
+    139s    0,0+ Iteration 8: 226 attractors remaining.
+    139s    0,0+ Iteration 9: 225 attractors remaining.
+    139s    0,0+ Iteration 10: 225 attractors remaining.
+    139s    0,0+ Iteration 11: 225 attractors remaining.
+    139s    0,0+ Iteration 12: 225 attractors remaining.
+    139s    0,0+ Iteration 13: 225 attractors remaining.
+    139s    0,0+ Iteration 14: 225 attractors remaining.
+    139s    0,0+ Iteration 15: 223 attractors remaining.
+    139s    0,0+ Iteration 16: 221 attractors remaining.
+    139s    0,0+ Iteration 17: 221 attractors remaining.
+    139s    0,0+ Iteration 18: 220 attractors remaining.
+    139s    0,0+ Iteration 19: 220 attractors remaining.
+    139s    0,0+ Iteration 20: 220 attractors remaining.
+    139s    0,0+ Iteration 21: 220 attractors remaining.
+    139s    0,0+ Iteration 22: 220 attractors remaining.
+    139s    0,0+ Iteration 23: 217 attractors remaining.
+    139s    0,0+ Iteration 24: 217 attractors remaining.
+    139s    0,0+ --- Space Colonization Complete ---
+    140s    1,0+ 
+    140s    1,0+ --- Starting Space Colonization ---
+    140s    0,0+ Iteration 0: 228 attractors remaining.
+    140s    0,0+ Iteration 1: 228 attractors remaining.
+    140s    0,0+ Iteration 2: 228 attractors remaining.
+    140s    0,0+ Iteration 3: 228 attractors remaining.
+    140s    0,0+ Iteration 4: 228 attractors remaining.
+    140s    0,0+ Iteration 5: 228 attractors remaining.
+    140s    0,0+ Iteration 6: 228 attractors remaining.
+    140s    0,0+ Iteration 7: 228 attractors remaining.
+    140s    0,0+ Iteration 8: 228 attractors remaining.
+    140s    0,0+ Iteration 9: 228 attractors remaining.
+    140s    0,0+ Iteration 10: 228 attractors remaining.
+    140s    0,0+ Iteration 11: 228 attractors remaining.
+    140s    0,0+ Iteration 12: 228 attractors remaining.
+    140s    0,0+ Iteration 13: 228 attractors remaining.
+    140s    0,0+ Iteration 14: 228 attractors remaining.
+    140s    0,0+ Iteration 15: 228 attractors remaining.
+    140s    0,0+ Iteration 16: 228 attractors remaining.
+    140s    0,0+ Iteration 17: 228 attractors remaining.
+    140s    0,0+ Iteration 18: 228 attractors remaining.
+    140s    0,0+ Iteration 19: 228 attractors remaining.
+    140s    0,0+ Iteration 20: 228 attractors remaining.
+    140s    0,0+ Iteration 21: 228 attractors remaining.
+    140s    0,0+ Iteration 22: 228 attractors remaining.
+    140s    0,0+ Iteration 23: 228 attractors remaining.
+    140s    0,0+ Iteration 24: 228 attractors remaining.
+    140s    0,0+ --- Space Colonization Complete ---
+    141s    0,6+ 
+    141s    0,6+ --- Starting Space Colonization ---
+    141s    0,0+ Iteration 0: 228 attractors remaining.
+    141s    0,0+ Iteration 1: 228 attractors remaining.
+    141s    0,0+ Iteration 2: 228 attractors remaining.
+    141s    0,0+ Iteration 3: 228 attractors remaining.
+    141s    0,0+ Iteration 4: 226 attractors remaining.
+    141s    0,0+ Iteration 5: 226 attractors remaining.
+    141s    0,0+ Iteration 6: 223 attractors remaining.
+    141s    0,0+ Iteration 7: 222 attractors remaining.
+    141s    0,0+ Iteration 8: 222 attractors remaining.
+    141s    0,0+ Iteration 9: 222 attractors remaining.
+    141s    0,0+ Iteration 10: 221 attractors remaining.
+    141s    0,0+ Iteration 11: 220 attractors remaining.
+    141s    0,0+ Iteration 12: 215 attractors remaining.
+    141s    0,0+ Iteration 13: 212 attractors remaining.
+    141s    0,0+ Iteration 14: 209 attractors remaining.
+    141s    0,0+ Iteration 15: 205 attractors remaining.
+    141s    0,0+ Iteration 16: 205 attractors remaining.
+    141s    0,0+ Iteration 17: 202 attractors remaining.
+    141s    0,0+ Iteration 18: 198 attractors remaining.
+    141s    0,0+ Iteration 19: 195 attractors remaining.
+    141s    0,0+ Iteration 20: 192 attractors remaining.
+    141s    0,0+ Iteration 21: 189 attractors remaining.
+    141s    0,0+ Iteration 22: 180 attractors remaining.
+    141s    0,0+ Iteration 23: 175 attractors remaining.
+    141s    0,0+ Iteration 24: 171 attractors remaining.
+    141s    0,0+ --- Space Colonization Complete ---
+    141s    0,5+ 
+    141s    0,5+ --- Starting Space Colonization ---
+    141s    0,0+ Iteration 0: 228 attractors remaining.
+    141s    0,0+ Iteration 1: 228 attractors remaining.
+    141s    0,0+ Iteration 2: 228 attractors remaining.
+    141s    0,0+ Iteration 3: 228 attractors remaining.
+    141s    0,0+ Iteration 4: 227 attractors remaining.
+    141s    0,0+ Iteration 5: 227 attractors remaining.
+    141s    0,0+ Iteration 6: 226 attractors remaining.
+    141s    0,0+ Iteration 7: 226 attractors remaining.
+    141s    0,0+ Iteration 8: 226 attractors remaining.
+    141s    0,0+ Iteration 9: 225 attractors remaining.
+    141s    0,0+ Iteration 10: 221 attractors remaining.
+    141s    0,0+ Iteration 11: 219 attractors remaining.
+    141s    0,0+ Iteration 12: 217 attractors remaining.
+    141s    0,0+ Iteration 13: 214 attractors remaining.
+    141s    0,0+ Iteration 14: 212 attractors remaining.
+    141s    0,0+ Iteration 15: 209 attractors remaining.
+    141s    0,0+ Iteration 16: 206 attractors remaining.
+    141s    0,0+ Iteration 17: 200 attractors remaining.
+    141s    0,0+ Iteration 18: 197 attractors remaining.
+    141s    0,0+ Iteration 19: 190 attractors remaining.
+    141s    0,0+ Iteration 20: 187 attractors remaining.
+    141s    0,0+ Iteration 21: 184 attractors remaining.
+    141s    0,0+ Iteration 22: 178 attractors remaining.
+    141s    0,0+ Iteration 23: 172 attractors remaining.
+    141s    0,0+ Iteration 24: 166 attractors remaining.
+    141s    0,0+ --- Space Colonization Complete ---
+    154s   12,4+ 
+    154s   12,4+ --- Starting Space Colonization ---
+    154s    0,0+ Iteration 0: 225 attractors remaining.
+    154s    0,0+ Iteration 1: 221 attractors remaining.
+    154s    0,0+ Iteration 2: 212 attractors remaining.
+    154s    0,0+ Iteration 3: 196 attractors remaining.
+    154s    0,0+ Iteration 4: 167 attractors remaining.
+    154s    0,0+ Iteration 5: 121 attractors remaining.
+    154s    0,0+ Iteration 6: 78 attractors remaining.
+    154s    0,0+ Iteration 7: 61 attractors remaining.
+    154s    0,0+ Iteration 8: 54 attractors remaining.
+    154s    0,0+ Iteration 9: 53 attractors remaining.
+    154s    0,0+ Iteration 10: 53 attractors remaining.
+    154s    0,0+ Iteration 11: 53 attractors remaining.
+    154s    0,0+ Iteration 12: 53 attractors remaining.
+    154s    0,0+ Iteration 13: 53 attractors remaining.
+    154s    0,0+ Iteration 14: 53 attractors remaining.
+    154s    0,0+ Iteration 15: 53 attractors remaining.
+    154s    0,0+ Iteration 16: 53 attractors remaining.
+    154s    0,0+ Iteration 17: 53 attractors remaining.
+    154s    0,0+ Iteration 18: 53 attractors remaining.
+    154s    0,0+ Iteration 19: 53 attractors remaining.
+    154s    0,0+ Iteration 20: 53 attractors remaining.
+    154s    0,0+ Iteration 21: 53 attractors remaining.
+    154s    0,0+ Iteration 22: 53 attractors remaining.
+    154s    0,0+ Iteration 23: 53 attractors remaining.
+    154s    0,0+ Iteration 24: 53 attractors remaining.
+    154s    0,0+ --- Space Colonization Complete ---
+    154s    0,9+ 
+    154s    0,9+ --- Starting Space Colonization ---
+    154s    0,0+ Iteration 0: 48 attractors remaining.
+    154s    0,0+ Iteration 1: 47 attractors remaining.
+    154s    0,0+ Iteration 2: 44 attractors remaining.
+    154s    0,0+ Iteration 3: 40 attractors remaining.
+    154s    0,0+ Iteration 4: 33 attractors remaining.
+    154s    0,0+ Iteration 5: 26 attractors remaining.
+    154s    0,0+ Iteration 6: 26 attractors remaining.
+    154s    0,0+ Iteration 7: 26 attractors remaining.
+    154s    0,0+ Iteration 8: 25 attractors remaining.
+    154s    0,0+ Iteration 9: 25 attractors remaining.
+    154s    0,0+ Iteration 10: 25 attractors remaining.
+    154s    0,0+ Iteration 11: 25 attractors remaining.
+    154s    0,0+ Iteration 12: 25 attractors remaining.
+    154s    0,0+ Iteration 13: 25 attractors remaining.
+    154s    0,0+ Iteration 14: 25 attractors remaining.
+    154s    0,0+ Iteration 15: 25 attractors remaining.
+    154s    0,0+ Iteration 16: 25 attractors remaining.
+    154s    0,0+ Iteration 17: 25 attractors remaining.
+    154s    0,0+ Iteration 18: 25 attractors remaining.
+    154s    0,0+ Iteration 19: 25 attractors remaining.
+    154s    0,0+ Iteration 20: 25 attractors remaining.
+    154s    0,0+ Iteration 21: 25 attractors remaining.
+    154s    0,0+ Iteration 22: 25 attractors remaining.
+    154s    0,0+ Iteration 23: 25 attractors remaining.
+    154s    0,0+ Iteration 24: 25 attractors remaining.
+    154s    0,0+ --- Space Colonization Complete ---
+    156s    1,1+ 
+    156s    1,1+ --- Starting Space Colonization ---
+    156s    0,0+ Iteration 0: 49 attractors remaining.
+    156s    0,0+ Iteration 1: 49 attractors remaining.
+    156s    0,0+ Iteration 2: 48 attractors remaining.
+    156s    0,0+ Iteration 3: 48 attractors remaining.
+    156s    0,0+ Iteration 4: 47 attractors remaining.
+    156s    0,0+ Iteration 5: 47 attractors remaining.
+    156s    0,0+ Iteration 6: 47 attractors remaining.
+    156s    0,0+ Iteration 7: 46 attractors remaining.
+    156s    0,0+ Iteration 8: 46 attractors remaining.
+    156s    0,0+ Iteration 9: 45 attractors remaining.
+    156s    0,0+ Iteration 10: 43 attractors remaining.
+    156s    0,0+ Iteration 11: 42 attractors remaining.
+    156s    0,0+ Iteration 12: 40 attractors remaining.
+    156s    0,0+ Iteration 13: 37 attractors remaining.
+    156s    0,0+ Iteration 14: 36 attractors remaining.
+    156s    0,0+ Iteration 15: 31 attractors remaining.
+    156s    0,0+ Iteration 16: 23 attractors remaining.
+    156s    0,0+ Iteration 17: 20 attractors remaining.
+    156s    0,0+ Iteration 18: 14 attractors remaining.
+    156s    0,0+ Iteration 19: 14 attractors remaining.
+    156s    0,0+ Iteration 20: 12 attractors remaining.
+    156s    0,0+ Iteration 21: 7 attractors remaining.
+    156s    0,0+ Iteration 22: 3 attractors remaining.
+    156s    0,0+ Iteration 23: 2 attractors remaining.
+    156s    0,0+ Iteration 24: 1 attractors remaining.
+    156s    0,0+ --- Space Colonization Complete ---
+    156s    0,9+ 
+    156s    0,9+ --- Starting Space Colonization ---
+    156s    0,0+ Iteration 0: 50 attractors remaining.
+    156s    0,0+ Iteration 1: 50 attractors remaining.
+    156s    0,0+ Iteration 2: 50 attractors remaining.
+    156s    0,0+ Iteration 3: 50 attractors remaining.
+    156s    0,0+ Iteration 4: 50 attractors remaining.
+    156s    0,0+ Iteration 5: 50 attractors remaining.
+    156s    0,0+ Iteration 6: 50 attractors remaining.
+    156s    0,0+ Iteration 7: 50 attractors remaining.
+    156s    0,0+ Iteration 8: 50 attractors remaining.
+    156s    0,0+ Iteration 9: 50 attractors remaining.
+    156s    0,0+ Iteration 10: 50 attractors remaining.
+    156s    0,0+ Iteration 11: 50 attractors remaining.
+    156s    0,0+ Iteration 12: 50 attractors remaining.
+    156s    0,0+ Iteration 13: 50 attractors remaining.
+    156s    0,0+ Iteration 14: 50 attractors remaining.
+    156s    0,0+ Iteration 15: 50 attractors remaining.
+    156s    0,0+ Iteration 16: 50 attractors remaining.
+    156s    0,0+ Iteration 17: 50 attractors remaining.
+    156s    0,0+ Iteration 18: 50 attractors remaining.
+    156s    0,0+ Iteration 19: 50 attractors remaining.
+    156s    0,0+ Iteration 20: 50 attractors remaining.
+    156s    0,0+ Iteration 21: 50 attractors remaining.
+    156s    0,0+ Iteration 22: 50 attractors remaining.
+    156s    0,0+ Iteration 23: 50 attractors remaining.
+    156s    0,0+ Iteration 24: 50 attractors remaining.
+    156s    0,0+ --- Space Colonization Complete ---
+    157s    1,0+ 
+    157s    1,0+ --- Starting Space Colonization ---
+    157s    0,0+ Iteration 0: 50 attractors remaining.
+    157s    0,0+ Iteration 1: 50 attractors remaining.
+    157s    0,0+ Iteration 2: 50 attractors remaining.
+    157s    0,0+ Iteration 3: 50 attractors remaining.
+    157s    0,0+ Iteration 4: 50 attractors remaining.
+    157s    0,0+ Iteration 5: 50 attractors remaining.
+    157s    0,0+ Iteration 6: 50 attractors remaining.
+    157s    0,0+ Iteration 7: 50 attractors remaining.
+    157s    0,0+ Iteration 8: 50 attractors remaining.
+    157s    0,0+ Iteration 9: 50 attractors remaining.
+    157s    0,0+ Iteration 10: 50 attractors remaining.
+    157s    0,0+ Iteration 11: 50 attractors remaining.
+    157s    0,0+ Iteration 12: 50 attractors remaining.
+    157s    0,0+ Iteration 13: 50 attractors remaining.
+    157s    0,0+ Iteration 14: 50 attractors remaining.
+    157s    0,0+ Iteration 15: 50 attractors remaining.
+    157s    0,0+ Iteration 16: 50 attractors remaining.
+    157s    0,0+ Iteration 17: 50 attractors remaining.
+    157s    0,0+ Iteration 18: 50 attractors remaining.
+    157s    0,0+ Iteration 19: 50 attractors remaining.
+    157s    0,0+ Iteration 20: 50 attractors remaining.
+    157s    0,0+ Iteration 21: 50 attractors remaining.
+    157s    0,0+ Iteration 22: 50 attractors remaining.
+    157s    0,0+ Iteration 23: 50 attractors remaining.
+    157s    0,0+ Iteration 24: 50 attractors remaining.
+    157s    0,0+ --- Space Colonization Complete ---
+    159s    1,4+ 
+    159s    1,4+ --- Starting Space Colonization ---
+    159s    0,0+ Iteration 0: 50 attractors remaining.
+    159s    0,0+ Iteration 1: 50 attractors remaining.
+    159s    0,0+ Iteration 2: 50 attractors remaining.
+    159s    0,0+ Iteration 3: 50 attractors remaining.
+    159s    0,0+ Iteration 4: 49 attractors remaining.
+    159s    0,0+ Iteration 5: 48 attractors remaining.
+    159s    0,0+ Iteration 6: 48 attractors remaining.
+    159s    0,0+ Iteration 7: 47 attractors remaining.
+    159s    0,0+ Iteration 8: 47 attractors remaining.
+    159s    0,0+ Iteration 9: 46 attractors remaining.
+    159s    0,0+ Iteration 10: 46 attractors remaining.
+    159s    0,0+ Iteration 11: 45 attractors remaining.
+    159s    0,0+ Iteration 12: 44 attractors remaining.
+    159s    0,0+ Iteration 13: 44 attractors remaining.
+    159s    0,0+ Iteration 14: 44 attractors remaining.
+    159s    0,0+ Iteration 15: 43 attractors remaining.
+    159s    0,0+ Iteration 16: 43 attractors remaining.
+    159s    0,0+ Iteration 17: 43 attractors remaining.
+    159s    0,0+ Iteration 18: 43 attractors remaining.
+    159s    0,0+ Iteration 19: 43 attractors remaining.
+    159s    0,0+ Iteration 20: 43 attractors remaining.
+    159s    0,0+ Iteration 21: 43 attractors remaining.
+    159s    0,0+ Iteration 22: 43 attractors remaining.
+    159s    0,0+ Iteration 23: 43 attractors remaining.
+    159s    0,0+ Iteration 24: 43 attractors remaining.
+    159s    0,0+ --- Space Colonization Complete ---
+    160s    0,9+ 
+    160s    0,9+ --- Starting Space Colonization ---
+    160s    0,0+ Iteration 0: 49 attractors remaining.
+    160s    0,0+ Iteration 1: 49 attractors remaining.
+    160s    0,0+ Iteration 2: 49 attractors remaining.
+    160s    0,0+ Iteration 3: 49 attractors remaining.
+    160s    0,0+ Iteration 4: 49 attractors remaining.
+    160s    0,0+ Iteration 5: 49 attractors remaining.
+    160s    0,0+ Iteration 6: 49 attractors remaining.
+    160s    0,0+ Iteration 7: 49 attractors remaining.
+    160s    0,0+ Iteration 8: 49 attractors remaining.
+    160s    0,0+ Iteration 9: 49 attractors remaining.
+    160s    0,0+ Iteration 10: 49 attractors remaining.
+    160s    0,0+ Iteration 11: 49 attractors remaining.
+    160s    0,0+ Iteration 12: 49 attractors remaining.
+    160s    0,0+ Iteration 13: 49 attractors remaining.
+    160s    0,0+ Iteration 14: 49 attractors remaining.
+    160s    0,0+ Iteration 15: 49 attractors remaining.
+    160s    0,0+ Iteration 16: 49 attractors remaining.
+    160s    0,0+ Iteration 17: 49 attractors remaining.
+    160s    0,0+ Iteration 18: 49 attractors remaining.
+    160s    0,0+ Iteration 19: 49 attractors remaining.
+    160s    0,0+ Iteration 20: 49 attractors remaining.
+    160s    0,0+ Iteration 21: 49 attractors remaining.
+    160s    0,0+ Iteration 22: 49 attractors remaining.
+    160s    0,0+ Iteration 23: 49 attractors remaining.
+    160s    0,0+ Iteration 24: 49 attractors remaining.
+    160s    0,0+ --- Space Colonization Complete ---
+    160s    0,7+ 
+    160s    0,7+ --- Starting Space Colonization ---
+    160s    0,0+ Iteration 0: 48 attractors remaining.
+    160s    0,0+ Iteration 1: 48 attractors remaining.
+    160s    0,0+ Iteration 2: 48 attractors remaining.
+    160s    0,0+ Iteration 3: 48 attractors remaining.
+    160s    0,0+ Iteration 4: 48 attractors remaining.
+    160s    0,0+ Iteration 5: 48 attractors remaining.
+    160s    0,0+ Iteration 6: 48 attractors remaining.
+    160s    0,0+ Iteration 7: 48 attractors remaining.
+    160s    0,0+ Iteration 8: 48 attractors remaining.
+    160s    0,0+ Iteration 9: 48 attractors remaining.
+    160s    0,0+ Iteration 10: 48 attractors remaining.
+    160s    0,0+ Iteration 11: 48 attractors remaining.
+    160s    0,0+ Iteration 12: 48 attractors remaining.
+    160s    0,0+ Iteration 13: 48 attractors remaining.
+    160s    0,0+ Iteration 14: 48 attractors remaining.
+    160s    0,0+ Iteration 15: 48 attractors remaining.
+    160s    0,0+ Iteration 16: 48 attractors remaining.
+    160s    0,0+ Iteration 17: 48 attractors remaining.
+    160s    0,0+ Iteration 18: 48 attractors remaining.
+    160s    0,0+ Iteration 19: 48 attractors remaining.
+    160s    0,0+ Iteration 20: 48 attractors remaining.
+    160s    0,0+ Iteration 21: 48 attractors remaining.
+    160s    0,0+ Iteration 22: 48 attractors remaining.
+    160s    0,0+ Iteration 23: 48 attractors remaining.
+    160s    0,0+ Iteration 24: 48 attractors remaining.
+    160s    0,0+ --- Space Colonization Complete ---
+    162s    1,9+ 
+    162s    1,9+ --- Starting Space Colonization ---
+    162s    0,0+ Iteration 0: 50 attractors remaining.
+    162s    0,0+ Iteration 1: 49 attractors remaining.
+    162s    0,0+ Iteration 2: 49 attractors remaining.
+    162s    0,0+ Iteration 3: 49 attractors remaining.
+    162s    0,0+ Iteration 4: 49 attractors remaining.
+    162s    0,0+ Iteration 5: 49 attractors remaining.
+    162s    0,0+ Iteration 6: 49 attractors remaining.
+    162s    0,0+ Iteration 7: 49 attractors remaining.
+    162s    0,0+ Iteration 8: 49 attractors remaining.
+    162s    0,0+ Iteration 9: 49 attractors remaining.
+    162s    0,0+ Iteration 10: 49 attractors remaining.
+    162s    0,0+ Iteration 11: 49 attractors remaining.
+    162s    0,0+ Iteration 12: 49 attractors remaining.
+    162s    0,0+ Iteration 13: 49 attractors remaining.
+    162s    0,0+ Iteration 14: 49 attractors remaining.
+    162s    0,0+ Iteration 15: 49 attractors remaining.
+    162s    0,0+ Iteration 16: 49 attractors remaining.
+    162s    0,0+ Iteration 17: 49 attractors remaining.
+    162s    0,0+ Iteration 18: 49 attractors remaining.
+    162s    0,0+ Iteration 19: 49 attractors remaining.
+    162s    0,0+ Iteration 20: 49 attractors remaining.
+    162s    0,0+ Iteration 21: 49 attractors remaining.
+    162s    0,0+ Iteration 22: 49 attractors remaining.
+    162s    0,0+ Iteration 23: 49 attractors remaining.
+    162s    0,0+ Iteration 24: 49 attractors remaining.
+    162s    0,0+ --- Space Colonization Complete ---
+    163s    0,8+ 
+    163s    0,8+ --- Starting Space Colonization ---
+    163s    0,0+ Iteration 0: 48 attractors remaining.
+    163s    0,0+ Iteration 1: 48 attractors remaining.
+    163s    0,0+ Iteration 2: 48 attractors remaining.
+    163s    0,0+ Iteration 3: 48 attractors remaining.
+    163s    0,0+ Iteration 4: 48 attractors remaining.
+    163s    0,0+ Iteration 5: 48 attractors remaining.
+    163s    0,0+ Iteration 6: 48 attractors remaining.
+    163s    0,0+ Iteration 7: 48 attractors remaining.
+    163s    0,0+ Iteration 8: 48 attractors remaining.
+    163s    0,0+ Iteration 9: 48 attractors remaining.
+    163s    0,0+ Iteration 10: 48 attractors remaining.
+    163s    0,0+ Iteration 11: 48 attractors remaining.
+    163s    0,0+ Iteration 12: 48 attractors remaining.
+    163s    0,0+ Iteration 13: 48 attractors remaining.
+    163s    0,0+ Iteration 14: 48 attractors remaining.
+    163s    0,0+ Iteration 15: 48 attractors remaining.
+    163s    0,0+ Iteration 16: 48 attractors remaining.
+    163s    0,0+ Iteration 17: 48 attractors remaining.
+    163s    0,0+ Iteration 18: 48 attractors remaining.
+    163s    0,0+ Iteration 19: 48 attractors remaining.
+    163s    0,0+ Iteration 20: 48 attractors remaining.
+    163s    0,0+ Iteration 21: 48 attractors remaining.
+    163s    0,0+ Iteration 22: 48 attractors remaining.
+    163s    0,0+ Iteration 23: 48 attractors remaining.
+    163s    0,0+ Iteration 24: 48 attractors remaining.
+    163s    0,0+ --- Space Colonization Complete ---
+    164s    0,5+ 
+    164s    0,5+ --- Starting Space Colonization ---
+    164s    0,0+ Iteration 0: 50 attractors remaining.
+    164s    0,0+ Iteration 1: 50 attractors remaining.
+    164s    0,0+ Iteration 2: 50 attractors remaining.
+    164s    0,0+ Iteration 3: 50 attractors remaining.
+    164s    0,0+ Iteration 4: 50 attractors remaining.
+    164s    0,0+ Iteration 5: 50 attractors remaining.
+    164s    0,0+ Iteration 6: 50 attractors remaining.
+    164s    0,0+ Iteration 7: 50 attractors remaining.
+    164s    0,0+ Iteration 8: 50 attractors remaining.
+    164s    0,0+ Iteration 9: 50 attractors remaining.
+    164s    0,0+ Iteration 10: 50 attractors remaining.
+    164s    0,0+ Iteration 11: 50 attractors remaining.
+    164s    0,0+ Iteration 12: 50 attractors remaining.
+    164s    0,0+ Iteration 13: 50 attractors remaining.
+    164s    0,0+ Iteration 14: 50 attractors remaining.
+    164s    0,0+ Iteration 15: 50 attractors remaining.
+    164s    0,0+ Iteration 16: 50 attractors remaining.
+    164s    0,0+ Iteration 17: 50 attractors remaining.
+    164s    0,0+ Iteration 18: 50 attractors remaining.
+    164s    0,0+ Iteration 19: 50 attractors remaining.
+    164s    0,0+ Iteration 20: 50 attractors remaining.
+    164s    0,0+ Iteration 21: 50 attractors remaining.
+    164s    0,0+ Iteration 22: 50 attractors remaining.
+    164s    0,0+ Iteration 23: 50 attractors remaining.
+    164s    0,0+ Iteration 24: 50 attractors remaining.
+    164s    0,0+ --- Space Colonization Complete ---
+    164s    0,5+ 
+    164s    0,5+ --- Starting Space Colonization ---
+    164s    0,0+ Iteration 0: 50 attractors remaining.
+    164s    0,0+ Iteration 1: 50 attractors remaining.
+    164s    0,0+ Iteration 2: 50 attractors remaining.
+    164s    0,0+ Iteration 3: 50 attractors remaining.
+    164s    0,0+ Iteration 4: 50 attractors remaining.
+    164s    0,0+ Iteration 5: 50 attractors remaining.
+    164s    0,0+ Iteration 6: 50 attractors remaining.
+    164s    0,0+ Iteration 7: 50 attractors remaining.
+    164s    0,0+ Iteration 8: 50 attractors remaining.
+    164s    0,0+ Iteration 9: 50 attractors remaining.
+    164s    0,0+ Iteration 10: 50 attractors remaining.
+    164s    0,0+ Iteration 11: 50 attractors remaining.
+    164s    0,0+ Iteration 12: 50 attractors remaining.
+    164s    0,0+ Iteration 13: 50 attractors remaining.
+    164s    0,0+ Iteration 14: 50 attractors remaining.
+    164s    0,0+ Iteration 15: 50 attractors remaining.
+    164s    0,0+ Iteration 16: 50 attractors remaining.
+    164s    0,0+ Iteration 17: 50 attractors remaining.
+    164s    0,0+ Iteration 18: 50 attractors remaining.
+    164s    0,0+ Iteration 19: 50 attractors remaining.
+    164s    0,0+ Iteration 20: 50 attractors remaining.
+    164s    0,0+ Iteration 21: 50 attractors remaining.
+    164s    0,0+ Iteration 22: 50 attractors remaining.
+    164s    0,0+ Iteration 23: 50 attractors remaining.
+    164s    0,0+ Iteration 24: 50 attractors remaining.
+    164s    0,0+ --- Space Colonization Complete ---
+    165s    0,6+ 
+    165s    0,6+ --- Starting Space Colonization ---
+    165s    0,0+ Iteration 0: 50 attractors remaining.
+    165s    0,0+ Iteration 1: 50 attractors remaining.
+    165s    0,0+ Iteration 2: 50 attractors remaining.
+    165s    0,0+ Iteration 3: 50 attractors remaining.
+    165s    0,0+ Iteration 4: 50 attractors remaining.
+    165s    0,0+ Iteration 5: 50 attractors remaining.
+    165s    0,0+ Iteration 6: 50 attractors remaining.
+    165s    0,0+ Iteration 7: 50 attractors remaining.
+    165s    0,0+ Iteration 8: 50 attractors remaining.
+    165s    0,0+ Iteration 9: 50 attractors remaining.
+    165s    0,0+ Iteration 10: 50 attractors remaining.
+    165s    0,0+ Iteration 11: 50 attractors remaining.
+    165s    0,0+ Iteration 12: 50 attractors remaining.
+    165s    0,0+ Iteration 13: 50 attractors remaining.
+    165s    0,0+ Iteration 14: 50 attractors remaining.
+    165s    0,0+ Iteration 15: 50 attractors remaining.
+    165s    0,0+ Iteration 16: 50 attractors remaining.
+    165s    0,0+ Iteration 17: 50 attractors remaining.
+    165s    0,0+ Iteration 18: 50 attractors remaining.
+    165s    0,0+ Iteration 19: 50 attractors remaining.
+    165s    0,0+ Iteration 20: 50 attractors remaining.
+    165s    0,0+ Iteration 21: 50 attractors remaining.
+    165s    0,0+ Iteration 22: 50 attractors remaining.
+    165s    0,0+ Iteration 23: 50 attractors remaining.
+    165s    0,0+ Iteration 24: 50 attractors remaining.
+    165s    0,0+ --- Space Colonization Complete ---
+    166s    0,7+ 
+    166s    0,7+ --- Starting Space Colonization ---
+    166s    0,0+ Iteration 0: 49 attractors remaining.
+    166s    0,0+ Iteration 1: 48 attractors remaining.
+    166s    0,0+ Iteration 2: 48 attractors remaining.
+    166s    0,0+ Iteration 3: 48 attractors remaining.
+    166s    0,0+ Iteration 4: 48 attractors remaining.
+    166s    0,0+ Iteration 5: 48 attractors remaining.
+    166s    0,0+ Iteration 6: 48 attractors remaining.
+    166s    0,0+ Iteration 7: 48 attractors remaining.
+    166s    0,0+ Iteration 8: 48 attractors remaining.
+    166s    0,0+ Iteration 9: 48 attractors remaining.
+    166s    0,0+ Iteration 10: 48 attractors remaining.
+    166s    0,0+ Iteration 11: 48 attractors remaining.
+    166s    0,0+ Iteration 12: 48 attractors remaining.
+    166s    0,0+ Iteration 13: 48 attractors remaining.
+    166s    0,0+ Iteration 14: 48 attractors remaining.
+    166s    0,0+ Iteration 15: 48 attractors remaining.
+    166s    0,0+ Iteration 16: 48 attractors remaining.
+    166s    0,0+ Iteration 17: 48 attractors remaining.
+    166s    0,0+ Iteration 18: 48 attractors remaining.
+    166s    0,0+ Iteration 19: 48 attractors remaining.
+    166s    0,0+ Iteration 20: 48 attractors remaining.
+    166s    0,0+ Iteration 21: 48 attractors remaining.
+    166s    0,0+ Iteration 22: 48 attractors remaining.
+    166s    0,0+ Iteration 23: 48 attractors remaining.
+    166s    0,0+ Iteration 24: 48 attractors remaining.
+    166s    0,0+ --- Space Colonization Complete ---
+    166s    0,6+ 
+    166s    0,6+ --- Starting Space Colonization ---
+    166s    0,0+ Iteration 0: 49 attractors remaining.
+    166s    0,0+ Iteration 1: 49 attractors remaining.
+    166s    0,0+ Iteration 2: 49 attractors remaining.
+    166s    0,0+ Iteration 3: 49 attractors remaining.
+    166s    0,0+ Iteration 4: 49 attractors remaining.
+    166s    0,0+ Iteration 5: 49 attractors remaining.
+    166s    0,0+ Iteration 6: 49 attractors remaining.
+    166s    0,0+ Iteration 7: 49 attractors remaining.
+    166s    0,0+ Iteration 8: 49 attractors remaining.
+    166s    0,0+ Iteration 9: 49 attractors remaining.
+    166s    0,0+ Iteration 10: 49 attractors remaining.
+    166s    0,0+ Iteration 11: 49 attractors remaining.
+    166s    0,0+ Iteration 12: 49 attractors remaining.
+    166s    0,0+ Iteration 13: 49 attractors remaining.
+    166s    0,0+ Iteration 14: 49 attractors remaining.
+    166s    0,0+ Iteration 15: 49 attractors remaining.
+    166s    0,0+ Iteration 16: 49 attractors remaining.
+    166s    0,0+ Iteration 17: 49 attractors remaining.
+    166s    0,0+ Iteration 18: 49 attractors remaining.
+    166s    0,0+ Iteration 19: 49 attractors remaining.
+    166s    0,0+ Iteration 20: 49 attractors remaining.
+    166s    0,0+ Iteration 21: 49 attractors remaining.
+    166s    0,0+ Iteration 22: 49 attractors remaining.
+    166s    0,0+ Iteration 23: 49 attractors remaining.
+    166s    0,0+ Iteration 24: 49 attractors remaining.
+    166s    0,0+ --- Space Colonization Complete ---
+    169s    2,9+ 
+    169s    2,9+ --- Starting Space Colonization ---
+    169s    0,0+ Iteration 0: 47 attractors remaining.
+    169s    0,0+ Iteration 1: 47 attractors remaining.
+    169s    0,0+ Iteration 2: 47 attractors remaining.
+    169s    0,0+ Iteration 3: 47 attractors remaining.
+    169s    0,0+ Iteration 4: 47 attractors remaining.
+    169s    0,0+ Iteration 5: 47 attractors remaining.
+    169s    0,0+ Iteration 6: 47 attractors remaining.
+    169s    0,0+ Iteration 7: 47 attractors remaining.
+    169s    0,0+ Iteration 8: 47 attractors remaining.
+    169s    0,0+ Iteration 9: 47 attractors remaining.
+    169s    0,0+ Iteration 10: 47 attractors remaining.
+    169s    0,0+ Iteration 11: 47 attractors remaining.
+    169s    0,0+ Iteration 12: 47 attractors remaining.
+    169s    0,0+ Iteration 13: 47 attractors remaining.
+    169s    0,0+ Iteration 14: 47 attractors remaining.
+    169s    0,0+ Iteration 15: 47 attractors remaining.
+    169s    0,0+ Iteration 16: 47 attractors remaining.
+    169s    0,0+ Iteration 17: 47 attractors remaining.
+    169s    0,0+ Iteration 18: 47 attractors remaining.
+    169s    0,0+ Iteration 19: 47 attractors remaining.
+    169s    0,0+ Iteration 20: 47 attractors remaining.
+    169s    0,0+ Iteration 21: 47 attractors remaining.
+    169s    0,0+ Iteration 22: 47 attractors remaining.
+    169s    0,0+ Iteration 23: 47 attractors remaining.
+    169s    0,0+ Iteration 24: 47 attractors remaining.
+    169s    0,0+ --- Space Colonization Complete ---
+    172s    2,7+ 
+    172s    2,7+ --- Starting Space Colonization ---
+    172s    0,0+ Iteration 0: 48 attractors remaining.
+    172s    0,0+ Iteration 1: 44 attractors remaining.
+    172s    0,0+ Iteration 2: 42 attractors remaining.
+    172s    0,0+ Iteration 3: 41 attractors remaining.
+    172s    0,0+ Iteration 4: 41 attractors remaining.
+    172s    0,0+ Iteration 5: 41 attractors remaining.
+    172s    0,0+ Iteration 6: 41 attractors remaining.
+    172s    0,0+ Iteration 7: 41 attractors remaining.
+    172s    0,0+ Iteration 8: 41 attractors remaining.
+    172s    0,0+ Iteration 9: 41 attractors remaining.
+    172s    0,0+ Iteration 10: 41 attractors remaining.
+    172s    0,0+ Iteration 11: 41 attractors remaining.
+    172s    0,0+ Iteration 12: 41 attractors remaining.
+    172s    0,0+ Iteration 13: 41 attractors remaining.
+    172s    0,0+ Iteration 14: 41 attractors remaining.
+    172s    0,0+ Iteration 15: 41 attractors remaining.
+    172s    0,0+ Iteration 16: 41 attractors remaining.
+    172s    0,0+ Iteration 17: 41 attractors remaining.
+    172s    0,0+ Iteration 18: 41 attractors remaining.
+    172s    0,0+ Iteration 19: 41 attractors remaining.
+    172s    0,0+ Iteration 20: 41 attractors remaining.
+    172s    0,0+ Iteration 21: 41 attractors remaining.
+    172s    0,0+ Iteration 22: 41 attractors remaining.
+    172s    0,0+ Iteration 23: 41 attractors remaining.
+    172s    0,0+ Iteration 24: 41 attractors remaining.
+    172s    0,0+ --- Space Colonization Complete ---
+    173s    0,9+ 
+    173s    0,9+ --- Starting Space Colonization ---
+    173s    0,0+ Iteration 0: 49 attractors remaining.
+    173s    0,0+ Iteration 1: 49 attractors remaining.
+    173s    0,0+ Iteration 2: 49 attractors remaining.
+    173s    0,0+ Iteration 3: 49 attractors remaining.
+    173s    0,0+ Iteration 4: 49 attractors remaining.
+    173s    0,0+ Iteration 5: 49 attractors remaining.
+    173s    0,0+ Iteration 6: 49 attractors remaining.
+    173s    0,0+ Iteration 7: 49 attractors remaining.
+    173s    0,0+ Iteration 8: 49 attractors remaining.
+    173s    0,0+ Iteration 9: 49 attractors remaining.
+    173s    0,0+ Iteration 10: 49 attractors remaining.
+    173s    0,0+ Iteration 11: 49 attractors remaining.
+    173s    0,0+ Iteration 12: 49 attractors remaining.
+    173s    0,0+ Iteration 13: 49 attractors remaining.
+    173s    0,0+ Iteration 14: 49 attractors remaining.
+    173s    0,0+ Iteration 15: 49 attractors remaining.
+    173s    0,0+ Iteration 16: 49 attractors remaining.
+    173s    0,0+ Iteration 17: 49 attractors remaining.
+    173s    0,0+ Iteration 18: 49 attractors remaining.
+    173s    0,0+ Iteration 19: 49 attractors remaining.
+    173s    0,0+ Iteration 20: 49 attractors remaining.
+    173s    0,0+ Iteration 21: 49 attractors remaining.
+    173s    0,0+ Iteration 22: 49 attractors remaining.
+    173s    0,0+ Iteration 23: 49 attractors remaining.
+    173s    0,0+ Iteration 24: 49 attractors remaining.
+    173s    0,0+ --- Space Colonization Complete ---
+    173s    0,9+ 
+    173s    0,9+ --- Starting Space Colonization ---
+    173s    0,0+ Iteration 0: 50 attractors remaining.
+    173s    0,0+ Iteration 1: 49 attractors remaining.
+    173s    0,0+ Iteration 2: 47 attractors remaining.
+    173s    0,0+ Iteration 3: 44 attractors remaining.
+    173s    0,0+ Iteration 4: 42 attractors remaining.
+    173s    0,0+ Iteration 5: 38 attractors remaining.
+    173s    0,0+ Iteration 6: 33 attractors remaining.
+    173s    0,0+ Iteration 7: 25 attractors remaining.
+    173s    0,0+ Iteration 8: 22 attractors remaining.
+    173s    0,0+ Iteration 9: 21 attractors remaining.
+    173s    0,0+ Iteration 10: 18 attractors remaining.
+    173s    0,0+ Iteration 11: 16 attractors remaining.
+    173s    0,0+ Iteration 12: 15 attractors remaining.
+    173s    0,0+ Iteration 13: 15 attractors remaining.
+    173s    0,0+ Iteration 14: 15 attractors remaining.
+    173s    0,0+ Iteration 15: 15 attractors remaining.
+    173s    0,0+ Iteration 16: 15 attractors remaining.
+    173s    0,0+ Iteration 17: 15 attractors remaining.
+    173s    0,0+ Iteration 18: 15 attractors remaining.
+    173s    0,0+ Iteration 19: 15 attractors remaining.
+    173s    0,0+ Iteration 20: 15 attractors remaining.
+    173s    0,0+ Iteration 21: 15 attractors remaining.
+    173s    0,0+ Iteration 22: 15 attractors remaining.
+    173s    0,0+ Iteration 23: 15 attractors remaining.
+    173s    0,0+ Iteration 24: 15 attractors remaining.
+    173s    0,0+ --- Space Colonization Complete ---
+    174s    0,7+ 
+    174s    0,7+ --- Starting Space Colonization ---
+    174s    0,0+ Iteration 0: 47 attractors remaining.
+    174s    0,0+ Iteration 1: 47 attractors remaining.
+    174s    0,0+ Iteration 2: 45 attractors remaining.
+    174s    0,0+ Iteration 3: 40 attractors remaining.
+    174s    0,0+ Iteration 4: 36 attractors remaining.
+    174s    0,0+ Iteration 5: 30 attractors remaining.
+    174s    0,0+ Iteration 6: 25 attractors remaining.
+    174s    0,0+ Iteration 7: 21 attractors remaining.
+    174s    0,0+ Iteration 8: 21 attractors remaining.
+    174s    0,0+ Iteration 9: 21 attractors remaining.
+    174s    0,0+ Iteration 10: 21 attractors remaining.
+    174s    0,0+ Iteration 11: 21 attractors remaining.
+    174s    0,0+ Iteration 12: 21 attractors remaining.
+    174s    0,0+ Iteration 13: 21 attractors remaining.
+    174s    0,0+ Iteration 14: 21 attractors remaining.
+    174s    0,0+ Iteration 15: 21 attractors remaining.
+    174s    0,0+ Iteration 16: 21 attractors remaining.
+    174s    0,0+ Iteration 17: 21 attractors remaining.
+    174s    0,0+ Iteration 18: 21 attractors remaining.
+    174s    0,0+ Iteration 19: 21 attractors remaining.
+    174s    0,0+ Iteration 20: 21 attractors remaining.
+    174s    0,0+ Iteration 21: 21 attractors remaining.
+    174s    0,0+ Iteration 22: 21 attractors remaining.
+    174s    0,0+ Iteration 23: 21 attractors remaining.
+    174s    0,0+ Iteration 24: 21 attractors remaining.
+    174s    0,0+ --- Space Colonization Complete ---
+    175s    0,7+ 
+    175s    0,7+ --- Starting Space Colonization ---
+    175s    0,0+ Iteration 0: 49 attractors remaining.
+    175s    0,0+ Iteration 1: 48 attractors remaining.
+    175s    0,0+ Iteration 2: 47 attractors remaining.
+    175s    0,0+ Iteration 3: 42 attractors remaining.
+    175s    0,0+ Iteration 4: 39 attractors remaining.
+    175s    0,0+ Iteration 5: 30 attractors remaining.
+    175s    0,0+ Iteration 6: 23 attractors remaining.
+    175s    0,0+ Iteration 7: 21 attractors remaining.
+    175s    0,0+ Iteration 8: 18 attractors remaining.
+    175s    0,0+ Iteration 9: 18 attractors remaining.
+    175s    0,0+ Iteration 10: 18 attractors remaining.
+    175s    0,0+ Iteration 11: 18 attractors remaining.
+    175s    0,0+ Iteration 12: 18 attractors remaining.
+    175s    0,0+ Iteration 13: 18 attractors remaining.
+    175s    0,0+ Iteration 14: 18 attractors remaining.
+    175s    0,0+ Iteration 15: 18 attractors remaining.
+    175s    0,0+ Iteration 16: 18 attractors remaining.
+    175s    0,0+ Iteration 17: 18 attractors remaining.
+    175s    0,0+ Iteration 18: 18 attractors remaining.
+    175s    0,0+ Iteration 19: 18 attractors remaining.
+    175s    0,0+ Iteration 20: 18 attractors remaining.
+    175s    0,0+ Iteration 21: 18 attractors remaining.
+    175s    0,0+ Iteration 22: 18 attractors remaining.
+    175s    0,0+ Iteration 23: 18 attractors remaining.
+    175s    0,0+ Iteration 24: 18 attractors remaining.
+    175s    0,0+ --- Space Colonization Complete ---
+    175s    0,6+ 
+    175s    0,6+ --- Starting Space Colonization ---
+    175s    0,0+ Iteration 0: 49 attractors remaining.
+    175s    0,0+ Iteration 1: 49 attractors remaining.
+    175s    0,0+ Iteration 2: 45 attractors remaining.
+    175s    0,0+ Iteration 3: 41 attractors remaining.
+    175s    0,0+ Iteration 4: 36 attractors remaining.
+    175s    0,0+ Iteration 5: 28 attractors remaining.
+    175s    0,0+ Iteration 6: 23 attractors remaining.
+    175s    0,0+ Iteration 7: 21 attractors remaining.
+    175s    0,0+ Iteration 8: 16 attractors remaining.
+    175s    0,0+ Iteration 9: 15 attractors remaining.
+    175s    0,0+ Iteration 10: 15 attractors remaining.
+    175s    0,0+ Iteration 11: 15 attractors remaining.
+    175s    0,0+ Iteration 12: 15 attractors remaining.
+    175s    0,0+ Iteration 13: 15 attractors remaining.
+    175s    0,0+ Iteration 14: 15 attractors remaining.
+    175s    0,0+ Iteration 15: 15 attractors remaining.
+    175s    0,0+ Iteration 16: 15 attractors remaining.
+    175s    0,0+ Iteration 17: 15 attractors remaining.
+    175s    0,0+ Iteration 18: 15 attractors remaining.
+    175s    0,0+ Iteration 19: 15 attractors remaining.
+    175s    0,0+ Iteration 20: 15 attractors remaining.
+    175s    0,0+ Iteration 21: 15 attractors remaining.
+    175s    0,0+ Iteration 22: 15 attractors remaining.
+    175s    0,0+ Iteration 23: 15 attractors remaining.
+    175s    0,0+ Iteration 24: 15 attractors remaining.
+    175s    0,0+ --- Space Colonization Complete ---
+    176s    0,7+ 
+    176s    0,7+ --- Starting Space Colonization ---
+    176s    0,0+ Iteration 0: 49 attractors remaining.
+    176s    0,0+ Iteration 1: 48 attractors remaining.
+    176s    0,0+ Iteration 2: 48 attractors remaining.
+    176s    0,0+ Iteration 3: 43 attractors remaining.
+    176s    0,0+ Iteration 4: 38 attractors remaining.
+    176s    0,0+ Iteration 5: 30 attractors remaining.
+    176s    0,0+ Iteration 6: 23 attractors remaining.
+    176s    0,0+ Iteration 7: 18 attractors remaining.
+    176s    0,0+ Iteration 8: 17 attractors remaining.
+    176s    0,0+ Iteration 9: 17 attractors remaining.
+    176s    0,0+ Iteration 10: 17 attractors remaining.
+    176s    0,0+ Iteration 11: 17 attractors remaining.
+    176s    0,0+ Iteration 12: 17 attractors remaining.
+    176s    0,0+ Iteration 13: 17 attractors remaining.
+    176s    0,0+ Iteration 14: 17 attractors remaining.
+    176s    0,0+ Iteration 15: 17 attractors remaining.
+    176s    0,0+ Iteration 16: 17 attractors remaining.
+    176s    0,0+ Iteration 17: 17 attractors remaining.
+    176s    0,0+ Iteration 18: 17 attractors remaining.
+    176s    0,0+ Iteration 19: 17 attractors remaining.
+    176s    0,0+ Iteration 20: 17 attractors remaining.
+    176s    0,0+ Iteration 21: 17 attractors remaining.
+    176s    0,0+ Iteration 22: 17 attractors remaining.
+    176s    0,0+ Iteration 23: 17 attractors remaining.
+    176s    0,0+ Iteration 24: 17 attractors remaining.
+    176s    0,0+ --- Space Colonization Complete ---
+    183s    6,6+ 
+    183s    6,6+ --- Starting Space Colonization ---
+    183s    0,0+ Iteration 0: 50 attractors remaining.
+    183s    0,0+ Iteration 1: 50 attractors remaining.
+    183s    0,0+ Iteration 2: 49 attractors remaining.
+    183s    0,0+ Iteration 3: 48 attractors remaining.
+    183s    0,0+ Iteration 4: 43 attractors remaining.
+    183s    0,0+ Iteration 5: 37 attractors remaining.
+    183s    0,0+ Iteration 6: 26 attractors remaining.
+    183s    0,0+ Iteration 7: 15 attractors remaining.
+    183s    0,0+ Iteration 8: 14 attractors remaining.
+    183s    0,0+ Iteration 9: 13 attractors remaining.
+    183s    0,0+ Iteration 10: 12 attractors remaining.
+    183s    0,0+ Iteration 11: 12 attractors remaining.
+    183s    0,0+ Iteration 12: 12 attractors remaining.
+    183s    0,0+ Iteration 13: 12 attractors remaining.
+    183s    0,0+ Iteration 14: 12 attractors remaining.
+    183s    0,0+ Iteration 15: 12 attractors remaining.
+    183s    0,0+ Iteration 16: 12 attractors remaining.
+    183s    0,0+ Iteration 17: 12 attractors remaining.
+    183s    0,0+ Iteration 18: 12 attractors remaining.
+    183s    0,0+ Iteration 19: 12 attractors remaining.
+    183s    0,0+ Iteration 20: 12 attractors remaining.
+    183s    0,0+ Iteration 21: 12 attractors remaining.
+    183s    0,0+ Iteration 22: 12 attractors remaining.
+    183s    0,0+ Iteration 23: 12 attractors remaining.
+    183s    0,0+ Iteration 24: 12 attractors remaining.
+    183s    0,0+ --- Space Colonization Complete ---
+    184s    1,0+ 
+    184s    1,0+ --- Starting Space Colonization ---
+    184s    0,0+ Iteration 0: 50 attractors remaining.
+    184s    0,0+ Iteration 1: 50 attractors remaining.
+    184s    0,0+ Iteration 2: 50 attractors remaining.
+    184s    0,0+ Iteration 3: 50 attractors remaining.
+    184s    0,0+ Iteration 4: 50 attractors remaining.
+    184s    0,0+ Iteration 5: 50 attractors remaining.
+    184s    0,0+ Iteration 6: 50 attractors remaining.
+    184s    0,0+ Iteration 7: 50 attractors remaining.
+    184s    0,0+ Iteration 8: 50 attractors remaining.
+    184s    0,0+ Iteration 9: 50 attractors remaining.
+    184s    0,0+ Iteration 10: 50 attractors remaining.
+    184s    0,0+ Iteration 11: 50 attractors remaining.
+    184s    0,0+ Iteration 12: 50 attractors remaining.
+    184s    0,0+ Iteration 13: 50 attractors remaining.
+    184s    0,0+ Iteration 14: 50 attractors remaining.
+    184s    0,0+ Iteration 15: 50 attractors remaining.
+    184s    0,0+ Iteration 16: 50 attractors remaining.
+    184s    0,0+ Iteration 17: 50 attractors remaining.
+    184s    0,0+ Iteration 18: 50 attractors remaining.
+    184s    0,0+ Iteration 19: 50 attractors remaining.
+    184s    0,0+ Iteration 20: 50 attractors remaining.
+    184s    0,0+ Iteration 21: 50 attractors remaining.
+    184s    0,0+ Iteration 22: 50 attractors remaining.
+    184s    0,0+ Iteration 23: 50 attractors remaining.
+    184s    0,0+ Iteration 24: 50 attractors remaining.
+    184s    0,0+ --- Space Colonization Complete ---
+    186s    1,7+ 
+    186s    1,7+ --- Starting Space Colonization ---
+    186s    0,0+ Iteration 0: 50 attractors remaining.
+    186s    0,0+ Iteration 1: 50 attractors remaining.
+    186s    0,0+ Iteration 2: 50 attractors remaining.
+    186s    0,0+ Iteration 3: 50 attractors remaining.
+    186s    0,0+ Iteration 4: 50 attractors remaining.
+    186s    0,0+ Iteration 5: 50 attractors remaining.
+    186s    0,0+ Iteration 6: 50 attractors remaining.
+    186s    0,0+ Iteration 7: 50 attractors remaining.
+    186s    0,0+ Iteration 8: 50 attractors remaining.
+    186s    0,0+ Iteration 9: 50 attractors remaining.
+    186s    0,0+ Iteration 10: 50 attractors remaining.
+    186s    0,0+ Iteration 11: 50 attractors remaining.
+    186s    0,0+ Iteration 12: 50 attractors remaining.
+    186s    0,0+ Iteration 13: 50 attractors remaining.
+    186s    0,0+ Iteration 14: 50 attractors remaining.
+    186s    0,0+ Iteration 15: 50 attractors remaining.
+    186s    0,0+ Iteration 16: 50 attractors remaining.
+    186s    0,0+ Iteration 17: 50 attractors remaining.
+    186s    0,0+ Iteration 18: 50 attractors remaining.
+    186s    0,0+ Iteration 19: 50 attractors remaining.
+    186s    0,0+ Iteration 20: 50 attractors remaining.
+    186s    0,0+ Iteration 21: 50 attractors remaining.
+    186s    0,0+ Iteration 22: 50 attractors remaining.
+    186s    0,0+ Iteration 23: 50 attractors remaining.
+    186s    0,0+ Iteration 24: 50 attractors remaining.
+    186s    0,0+ --- Space Colonization Complete ---
+    187s    1,7+ 
+    187s    1,7+ --- Starting Space Colonization ---
+    187s    0,0+ Iteration 0: 50 attractors remaining.
+    187s    0,0+ Iteration 1: 50 attractors remaining.
+    187s    0,0+ Iteration 2: 50 attractors remaining.
+    187s    0,0+ Iteration 3: 50 attractors remaining.
+    187s    0,0+ Iteration 4: 50 attractors remaining.
+    187s    0,0+ Iteration 5: 50 attractors remaining.
+    187s    0,0+ Iteration 6: 50 attractors remaining.
+    187s    0,0+ Iteration 7: 50 attractors remaining.
+    187s    0,0+ Iteration 8: 50 attractors remaining.
+    187s    0,0+ Iteration 9: 50 attractors remaining.
+    187s    0,0+ Iteration 10: 50 attractors remaining.
+    187s    0,0+ Iteration 11: 50 attractors remaining.
+    187s    0,0+ Iteration 12: 50 attractors remaining.
+    187s    0,0+ Iteration 13: 50 attractors remaining.
+    187s    0,0+ Iteration 14: 50 attractors remaining.
+    187s    0,0+ Iteration 15: 50 attractors remaining.
+    187s    0,0+ Iteration 16: 50 attractors remaining.
+    187s    0,0+ Iteration 17: 50 attractors remaining.
+    187s    0,0+ Iteration 18: 50 attractors remaining.
+    187s    0,0+ Iteration 19: 50 attractors remaining.
+    187s    0,0+ Iteration 20: 50 attractors remaining.
+    187s    0,0+ Iteration 21: 50 attractors remaining.
+    187s    0,0+ Iteration 22: 50 attractors remaining.
+    187s    0,0+ Iteration 23: 50 attractors remaining.
+    187s    0,0+ Iteration 24: 50 attractors remaining.
+    187s    0,0+ --- Space Colonization Complete ---
+    188s    0,6+ 
+    188s    0,6+ --- Starting Space Colonization ---
+    188s    0,0+ Iteration 0: 50 attractors remaining.
+    188s    0,0+ Iteration 1: 50 attractors remaining.
+    188s    0,0+ Iteration 2: 49 attractors remaining.
+    188s    0,0+ Iteration 3: 49 attractors remaining.
+    188s    0,0+ Iteration 4: 49 attractors remaining.
+    188s    0,0+ Iteration 5: 49 attractors remaining.
+    188s    0,0+ Iteration 6: 49 attractors remaining.
+    188s    0,0+ Iteration 7: 49 attractors remaining.
+    188s    0,0+ Iteration 8: 49 attractors remaining.
+    188s    0,0+ Iteration 9: 49 attractors remaining.
+    188s    0,0+ Iteration 10: 49 attractors remaining.
+    188s    0,0+ Iteration 11: 49 attractors remaining.
+    188s    0,0+ Iteration 12: 49 attractors remaining.
+    188s    0,0+ Iteration 13: 49 attractors remaining.
+    188s    0,0+ Iteration 14: 49 attractors remaining.
+    188s    0,0+ Iteration 15: 49 attractors remaining.
+    188s    0,0+ Iteration 16: 49 attractors remaining.
+    188s    0,0+ Iteration 17: 49 attractors remaining.
+    188s    0,0+ Iteration 18: 49 attractors remaining.
+    188s    0,0+ Iteration 19: 49 attractors remaining.
+    188s    0,0+ Iteration 20: 49 attractors remaining.
+    188s    0,0+ Iteration 21: 49 attractors remaining.
+    188s    0,0+ Iteration 22: 49 attractors remaining.
+    188s    0,0+ Iteration 23: 49 attractors remaining.
+    188s    0,0+ Iteration 24: 49 attractors remaining.
+    188s    0,0+ --- Space Colonization Complete ---
+    189s    0,7+ 
+    189s    0,7+ --- Starting Space Colonization ---
+    189s    0,0+ Iteration 0: 50 attractors remaining.
+    189s    0,0+ Iteration 1: 50 attractors remaining.
+    189s    0,0+ Iteration 2: 50 attractors remaining.
+    189s    0,0+ Iteration 3: 50 attractors remaining.
+    189s    0,0+ Iteration 4: 50 attractors remaining.
+    189s    0,0+ Iteration 5: 49 attractors remaining.
+    189s    0,0+ Iteration 6: 49 attractors remaining.
+    189s    0,0+ Iteration 7: 49 attractors remaining.
+    189s    0,0+ Iteration 8: 49 attractors remaining.
+    189s    0,0+ Iteration 9: 49 attractors remaining.
+    189s    0,0+ Iteration 10: 49 attractors remaining.
+    189s    0,0+ Iteration 11: 49 attractors remaining.
+    189s    0,0+ Iteration 12: 49 attractors remaining.
+    189s    0,0+ Iteration 13: 49 attractors remaining.
+    189s    0,0+ Iteration 14: 49 attractors remaining.
+    189s    0,0+ Iteration 15: 49 attractors remaining.
+    189s    0,0+ Iteration 16: 49 attractors remaining.
+    189s    0,0+ Iteration 17: 49 attractors remaining.
+    189s    0,0+ Iteration 18: 49 attractors remaining.
+    189s    0,0+ Iteration 19: 49 attractors remaining.
+    189s    0,0+ Iteration 20: 49 attractors remaining.
+    189s    0,0+ Iteration 21: 49 attractors remaining.
+    189s    0,0+ Iteration 22: 49 attractors remaining.
+    189s    0,0+ Iteration 23: 49 attractors remaining.
+    189s    0,0+ Iteration 24: 49 attractors remaining.
+    189s    0,0+ --- Space Colonization Complete ---
+    190s    1,2+ 
+    190s    1,2+ --- Starting Space Colonization ---
+    190s    0,0+ Iteration 0: 50 attractors remaining.
+    190s    0,0+ Iteration 1: 50 attractors remaining.
+    190s    0,0+ Iteration 2: 50 attractors remaining.
+    190s    0,0+ Iteration 3: 50 attractors remaining.
+    190s    0,0+ Iteration 4: 50 attractors remaining.
+    190s    0,0+ Iteration 5: 50 attractors remaining.
+    190s    0,0+ Iteration 6: 50 attractors remaining.
+    190s    0,0+ Iteration 7: 50 attractors remaining.
+    190s    0,0+ Iteration 8: 50 attractors remaining.
+    190s    0,0+ Iteration 9: 50 attractors remaining.
+    190s    0,0+ Iteration 10: 50 attractors remaining.
+    190s    0,0+ Iteration 11: 50 attractors remaining.
+    190s    0,0+ Iteration 12: 50 attractors remaining.
+    190s    0,0+ Iteration 13: 50 attractors remaining.
+    190s    0,0+ Iteration 14: 50 attractors remaining.
+    190s    0,0+ Iteration 15: 50 attractors remaining.
+    190s    0,0+ Iteration 16: 50 attractors remaining.
+    190s    0,0+ Iteration 17: 50 attractors remaining.
+    190s    0,0+ Iteration 18: 50 attractors remaining.
+    190s    0,0+ Iteration 19: 50 attractors remaining.
+    190s    0,0+ Iteration 20: 50 attractors remaining.
+    190s    0,0+ Iteration 21: 50 attractors remaining.
+    190s    0,0+ Iteration 22: 50 attractors remaining.
+    190s    0,0+ Iteration 23: 50 attractors remaining.
+    190s    0,0+ Iteration 24: 50 attractors remaining.
+    190s    0,0+ --- Space Colonization Complete ---
+    191s    0,6+ 
+    191s    0,6+ --- Starting Space Colonization ---
+    191s    0,0+ Iteration 0: 50 attractors remaining.
+    191s    0,0+ Iteration 1: 50 attractors remaining.
+    191s    0,0+ Iteration 2: 50 attractors remaining.
+    191s    0,0+ Iteration 3: 50 attractors remaining.
+    191s    0,0+ Iteration 4: 50 attractors remaining.
+    191s    0,0+ Iteration 5: 50 attractors remaining.
+    191s    0,0+ Iteration 6: 50 attractors remaining.
+    191s    0,0+ Iteration 7: 50 attractors remaining.
+    191s    0,0+ Iteration 8: 50 attractors remaining.
+    191s    0,0+ Iteration 9: 50 attractors remaining.
+    191s    0,0+ Iteration 10: 50 attractors remaining.
+    191s    0,0+ Iteration 11: 50 attractors remaining.
+    191s    0,0+ Iteration 12: 50 attractors remaining.
+    191s    0,0+ Iteration 13: 50 attractors remaining.
+    191s    0,0+ Iteration 14: 50 attractors remaining.
+    191s    0,0+ Iteration 15: 50 attractors remaining.
+    191s    0,0+ Iteration 16: 50 attractors remaining.
+    191s    0,0+ Iteration 17: 50 attractors remaining.
+    191s    0,0+ Iteration 18: 50 attractors remaining.
+    191s    0,0+ Iteration 19: 50 attractors remaining.
+    191s    0,0+ Iteration 20: 50 attractors remaining.
+    191s    0,0+ Iteration 21: 50 attractors remaining.
+    191s    0,0+ Iteration 22: 50 attractors remaining.
+    191s    0,0+ Iteration 23: 50 attractors remaining.
+    191s    0,0+ Iteration 24: 50 attractors remaining.
+    191s    0,0+ --- Space Colonization Complete ---
+    191s    0,6+ 
+    191s    0,6+ --- Starting Space Colonization ---
+    191s    0,0+ Iteration 0: 50 attractors remaining.
+    191s    0,0+ Iteration 1: 50 attractors remaining.
+    191s    0,0+ Iteration 2: 50 attractors remaining.
+    191s    0,0+ Iteration 3: 49 attractors remaining.
+    191s    0,0+ Iteration 4: 49 attractors remaining.
+    191s    0,0+ Iteration 5: 49 attractors remaining.
+    191s    0,0+ Iteration 6: 49 attractors remaining.
+    191s    0,0+ Iteration 7: 48 attractors remaining.
+    191s    0,0+ Iteration 8: 48 attractors remaining.
+    191s    0,0+ Iteration 9: 47 attractors remaining.
+    191s    0,0+ Iteration 10: 47 attractors remaining.
+    191s    0,0+ Iteration 11: 46 attractors remaining.
+    191s    0,0+ Iteration 12: 46 attractors remaining.
+    191s    0,0+ Iteration 13: 45 attractors remaining.
+    191s    0,0+ Iteration 14: 45 attractors remaining.
+    191s    0,0+ Iteration 15: 44 attractors remaining.
+    191s    0,0+ Iteration 16: 44 attractors remaining.
+    191s    0,0+ Iteration 17: 44 attractors remaining.
+    191s    0,0+ Iteration 18: 44 attractors remaining.
+    191s    0,0+ Iteration 19: 44 attractors remaining.
+    191s    0,0+ Iteration 20: 44 attractors remaining.
+    191s    0,0+ Iteration 21: 44 attractors remaining.
+    191s    0,0+ Iteration 22: 44 attractors remaining.
+    191s    0,0+ Iteration 23: 44 attractors remaining.
+    191s    0,0+ Iteration 24: 44 attractors remaining.
+    191s    0,0+ --- Space Colonization Complete ---
+    193s    1,7+ 
+    193s    1,7+ --- Starting Space Colonization ---
+    193s    0,0+ Iteration 0: 97 attractors remaining.
+    193s    0,0+ Iteration 1: 97 attractors remaining.
+    193s    0,0+ Iteration 2: 97 attractors remaining.
+    193s    0,0+ Iteration 3: 97 attractors remaining.
+    193s    0,0+ Iteration 4: 97 attractors remaining.
+    193s    0,0+ Iteration 5: 97 attractors remaining.
+    193s    0,0+ Iteration 6: 97 attractors remaining.
+    193s    0,0+ Iteration 7: 97 attractors remaining.
+    193s    0,0+ Iteration 8: 97 attractors remaining.
+    193s    0,0+ Iteration 9: 97 attractors remaining.
+    193s    0,0+ Iteration 10: 97 attractors remaining.
+    193s    0,0+ Iteration 11: 97 attractors remaining.
+    193s    0,0+ Iteration 12: 97 attractors remaining.
+    193s    0,0+ Iteration 13: 97 attractors remaining.
+    193s    0,0+ Iteration 14: 97 attractors remaining.
+    193s    0,0+ Iteration 15: 97 attractors remaining.
+    193s    0,0+ Iteration 16: 97 attractors remaining.
+    193s    0,0+ Iteration 17: 97 attractors remaining.
+    193s    0,0+ Iteration 18: 97 attractors remaining.
+    193s    0,0+ Iteration 19: 97 attractors remaining.
+    193s    0,0+ Iteration 20: 97 attractors remaining.
+    193s    0,0+ Iteration 21: 97 attractors remaining.
+    193s    0,0+ Iteration 22: 97 attractors remaining.
+    193s    0,0+ Iteration 23: 97 attractors remaining.
+    193s    0,0+ Iteration 24: 97 attractors remaining.
+    193s    0,0+ --- Space Colonization Complete ---
+    194s    0,8+ 
+    194s    0,8+ --- Starting Space Colonization ---
+    194s    0,0+ Iteration 0: 132 attractors remaining.
+    194s    0,0+ Iteration 1: 132 attractors remaining.
+    194s    0,0+ Iteration 2: 132 attractors remaining.
+    194s    0,0+ Iteration 3: 132 attractors remaining.
+    194s    0,0+ Iteration 4: 131 attractors remaining.
+    194s    0,0+ Iteration 5: 130 attractors remaining.
+    194s    0,0+ Iteration 6: 129 attractors remaining.
+    194s    0,0+ Iteration 7: 129 attractors remaining.
+    194s    0,0+ Iteration 8: 129 attractors remaining.
+    194s    0,0+ Iteration 9: 128 attractors remaining.
+    194s    0,0+ Iteration 10: 128 attractors remaining.
+    194s    0,0+ Iteration 11: 127 attractors remaining.
+    194s    0,0+ Iteration 12: 125 attractors remaining.
+    194s    0,0+ Iteration 13: 125 attractors remaining.
+    194s    0,0+ Iteration 14: 124 attractors remaining.
+    194s    0,0+ Iteration 15: 124 attractors remaining.
+    194s    0,0+ Iteration 16: 122 attractors remaining.
+    194s    0,0+ Iteration 17: 120 attractors remaining.
+    194s    0,0+ Iteration 18: 119 attractors remaining.
+    194s    0,0+ Iteration 19: 115 attractors remaining.
+    194s    0,0+ Iteration 20: 112 attractors remaining.
+    194s    0,0+ Iteration 21: 110 attractors remaining.
+    194s    0,0+ Iteration 22: 108 attractors remaining.
+    194s    0,0+ Iteration 23: 105 attractors remaining.
+    194s    0,0+ Iteration 24: 102 attractors remaining.
+    194s    0,0+ --- Space Colonization Complete ---
+    194s    0,6+ 
+    194s    0,6+ --- Starting Space Colonization ---
+    194s    0,0+ Iteration 0: 176 attractors remaining.
+    194s    0,0+ Iteration 1: 176 attractors remaining.
+    194s    0,0+ Iteration 2: 176 attractors remaining.
+    194s    0,0+ Iteration 3: 176 attractors remaining.
+    194s    0,0+ Iteration 4: 174 attractors remaining.
+    194s    0,0+ Iteration 5: 174 attractors remaining.
+    194s    0,0+ Iteration 6: 174 attractors remaining.
+    194s    0,0+ Iteration 7: 173 attractors remaining.
+    194s    0,0+ Iteration 8: 172 attractors remaining.
+    194s    0,0+ Iteration 9: 170 attractors remaining.
+    194s    0,0+ Iteration 10: 167 attractors remaining.
+    194s    0,0+ Iteration 11: 165 attractors remaining.
+    194s    0,0+ Iteration 12: 162 attractors remaining.
+    194s    0,0+ Iteration 13: 161 attractors remaining.
+    194s    0,0+ Iteration 14: 160 attractors remaining.
+    194s    0,0+ Iteration 15: 154 attractors remaining.
+    194s    0,0+ Iteration 16: 149 attractors remaining.
+    194s    0,0+ Iteration 17: 146 attractors remaining.
+    194s    0,0+ Iteration 18: 143 attractors remaining.
+    194s    0,0+ Iteration 19: 136 attractors remaining.
+    194s    0,0+ Iteration 20: 127 attractors remaining.
+    194s    0,0+ Iteration 21: 121 attractors remaining.
+    194s    0,0+ Iteration 22: 115 attractors remaining.
+    194s    0,0+ Iteration 23: 109 attractors remaining.
+    194s    0,0+ Iteration 24: 100 attractors remaining.
+    194s    0,0+ --- Space Colonization Complete ---
+    202s    7,2+ 
+    202s    7,2+ --- Starting Cellular Automata Construction ---
+    202s    0,0+ Iteration 1 complete.
+    202s    0,0+ Iteration 2 complete.
+    202s    0,0+ Iteration 3 complete.
+    202s    0,0+ Iteration 4 complete.
+    202s    0,0+ Iteration 5 complete.
+    202s    0,0+ Iteration 6 complete.
+    202s    0,0+ Iteration 7 complete.
+    202s    0,0+ Iteration 8 complete.
+    202s    0,0+ Iteration 9 complete.
+    202s    0,0+ Iteration 10 complete.
+    202s    0,0+ Constructing voxels from final grid...
+    202s    0,0+ --- Cellular Automata Construction Complete ---
+    206s    4,6+ 
+    206s    4,6+ --- Starting Cellular Automata Construction ---
+    206s    0,0+ Iteration 1 complete.
+    206s    0,0+ Iteration 2 complete.
+    206s    0,0+ Iteration 3 complete.
+    206s    0,0+ Iteration 4 complete.
+    206s    0,0+ Iteration 5 complete.
+    206s    0,0+ Iteration 6 complete.
+    206s    0,0+ Iteration 7 complete.
+    206s    0,0+ Iteration 8 complete.
+    206s    0,0+ Iteration 9 complete.
+    206s    0,0+ Iteration 10 complete.
+    206s    0,0+ Constructing voxels from final grid...
+    206s    0,0+ --- Cellular Automata Construction Complete ---
+    207s    0,9+ 
+    207s    0,9+ --- Starting Cellular Automata Construction ---
+    207s    0,0+ Iteration 1 complete.
+    207s    0,0+ Iteration 2 complete.
+    207s    0,0+ Iteration 3 complete.
+    207s    0,0+ Iteration 4 complete.
+    207s    0,0+ Iteration 5 complete.
+    207s    0,0+ Iteration 6 complete.
+    207s    0,0+ Iteration 7 complete.
+    207s    0,0+ Iteration 8 complete.
+    207s    0,0+ Iteration 9 complete.
+    207s    0,0+ Iteration 10 complete.
+    207s    0,0+ Constructing voxels from final grid...
+    207s    0,0+ --- Cellular Automata Construction Complete ---
+    208s    1,1+ 
+    208s    1,1+ --- Starting Cellular Automata Construction ---
+    208s    0,0+ Iteration 1 complete.
+    208s    0,0+ Iteration 2 complete.
+    208s    0,0+ Iteration 3 complete.
+    208s    0,0+ Iteration 4 complete.
+    208s    0,0+ Constructing voxels from final grid...
+    208s    0,0+ --- Cellular Automata Construction Complete ---
+    209s    0,9+ 
+    209s    0,9+ --- Starting Cellular Automata Construction ---
+    209s    0,0+ Iteration 1 complete.
+    209s    0,0+ Iteration 2 complete.
+    209s    0,0+ Iteration 3 complete.
+    209s    0,0+ Iteration 4 complete.
+    209s    0,0+ Iteration 5 complete.
+    209s    0,0+ Iteration 6 complete.
+    209s    0,0+ Iteration 7 complete.
+    209s    0,0+ Iteration 8 complete.
+    209s    0,0+ Iteration 9 complete.
+    209s    0,0+ Iteration 10 complete.
+    209s    0,0+ Constructing voxels from final grid...
+    209s    0,0+ --- Cellular Automata Construction Complete ---
+    210s    0,9+ 
+    210s    0,9+ --- Starting Cellular Automata Construction ---
+    210s    0,0+ Iteration 1 complete.
+    210s    0,0+ Iteration 2 complete.
+    210s    0,0+ Iteration 3 complete.
+    210s    0,0+ Iteration 4 complete.
+    210s    0,0+ Iteration 5 complete.
+    210s    0,0+ Iteration 6 complete.
+    210s    0,0+ Iteration 7 complete.
+    210s    0,0+ Iteration 8 complete.
+    210s    0,0+ Iteration 9 complete.
+    210s    0,0+ Iteration 10 complete.
+    210s    0,0+ Iteration 11 complete.
+    210s    0,0+ Iteration 12 complete.
+    210s    0,0+ Iteration 13 complete.
+    210s    0,0+ Iteration 14 complete.
+    210s    0,0+ Iteration 15 complete.
+    210s    0,0+ Iteration 16 complete.
+    210s    0,0+ Iteration 17 complete.
+    210s    0,0+ Iteration 18 complete.
+    210s    0,0+ Iteration 19 complete.
+    210s    0,0+ Iteration 20 complete.
+    210s    0,0+ Constructing voxels from final grid...
+    210s    0,0+ --- Cellular Automata Construction Complete ---
+    211s    0,9+ 
+    211s    0,9+ --- Starting Cellular Automata Construction ---
+    211s    0,0+ Iteration 1 complete.
+    211s    0,0+ Iteration 2 complete.
+    211s    0,0+ Iteration 3 complete.
+    211s    0,0+ Iteration 4 complete.
+    211s    0,0+ Iteration 5 complete.
+    211s    0,0+ Iteration 6 complete.
+    211s    0,0+ Iteration 7 complete.
+    211s    0,0+ Iteration 8 complete.
+    211s    0,0+ Iteration 9 complete.
+    211s    0,0+ Iteration 10 complete.
+    211s    0,0+ Iteration 11 complete.
+    211s    0,0+ Iteration 12 complete.
+    211s    0,0+ Iteration 13 complete.
+    211s    0,0+ Iteration 14 complete.
+    211s    0,0+ Iteration 15 complete.
+    211s    0,0+ Iteration 16 complete.
+    211s    0,0+ Constructing voxels from final grid...
+    211s    0,0+ --- Cellular Automata Construction Complete ---
+    215s    3,9+ 
+    215s    3,9+ --- Starting Cellular Automata Construction ---
+    215s    0,0+ Iteration 1 complete.
+    215s    0,0+ Iteration 2 complete.
+    215s    0,0+ Iteration 3 complete.
+    215s    0,0+ Iteration 4 complete.
+    215s    0,0+ Iteration 5 complete.
+    215s    0,0+ Iteration 6 complete.
+    215s    0,0+ Iteration 7 complete.
+    215s    0,0+ Iteration 8 complete.
+    215s    0,0+ Iteration 9 complete.
+    215s    0,0+ Iteration 10 complete.
+    215s    0,0+ Iteration 11 complete.
+    215s    0,0+ Iteration 12 complete.
+    215s    0,0+ Iteration 13 complete.
+    215s    0,0+ Iteration 14 complete.
+    215s    0,0+ Iteration 15 complete.
+    216s    0,0+ Iteration 16 complete.
+    216s    0,0+ Constructing voxels from final grid...
+    216s    0,0+ --- Cellular Automata Construction Complete ---
+    217s    1,1+ 
+    217s    1,1+ --- Starting Cellular Automata Construction ---
+    217s    0,0+ Iteration 1 complete.
+    217s    0,0+ Iteration 2 complete.
+    217s    0,0+ Iteration 3 complete.
+    217s    0,0+ Iteration 4 complete.
+    217s    0,0+ Iteration 5 complete.
+    217s    0,0+ Iteration 6 complete.
+    217s    0,0+ Iteration 7 complete.
+    217s    0,0+ Iteration 8 complete.
+    217s    0,0+ Iteration 9 complete.
+    217s    0,0+ Iteration 10 complete.
+    217s    0,0+ Iteration 11 complete.
+    217s    0,0+ Iteration 12 complete.
+    217s    0,0+ Iteration 13 complete.
+    217s    0,0+ Iteration 14 complete.
+    217s    0,0+ Iteration 15 complete.
+    217s    0,0+ Iteration 16 complete.
+    217s    0,0+ Constructing voxels from final grid...
+    217s    0,0+ --- Cellular Automata Construction Complete ---
+    218s    0,9+ 
+    218s    0,9+ --- Starting Cellular Automata Construction ---
+    218s    0,0+ Iteration 1 complete.
+    218s    0,0+ Iteration 2 complete.
+    218s    0,0+ Iteration 3 complete.
+    218s    0,0+ Iteration 4 complete.
+    218s    0,0+ Iteration 5 complete.
+    218s    0,0+ Iteration 6 complete.
+    218s    0,0+ Iteration 7 complete.
+    218s    0,0+ Iteration 8 complete.
+    218s    0,0+ Iteration 9 complete.
+    218s    0,0+ Iteration 10 complete.
+    218s    0,0+ Iteration 11 complete.
+    218s    0,0+ Iteration 12 complete.
+    218s    0,0+ Iteration 13 complete.
+    218s    0,0+ Iteration 14 complete.
+    218s    0,0+ Iteration 15 complete.
+    218s    0,0+ Iteration 16 complete.
+    218s    0,0+ Constructing voxels from final grid...
+    218s    0,0+ --- Cellular Automata Construction Complete ---
+    219s    0,8+ 
+    219s    0,8+ --- Starting Cellular Automata Construction ---
+    219s    0,0+ Iteration 1 complete.
+    219s    0,0+ Iteration 2 complete.
+    219s    0,0+ Iteration 3 complete.
+    219s    0,0+ Iteration 4 complete.
+    219s    0,0+ Iteration 5 complete.
+    219s    0,0+ Iteration 6 complete.
+    219s    0,0+ Iteration 7 complete.
+    219s    0,0+ Iteration 8 complete.
+    219s    0,0+ Iteration 9 complete.
+    219s    0,0+ Iteration 10 complete.
+    219s    0,0+ Iteration 11 complete.
+    219s    0,0+ Iteration 12 complete.
+    219s    0,0+ Iteration 13 complete.
+    219s    0,0+ Iteration 14 complete.
+    219s    0,0+ Iteration 15 complete.
+    219s    0,0+ Iteration 16 complete.
+    219s    0,0+ Constructing voxels from final grid...
+    219s    0,0+ --- Cellular Automata Construction Complete ---
+    220s    1,0+ 
+    220s    1,0+ --- Starting Cellular Automata Construction ---
+    220s    0,0+ Iteration 1 complete.
+    220s    0,0+ Iteration 2 complete.
+    220s    0,0+ Iteration 3 complete.
+    220s    0,0+ Iteration 4 complete.
+    220s    0,0+ Iteration 5 complete.
+    220s    0,0+ Iteration 6 complete.
+    220s    0,0+ Iteration 7 complete.
+    220s    0,0+ Iteration 8 complete.
+    220s    0,0+ Iteration 9 complete.
+    220s    0,0+ Iteration 10 complete.
+    220s    0,0+ Iteration 11 complete.
+    220s    0,0+ Iteration 12 complete.
+    220s    0,0+ Iteration 13 complete.
+    220s    0,0+ Iteration 14 complete.
+    220s    0,0+ Iteration 15 complete.
+    220s    0,0+ Iteration 16 complete.
+    220s    0,0+ Constructing voxels from final grid...
+    220s    0,0+ --- Cellular Automata Construction Complete ---
+    221s    1,2+ 
+    221s    1,2+ --- Starting Cellular Automata Construction ---
+    221s    0,0+ Iteration 1 complete.
+    221s    0,0+ Iteration 2 complete.
+    221s    0,0+ Iteration 3 complete.
+    221s    0,0+ Iteration 4 complete.
+    221s    0,0+ Iteration 5 complete.
+    221s    0,0+ Iteration 6 complete.
+    221s    0,0+ Iteration 7 complete.
+    221s    0,0+ Iteration 8 complete.
+    221s    0,0+ Iteration 9 complete.
+    221s    0,0+ Iteration 10 complete.
+    221s    0,0+ Iteration 11 complete.
+    221s    0,0+ Iteration 12 complete.
+    221s    0,0+ Iteration 13 complete.
+    221s    0,0+ Iteration 14 complete.
+    221s    0,0+ Iteration 15 complete.
+    221s    0,0+ Iteration 16 complete.
+    221s    0,0+ Constructing voxels from final grid...
+    221s    0,0+ --- Cellular Automata Construction Complete ---
+    223s    1,4+ 
+    223s    1,4+ --- Starting Cellular Automata Construction ---
+    223s    0,0+ Iteration 1 complete.
+    223s    0,0+ Iteration 2 complete.
+    223s    0,0+ Iteration 3 complete.
+    223s    0,0+ Iteration 4 complete.
+    223s    0,0+ Constructing voxels from final grid...
+    223s    0,0+ --- Cellular Automata Construction Complete ---
+    224s    0,9+ 
+    224s    0,9+ --- Starting Cellular Automata Construction ---
+    224s    0,0+ Iteration 1 complete.
+    224s    0,0+ Iteration 2 complete.
+    224s    0,0+ Iteration 3 complete.
+    224s    0,0+ Iteration 4 complete.
+    224s    0,0+ Iteration 5 complete.
+    224s    0,0+ Constructing voxels from final grid...
+    224s    0,0+ --- Cellular Automata Construction Complete ---

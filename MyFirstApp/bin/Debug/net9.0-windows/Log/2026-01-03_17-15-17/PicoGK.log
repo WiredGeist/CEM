@@ -1,0 +1,87 @@
+      0s    0,0+ Opened C:\Users\hakan\Documents\C#\CEM\MyFirstApp\bin\Debug\net9.0-windows\Log\2026-01-03_17-15-17\PicoGK.log
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ Current time (UTC): 2026-01-03 16:15:17 (UTC)
+      0s    0,0+ Current local time: 2026-01-03 17:15:17 (+01:00)
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ System Info:
+      0s    0,0+ 
+      0s    0,0+ Machine Name:         GENJU
+      0s    0,0+ Operating System      Microsoft Windows 10.0.26100
+      0s    0,0+ Version:              Microsoft Windows NT 10.0.26100.0
+      0s    0,0+ OS Architecture:      X64
+      0s    0,0+ Proc Architecture:    X64
+      0s    0,0+ 64 Bit OS:            Yes
+      0s    0,0+ 64 Bit Process:       Yes
+      0s    0,0+ Processor Count:      24
+      0s    0,0+ Working Set:          27MB
+      0s    0,0+ C# Framework:         .NET 9.0.11
+      0s    0,0+ C# CLR Version:       9.0.11
+      0s    0,0+ PicoGK Path:          picogk.1.7
+      0s    0,0+ Command Line:         C:\Users\hakan\Documents\C#\CEM\MyFirstApp\bin\Debug\net9.0-windows\MyFirstApp.dll
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ Welcome to PicoGK
+      0s    0,0+ Creating Viewer
+      0s    0,1+ PicoGK:    PicoGK Core Library
+      0s    0,0+            1.7.1
+      0s    0,0+            2024-08-03 22:17:59 picogk.1.7
+      0s    0,0+ 
+      0s    0,0+ VoxelSize: 3 (mm)
+      0s    0,0+ Happy Computational Engineering!
+      0s    0,0+ 
+      0s    0,0+ 
+      0s    0,0+ Loading lights embedded environment
+      0s    0,0+ Starting tasks.
+      0s    0,0+ 
+      0s    0,0+ Loading Lights
+      6s    5,8+ --- Generating BWB Multi-Section with Skinned Engines ---
+     27s   21,5+ --- Generating BWB Multi-Section with Skinned Engines ---
+     34s    6,2+ --- Generating BWB Multi-Section with Skinned Engines ---
+     42s    8,4+ --- Generating BWB Multi-Section with Skinned Engines ---
+     63s   21,0+ --- Generating BWB Multi-Section with Skinned Engines ---
+     75s   11,7+ --- Generating BWB Multi-Section with Skinned Engines ---
+     83s    8,1+ --- Generating BWB Multi-Section with Skinned Engines ---
+     88s    5,6+ --- Generating BWB Multi-Section with Skinned Engines ---
+    101s   12,8+ --- Generating BWB Multi-Section with Skinned Engines ---
+    108s    7,3+ --- Generating BWB Multi-Section with Skinned Engines ---
+    139s   30,2+ --- Generating BWB Multi-Section with Skinned Engines ---
+    144s    5,0+ --- Generating BWB Multi-Section with Skinned Engines ---
+    150s    6,6+ --- Generating BWB Multi-Section with Skinned Engines ---
+    163s   12,3+ --- Generating BWB Multi-Section with Skinned Engines ---
+    193s   30,5+ --- Generating BWB Multi-Section with Skinned Engines ---
+    211s   17,5+ --- Generating BWB Multi-Section with Skinned Engines ---
+    220s    9,4+ --- Generating BWB Multi-Section with Skinned Engines ---
+    227s    6,7+ --- Generating BWB Multi-Section with Skinned Engines ---
+    241s   14,1+ --- Generating BWB Multi-Section with Skinned Engines ---
+    254s   13,5+ --- Generating BWB Multi-Section with Skinned Engines ---
+    268s   13,8+ --- Generating BWB Multi-Section with Skinned Engines ---
+    312s   43,8+ --- Generating BWB Multi-Section with Skinned Engines ---
+    339s   27,3+ --- Generating BWB Multi-Section with Skinned Engines ---
+    363s   24,1+ --- Generating BWB Multi-Section with Skinned Engines ---
+    370s    7,2+ --- Generating BWB Multi-Section with Skinned Engines ---
+    375s    4,3+ --- Generating BWB Multi-Section with Skinned Engines ---
+    383s    8,4+ --- Generating BWB Multi-Section with Skinned Engines ---
+    390s    6,6+ --- Generating BWB Multi-Section with Skinned Engines ---
+    402s   12,0+ --- Generating BWB Multi-Section with Skinned Engines ---
+    421s   19,5+ --- Generating BWB Multi-Section with Skinned Engines ---
+    435s   13,5+ --- Generating BWB Multi-Section with Skinned Engines ---
+    442s    7,0+ --- Generating BWB Multi-Section with Skinned Engines ---
+    457s   15,8+ --- Generating BWB Multi-Section with Skinned Engines ---
+    476s   18,1+ --- Generating BWB Multi-Section with Skinned Engines ---
+    498s   22,2+ --- Generating BWB Multi-Section with Skinned Engines ---
+    522s   23,8+ --- Generating BWB Multi-Section with Skinned Engines ---
+    536s   14,3+ --- Generating BWB Multi-Section with Skinned Engines ---
+    545s    8,9+ --- Generating BWB Multi-Section with Skinned Engines ---
+    562s   17,4+ --- Generating BWB Multi-Section with Skinned Engines ---
+    576s   13,6+ --- Generating BWB Multi-Section with Skinned Engines ---
+    580s    4,0+ --- Generating BWB Multi-Section with Skinned Engines ---
+    601s   21,2+ --- Generating BWB Multi-Section with Skinned Engines ---
+    623s   21,8+ --- Generating BWB Multi-Section with Skinned Engines ---
+    633s   10,2+ --- Generating BWB Multi-Section with Skinned Engines ---
+    650s   17,3+ --- Generating BWB Multi-Section with Skinned Engines ---
+    682s   31,7+ --- Generating BWB Multi-Section with Skinned Engines ---

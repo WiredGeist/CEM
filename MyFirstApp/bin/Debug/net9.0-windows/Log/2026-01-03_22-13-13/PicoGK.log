@@ -1,0 +1,68 @@
+      0s    0,0+ Opened C:\Users\hakan\Documents\C#\CEM\MyFirstApp\bin\Debug\net9.0-windows\Log\2026-01-03_22-13-13\PicoGK.log
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ Current time (UTC): 2026-01-03 21:13:13 (UTC)
+      0s    0,0+ Current local time: 2026-01-03 22:13:13 (+01:00)
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ System Info:
+      0s    0,0+ 
+      0s    0,0+ Machine Name:         GENJU
+      0s    0,0+ Operating System      Microsoft Windows 10.0.26100
+      0s    0,0+ Version:              Microsoft Windows NT 10.0.26100.0
+      0s    0,0+ OS Architecture:      X64
+      0s    0,0+ Proc Architecture:    X64
+      0s    0,0+ 64 Bit OS:            Yes
+      0s    0,0+ 64 Bit Process:       Yes
+      0s    0,0+ Processor Count:      24
+      0s    0,0+ Working Set:          27MB
+      0s    0,0+ C# Framework:         .NET 9.0.11
+      0s    0,0+ C# CLR Version:       9.0.11
+      0s    0,0+ PicoGK Path:          picogk.1.7
+      0s    0,0+ Command Line:         C:\Users\hakan\Documents\C#\CEM\MyFirstApp\bin\Debug\net9.0-windows\MyFirstApp.dll
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ Welcome to PicoGK
+      0s    0,0+ Creating Viewer
+      0s    0,1+ PicoGK:    PicoGK Core Library
+      0s    0,0+            1.7.1
+      0s    0,0+            2024-08-03 22:17:59 picogk.1.7
+      0s    0,0+ 
+      0s    0,0+ VoxelSize: 3 (mm)
+      0s    0,0+ Happy Computational Engineering!
+      0s    0,0+ 
+      0s    0,0+ 
+      0s    0,0+ Loading lights embedded environment
+      0s    0,0+ Starting tasks.
+      0s    0,0+ 
+      0s    0,0+ Loading Lights
+     17s   17,3+ --- Generating B-21 Submerged Engines ---
+     47s   29,1+ --- Generating B-21 Submerged Engines ---
+     99s   52,3+ --- Generating B-21 Submerged Engines ---
+    125s   25,8+ --- Generating B-21 Submerged Engines ---
+    145s   20,2+ --- Generating B-21 Submerged Engines ---
+    172s   26,6+ --- Generating B-21 Submerged Engines ---
+    193s   21,4+ --- Generating B-21 Submerged Engines ---
+    215s   22,4+ --- Generating B-21 Submerged Engines ---
+    265s   49,3+ --- Generating B-21 Submerged Engines ---
+    332s   66,8+ --- Generating B-21 Submerged Engines ---
+    353s   21,7+ --- Generating B-21 Submerged Engines ---
+    364s   11,1+ --- Generating B-21 Submerged Engines ---
+    390s   25,8+ --- Generating B-21 Submerged Engines ---
+    409s   19,1+ --- Generating B-21 Submerged Engines ---
+    442s   32,4+ --- Generating B-21 Submerged Engines ---
+    464s   22,0+ --- Generating B-21 Submerged Engines ---
+    517s   53,4+ --- Generating B-21 Submerged Engines ---
+    597s   80,5+ --- Generating B-21 Submerged Engines ---
+    613s   16,0+ --- Generating B-21 Submerged Engines ---
+    638s   24,2+ --- Generating B-21 Submerged Engines ---
+    712s   74,7+ --- Generating B-21 Submerged Engines ---
+    745s   32,3+ --- Generating B-21 Submerged Engines ---
+    774s   29,2+ --- Generating B-21 Submerged Engines ---
+    807s   33,0+ --- Generating B-21 Submerged Engines ---
+    860s   53,2+ --- Generating B-21 Submerged Engines ---
+    909s   48,4+ --- Generating B-21 Submerged Engines ---
+    966s   57,7+ --- Generating B-21 Submerged Engines ---

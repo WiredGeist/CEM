@@ -1,0 +1,419 @@
+      0s    0,0+ Opened C:\Users\hakan\Documents\C#\CEM\MyFirstApp\bin\Debug\net9.0-windows\Log\2026-01-02_03-56-24\PicoGK.log
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ Current time (UTC): 2026-01-02 02:56:24 (UTC)
+      0s    0,0+ Current local time: 2026-01-02 03:56:24 (+01:00)
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ System Info:
+      0s    0,0+ 
+      0s    0,0+ Machine Name:         GENJU
+      0s    0,0+ Operating System      Microsoft Windows 10.0.26100
+      0s    0,0+ Version:              Microsoft Windows NT 10.0.26100.0
+      0s    0,0+ OS Architecture:      X64
+      0s    0,0+ Proc Architecture:    X64
+      0s    0,0+ 64 Bit OS:            Yes
+      0s    0,0+ 64 Bit Process:       Yes
+      0s    0,0+ Processor Count:      24
+      0s    0,0+ Working Set:          27MB
+      0s    0,0+ C# Framework:         .NET 9.0.11
+      0s    0,0+ C# CLR Version:       9.0.11
+      0s    0,0+ PicoGK Path:          picogk.1.7
+      0s    0,0+ Command Line:         C:\Users\hakan\Documents\C#\CEM\MyFirstApp\bin\Debug\net9.0-windows\MyFirstApp.dll
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ Welcome to PicoGK
+      0s    0,0+ Creating Viewer
+      0s    0,1+ PicoGK:    PicoGK Core Library
+      0s    0,0+            1.7.1
+      0s    0,0+            2024-08-03 22:17:59 picogk.1.7
+      0s    0,0+ 
+      0s    0,0+ VoxelSize: 1 (mm)
+      0s    0,0+ Happy Computational Engineering!
+      0s    0,0+ 
+      0s    0,0+ 
+      0s    0,0+ Loading lights embedded environment
+      0s    0,0+ Starting tasks.
+      0s    0,0+ 
+      0s    0,0+ Loading Lights
+      5s    4,3+ 
+      5s    4,3+ --- Starting Parametric Bézier Wing Construction ---
+      5s    0,0+ Grid created with 21 sections.
+      5s    0,0+ Constructing mesh from grid...
+      5s    0,0+ Mesh created with 3960 triangles.
+      5s    0,0+ Voxelizing...
+      5s    0,2+ --- Construction Complete ---
+     10s    5,0+ 
+     10s    5,0+ --- Starting Parametric Bézier Wing Construction ---
+     10s    0,0+ Grid created with 21 sections.
+     10s    0,0+ Constructing mesh from grid...
+     10s    0,0+ Mesh created with 3960 triangles.
+     10s    0,0+ Voxelizing...
+     10s    0,2+ --- Construction Complete ---
+     11s    1,2+ 
+     11s    1,2+ --- Starting Parametric Bézier Wing Construction ---
+     11s    0,0+ Grid created with 21 sections.
+     11s    0,0+ Constructing mesh from grid...
+     11s    0,0+ Mesh created with 3960 triangles.
+     11s    0,0+ Voxelizing...
+     11s    0,2+ --- Construction Complete ---
+     13s    1,3+ 
+     13s    1,3+ --- Starting Parametric Bézier Wing Construction ---
+     13s    0,0+ Grid created with 21 sections.
+     13s    0,0+ Constructing mesh from grid...
+     13s    0,0+ Mesh created with 3960 triangles.
+     13s    0,0+ Voxelizing...
+     13s    0,2+ --- Construction Complete ---
+     14s    1,1+ 
+     14s    1,1+ --- Starting Parametric Bézier Wing Construction ---
+     14s    0,0+ Grid created with 21 sections.
+     14s    0,0+ Constructing mesh from grid...
+     14s    0,0+ Mesh created with 3960 triangles.
+     14s    0,0+ Voxelizing...
+     14s    0,2+ --- Construction Complete ---
+     17s    2,8+ 
+     17s    2,8+ --- Starting Parametric Bézier Wing Construction ---
+     17s    0,0+ Grid created with 21 sections.
+     17s    0,0+ Constructing mesh from grid...
+     17s    0,0+ Mesh created with 3960 triangles.
+     17s    0,0+ Voxelizing...
+     17s    0,2+ --- Construction Complete ---
+     18s    1,0+ 
+     18s    1,0+ --- Starting Parametric Bézier Wing Construction ---
+     18s    0,0+ Grid created with 21 sections.
+     18s    0,0+ Constructing mesh from grid...
+     18s    0,0+ Mesh created with 3960 triangles.
+     18s    0,0+ Voxelizing...
+     18s    0,2+ --- Construction Complete ---
+     19s    0,8+ 
+     19s    0,8+ --- Starting Parametric Bézier Wing Construction ---
+     19s    0,0+ Grid created with 21 sections.
+     19s    0,0+ Constructing mesh from grid...
+     19s    0,0+ Mesh created with 3960 triangles.
+     19s    0,0+ Voxelizing...
+     19s    0,2+ --- Construction Complete ---
+     21s    1,8+ 
+     21s    1,8+ --- Starting Parametric Bézier Wing Construction ---
+     21s    0,0+ Grid created with 21 sections.
+     21s    0,0+ Constructing mesh from grid...
+     21s    0,0+ Mesh created with 3960 triangles.
+     21s    0,0+ Voxelizing...
+     21s    0,1+ --- Construction Complete ---
+     22s    1,2+ 
+     22s    1,2+ --- Starting Parametric Bézier Wing Construction ---
+     22s    0,0+ Grid created with 21 sections.
+     22s    0,0+ Constructing mesh from grid...
+     22s    0,0+ Mesh created with 3960 triangles.
+     22s    0,0+ Voxelizing...
+     22s    0,2+ --- Construction Complete ---
+     24s    1,4+ 
+     24s    1,4+ --- Starting Parametric Bézier Wing Construction ---
+     24s    0,0+ Grid created with 21 sections.
+     24s    0,0+ Constructing mesh from grid...
+     24s    0,0+ Mesh created with 3960 triangles.
+     24s    0,0+ Voxelizing...
+     24s    0,2+ --- Construction Complete ---
+     25s    0,8+ 
+     25s    0,8+ --- Starting Parametric Bézier Wing Construction ---
+     25s    0,0+ Grid created with 21 sections.
+     25s    0,0+ Constructing mesh from grid...
+     25s    0,0+ Mesh created with 3960 triangles.
+     25s    0,0+ Voxelizing...
+     25s    0,2+ --- Construction Complete ---
+     26s    0,8+ 
+     26s    0,8+ --- Starting Parametric Bézier Wing Construction ---
+     26s    0,0+ Grid created with 21 sections.
+     26s    0,0+ Constructing mesh from grid...
+     26s    0,0+ Mesh created with 3960 triangles.
+     26s    0,0+ Voxelizing...
+     26s    0,2+ --- Construction Complete ---
+     27s    1,4+ 
+     27s    1,4+ --- Starting Parametric Bézier Wing Construction ---
+     27s    0,0+ Grid created with 21 sections.
+     27s    0,0+ Constructing mesh from grid...
+     27s    0,0+ Mesh created with 3960 triangles.
+     27s    0,0+ Voxelizing...
+     28s    0,2+ --- Construction Complete ---
+     29s    0,9+ 
+     29s    0,9+ --- Starting Parametric Bézier Wing Construction ---
+     29s    0,0+ Grid created with 21 sections.
+     29s    0,0+ Constructing mesh from grid...
+     29s    0,0+ Mesh created with 3960 triangles.
+     29s    0,0+ Voxelizing...
+     29s    0,2+ --- Construction Complete ---
+     30s    1,3+ 
+     30s    1,3+ --- Starting Parametric Bézier Wing Construction ---
+     30s    0,0+ Grid created with 21 sections.
+     30s    0,0+ Constructing mesh from grid...
+     30s    0,0+ Mesh created with 3960 triangles.
+     30s    0,0+ Voxelizing...
+     30s    0,1+ --- Construction Complete ---
+     32s    1,4+ 
+     32s    1,4+ --- Starting Parametric Bézier Wing Construction ---
+     32s    0,0+ Grid created with 21 sections.
+     32s    0,0+ Constructing mesh from grid...
+     32s    0,0+ Mesh created with 3960 triangles.
+     32s    0,0+ Voxelizing...
+     32s    0,2+ --- Construction Complete ---
+     33s    0,7+ 
+     33s    0,7+ --- Starting Parametric Bézier Wing Construction ---
+     33s    0,0+ Grid created with 21 sections.
+     33s    0,0+ Constructing mesh from grid...
+     33s    0,0+ Mesh created with 3960 triangles.
+     33s    0,0+ Voxelizing...
+     33s    0,2+ --- Construction Complete ---
+     43s   10,4+ 
+     43s   10,4+ --- Starting Parametric Bézier Wing Construction ---
+     43s    0,0+ Grid created with 21 sections.
+     43s    0,0+ Constructing mesh from grid...
+     43s    0,0+ Mesh created with 3960 triangles.
+     43s    0,0+ Voxelizing...
+     43s    0,1+ --- Construction Complete ---
+     45s    1,7+ 
+     45s    1,7+ --- Starting Parametric Bézier Wing Construction ---
+     45s    0,0+ Grid created with 21 sections.
+     45s    0,0+ Constructing mesh from grid...
+     45s    0,0+ Mesh created with 3960 triangles.
+     45s    0,0+ Voxelizing...
+     45s    0,2+ --- Construction Complete ---
+     57s   11,4+ 
+     57s   11,4+ --- Starting Parametric Bézier Wing Construction ---
+     57s    0,0+ Grid created with 21 sections.
+     57s    0,0+ Constructing mesh from grid...
+     57s    0,0+ Mesh created with 3960 triangles.
+     57s    0,0+ Voxelizing...
+     57s    0,2+ --- Construction Complete ---
+     58s    1,1+ 
+     58s    1,1+ --- Starting Parametric Bézier Wing Construction ---
+     58s    0,0+ Grid created with 21 sections.
+     58s    0,0+ Constructing mesh from grid...
+     58s    0,0+ Mesh created with 3960 triangles.
+     58s    0,0+ Voxelizing...
+     58s    0,2+ --- Construction Complete ---
+     64s    6,4+ 
+     64s    6,4+ --- Starting Parametric Bézier Wing Construction ---
+     64s    0,0+ Grid created with 21 sections.
+     64s    0,0+ Constructing mesh from grid...
+     64s    0,0+ Mesh created with 3960 triangles.
+     64s    0,0+ Voxelizing...
+     65s    0,1+ --- Construction Complete ---
+     65s    0,9+ 
+     65s    0,9+ --- Starting Parametric Bézier Wing Construction ---
+     65s    0,0+ Grid created with 21 sections.
+     65s    0,0+ Constructing mesh from grid...
+     65s    0,0+ Mesh created with 3960 triangles.
+     65s    0,0+ Voxelizing...
+     66s    0,2+ --- Construction Complete ---
+     66s    0,6+ 
+     66s    0,6+ --- Starting Parametric Bézier Wing Construction ---
+     66s    0,0+ Grid created with 21 sections.
+     66s    0,0+ Constructing mesh from grid...
+     66s    0,0+ Mesh created with 3960 triangles.
+     66s    0,0+ Voxelizing...
+     66s    0,2+ --- Construction Complete ---
+     68s    1,4+ 
+     68s    1,4+ --- Starting Parametric Bézier Wing Construction ---
+     68s    0,0+ Grid created with 21 sections.
+     68s    0,0+ Constructing mesh from grid...
+     68s    0,0+ Mesh created with 3960 triangles.
+     68s    0,0+ Voxelizing...
+     68s    0,1+ --- Construction Complete ---
+     72s    3,9+ 
+     72s    3,9+ --- Starting Parametric Bézier Wing Construction ---
+     72s    0,0+ Grid created with 21 sections.
+     72s    0,0+ Constructing mesh from grid...
+     72s    0,0+ Mesh created with 3960 triangles.
+     72s    0,0+ Voxelizing...
+     72s    0,1+ --- Construction Complete ---
+     73s    1,2+ 
+     73s    1,2+ --- Starting Parametric Bézier Wing Construction ---
+     73s    0,0+ Grid created with 21 sections.
+     73s    0,0+ Constructing mesh from grid...
+     73s    0,0+ Mesh created with 3960 triangles.
+     73s    0,0+ Voxelizing...
+     73s    0,1+ --- Construction Complete ---
+     74s    0,9+ 
+     74s    0,9+ --- Starting Parametric Bézier Wing Construction ---
+     74s    0,0+ Grid created with 21 sections.
+     74s    0,0+ Constructing mesh from grid...
+     74s    0,0+ Mesh created with 3960 triangles.
+     74s    0,0+ Voxelizing...
+     74s    0,1+ --- Construction Complete ---
+     76s    1,9+ 
+     76s    1,9+ --- Starting Parametric Bézier Wing Construction ---
+     76s    0,0+ Grid created with 21 sections.
+     76s    0,0+ Constructing mesh from grid...
+     76s    0,0+ Mesh created with 3960 triangles.
+     76s    0,0+ Voxelizing...
+     76s    0,1+ --- Construction Complete ---
+     78s    1,4+ 
+     78s    1,4+ --- Starting Parametric Bézier Wing Construction ---
+     78s    0,0+ Grid created with 21 sections.
+     78s    0,0+ Constructing mesh from grid...
+     78s    0,0+ Mesh created with 3960 triangles.
+     78s    0,0+ Voxelizing...
+     78s    0,1+ --- Construction Complete ---
+     79s    1,1+ 
+     79s    1,1+ --- Starting Parametric Bézier Wing Construction ---
+     79s    0,0+ Grid created with 21 sections.
+     79s    0,0+ Constructing mesh from grid...
+     79s    0,0+ Mesh created with 3960 triangles.
+     79s    0,0+ Voxelizing...
+     79s    0,2+ --- Construction Complete ---
+     80s    0,9+ 
+     80s    0,9+ --- Starting Parametric Bézier Wing Construction ---
+     80s    0,0+ Grid created with 21 sections.
+     80s    0,0+ Constructing mesh from grid...
+     80s    0,0+ Mesh created with 3960 triangles.
+     80s    0,0+ Voxelizing...
+     80s    0,1+ --- Construction Complete ---
+     81s    0,9+ 
+     81s    0,9+ --- Starting Parametric Bézier Wing Construction ---
+     81s    0,0+ Grid created with 21 sections.
+     81s    0,0+ Constructing mesh from grid...
+     81s    0,0+ Mesh created with 3960 triangles.
+     81s    0,0+ Voxelizing...
+     81s    0,1+ --- Construction Complete ---
+     84s    2,6+ 
+     84s    2,6+ --- Starting Parametric Bézier Wing Construction ---
+     84s    0,0+ Grid created with 21 sections.
+     84s    0,0+ Constructing mesh from grid...
+     84s    0,0+ Mesh created with 3960 triangles.
+     84s    0,0+ Voxelizing...
+     84s    0,1+ --- Construction Complete ---
+     85s    1,0+ 
+     85s    1,0+ --- Starting Parametric Bézier Wing Construction ---
+     85s    0,0+ Grid created with 21 sections.
+     85s    0,0+ Constructing mesh from grid...
+     85s    0,0+ Mesh created with 3960 triangles.
+     85s    0,0+ Voxelizing...
+     85s    0,1+ --- Construction Complete ---
+     86s    1,1+ 
+     86s    1,1+ --- Starting Parametric Bézier Wing Construction ---
+     86s    0,0+ Grid created with 21 sections.
+     86s    0,0+ Constructing mesh from grid...
+     86s    0,0+ Mesh created with 3960 triangles.
+     86s    0,0+ Voxelizing...
+     86s    0,1+ --- Construction Complete ---
+     87s    0,7+ 
+     87s    0,7+ --- Starting Parametric Bézier Wing Construction ---
+     87s    0,0+ Grid created with 21 sections.
+     87s    0,0+ Constructing mesh from grid...
+     87s    0,0+ Mesh created with 3960 triangles.
+     87s    0,0+ Voxelizing...
+     87s    0,1+ --- Construction Complete ---
+     89s    1,5+ 
+     89s    1,5+ --- Starting Parametric Bézier Wing Construction ---
+     89s    0,0+ Grid created with 21 sections.
+     89s    0,0+ Constructing mesh from grid...
+     89s    0,0+ Mesh created with 3960 triangles.
+     89s    0,0+ Voxelizing...
+     89s    0,1+ --- Construction Complete ---
+     90s    0,7+ 
+     90s    0,7+ --- Starting Parametric Bézier Wing Construction ---
+     90s    0,0+ Grid created with 21 sections.
+     90s    0,0+ Constructing mesh from grid...
+     90s    0,0+ Mesh created with 3960 triangles.
+     90s    0,0+ Voxelizing...
+     90s    0,1+ --- Construction Complete ---
+     90s    0,7+ 
+     90s    0,7+ --- Starting Parametric Bézier Wing Construction ---
+     90s    0,0+ Grid created with 21 sections.
+     90s    0,0+ Constructing mesh from grid...
+     90s    0,0+ Mesh created with 3960 triangles.
+     90s    0,0+ Voxelizing...
+     90s    0,1+ --- Construction Complete ---
+     92s    1,6+ 
+     92s    1,6+ --- Starting Parametric Bézier Wing Construction ---
+     92s    0,0+ Grid created with 21 sections.
+     92s    0,0+ Constructing mesh from grid...
+     92s    0,0+ Mesh created with 3960 triangles.
+     92s    0,0+ Voxelizing...
+     92s    0,1+ --- Construction Complete ---
+     93s    0,9+ 
+     93s    0,9+ --- Starting Parametric Bézier Wing Construction ---
+     93s    0,0+ Grid created with 21 sections.
+     93s    0,0+ Constructing mesh from grid...
+     93s    0,0+ Mesh created with 3960 triangles.
+     93s    0,0+ Voxelizing...
+     93s    0,1+ --- Construction Complete ---
+     94s    0,7+ 
+     94s    0,7+ --- Starting Parametric Bézier Wing Construction ---
+     94s    0,0+ Grid created with 21 sections.
+     94s    0,0+ Constructing mesh from grid...
+     94s    0,0+ Mesh created with 3960 triangles.
+     94s    0,0+ Voxelizing...
+     94s    0,1+ --- Construction Complete ---
+     95s    1,0+ 
+     95s    1,0+ --- Starting Parametric Bézier Wing Construction ---
+     95s    0,0+ Grid created with 21 sections.
+     95s    0,0+ Constructing mesh from grid...
+     95s    0,0+ Mesh created with 3960 triangles.
+     95s    0,0+ Voxelizing...
+     95s    0,1+ --- Construction Complete ---
+     96s    1,1+ 
+     96s    1,1+ --- Starting Parametric Bézier Wing Construction ---
+     96s    0,0+ Grid created with 21 sections.
+     96s    0,0+ Constructing mesh from grid...
+     96s    0,0+ Mesh created with 3960 triangles.
+     96s    0,0+ Voxelizing...
+     96s    0,1+ --- Construction Complete ---
+     97s    1,1+ 
+     97s    1,1+ --- Starting Parametric Bézier Wing Construction ---
+     97s    0,0+ Grid created with 21 sections.
+     97s    0,0+ Constructing mesh from grid...
+     97s    0,0+ Mesh created with 3960 triangles.
+     97s    0,0+ Voxelizing...
+     98s    0,2+ --- Construction Complete ---
+     99s    1,7+ 
+     99s    1,7+ --- Starting Parametric Bézier Wing Construction ---
+     99s    0,0+ Grid created with 21 sections.
+     99s    0,0+ Constructing mesh from grid...
+     99s    0,0+ Mesh created with 3960 triangles.
+     99s    0,0+ Voxelizing...
+    100s    0,3+ --- Construction Complete ---
+    101s    1,6+ 
+    101s    1,6+ --- Starting Parametric Bézier Wing Construction ---
+    101s    0,0+ Grid created with 21 sections.
+    101s    0,0+ Constructing mesh from grid...
+    101s    0,0+ Mesh created with 3960 triangles.
+    101s    0,0+ Voxelizing...
+    101s    0,2+ --- Construction Complete ---
+    103s    1,5+ 
+    103s    1,5+ --- Starting Parametric Bézier Wing Construction ---
+    103s    0,0+ Grid created with 21 sections.
+    103s    0,0+ Constructing mesh from grid...
+    103s    0,0+ Mesh created with 3960 triangles.
+    103s    0,0+ Voxelizing...
+    103s    0,3+ --- Construction Complete ---
+    104s    1,1+ 
+    104s    1,1+ --- Starting Parametric Bézier Wing Construction ---
+    104s    0,0+ Grid created with 21 sections.
+    104s    0,0+ Constructing mesh from grid...
+    104s    0,0+ Mesh created with 3960 triangles.
+    104s    0,0+ Voxelizing...
+    105s    0,3+ --- Construction Complete ---
+    107s    2,4+ 
+    107s    2,4+ --- Starting Parametric Bézier Wing Construction ---
+    107s    0,0+ Grid created with 21 sections.
+    107s    0,0+ Constructing mesh from grid...
+    107s    0,0+ Mesh created with 3960 triangles.
+    107s    0,0+ Voxelizing...
+    107s    0,3+ --- Construction Complete ---
+    109s    1,6+ 
+    109s    1,6+ --- Starting Parametric Bézier Wing Construction ---
+    109s    0,0+ Grid created with 21 sections.
+    109s    0,0+ Constructing mesh from grid...
+    109s    0,0+ Mesh created with 3960 triangles.
+    109s    0,0+ Voxelizing...
+    109s    0,3+ --- Construction Complete ---
+    115s    6,2+ 
+    115s    6,2+ --- Starting Parametric Bézier Wing Construction ---
+    115s    0,0+ Grid created with 21 sections.
+    115s    0,0+ Constructing mesh from grid...
+    115s    0,0+ Mesh created with 3960 triangles.
+    115s    0,0+ Voxelizing...
+    116s    0,3+ --- Construction Complete ---

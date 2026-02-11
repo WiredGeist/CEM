@@ -1,0 +1,193 @@
+      0s    0,0+ Opened C:\Users\hakan\Documents\C#\CEM\MyFirstApp\bin\Debug\net9.0-windows\Log\2026-01-03_09-57-35\PicoGK.log
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ Current time (UTC): 2026-01-03 08:57:35 (UTC)
+      0s    0,0+ Current local time: 2026-01-03 09:57:35 (+01:00)
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ System Info:
+      0s    0,0+ 
+      0s    0,0+ Machine Name:         GENJU
+      0s    0,0+ Operating System      Microsoft Windows 10.0.26100
+      0s    0,0+ Version:              Microsoft Windows NT 10.0.26100.0
+      0s    0,0+ OS Architecture:      X64
+      0s    0,0+ Proc Architecture:    X64
+      0s    0,0+ 64 Bit OS:            Yes
+      0s    0,0+ 64 Bit Process:       Yes
+      0s    0,0+ Processor Count:      24
+      0s    0,0+ Working Set:          27MB
+      0s    0,0+ C# Framework:         .NET 9.0.11
+      0s    0,0+ C# CLR Version:       9.0.11
+      0s    0,0+ PicoGK Path:          picogk.1.7
+      0s    0,0+ Command Line:         C:\Users\hakan\Documents\C#\CEM\MyFirstApp\bin\Debug\net9.0-windows\MyFirstApp.dll
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ Welcome to PicoGK
+      0s    0,0+ Creating Viewer
+      0s    0,1+ PicoGK:    PicoGK Core Library
+      0s    0,0+            1.7.1
+      0s    0,0+            2024-08-03 22:17:59 picogk.1.7
+      0s    0,0+ 
+      0s    0,0+ VoxelSize: 3 (mm)
+      0s    0,0+ Happy Computational Engineering!
+      0s    0,0+ 
+      0s    0,0+ 
+      0s    0,0+ Loading lights embedded environment
+      0s    0,0+ Starting tasks.
+      0s    0,0+ 
+      0s    0,0+ Loading Lights
+      5s    4,5+ 
+      5s    4,5+ --- Starting Unified BWB Construction ---
+      5s    0,0+ Constructing airframe...
+      5s    0,4+ --- Unified BWB Construction Complete ---
+     12s    6,6+ 
+     12s    6,6+ --- Starting Unified BWB Construction ---
+     12s    0,0+ Constructing airframe...
+     12s    0,4+ --- Unified BWB Construction Complete ---
+     14s    2,4+ 
+     14s    2,4+ --- Starting Unified BWB Construction ---
+     14s    0,0+ Constructing airframe...
+     15s    0,4+ --- Unified BWB Construction Complete ---
+     17s    1,7+ 
+     17s    1,7+ --- Starting Unified BWB Construction ---
+     17s    0,0+ Constructing airframe...
+     17s    0,3+ --- Unified BWB Construction Complete ---
+     18s    1,4+ 
+     18s    1,4+ --- Starting Unified BWB Construction ---
+     18s    0,0+ Constructing airframe...
+     19s    0,5+ --- Unified BWB Construction Complete ---
+     21s    1,9+ 
+     21s    1,9+ --- Starting Unified BWB Construction ---
+     21s    0,0+ Constructing airframe...
+     21s    0,5+ --- Unified BWB Construction Complete ---
+     23s    1,4+ 
+     23s    1,4+ --- Starting Unified BWB Construction ---
+     23s    0,0+ Constructing airframe...
+     23s    0,5+ --- Unified BWB Construction Complete ---
+     26s    3,2+ 
+     26s    3,2+ --- Starting Unified BWB Construction ---
+     26s    0,0+ Constructing airframe...
+     27s    0,5+ --- Unified BWB Construction Complete ---
+     28s    0,9+ 
+     28s    0,9+ --- Starting Unified BWB Construction ---
+     28s    0,0+ Constructing airframe...
+     28s    0,5+ --- Unified BWB Construction Complete ---
+     29s    0,6+ 
+     29s    0,6+ --- Starting Unified BWB Construction ---
+     29s    0,0+ Constructing airframe...
+     30s    0,9+ --- Unified BWB Construction Complete ---
+     31s    1,0+ 
+     31s    1,0+ --- Starting Unified BWB Construction ---
+     31s    0,0+ Constructing airframe...
+     32s    1,7+ --- Unified BWB Construction Complete ---
+     34s    1,8+ 
+     34s    1,8+ --- Starting Unified BWB Construction ---
+     34s    0,0+ Constructing airframe...
+     36s    1,7+ --- Unified BWB Construction Complete ---
+     38s    1,7+ 
+     38s    1,7+ --- Starting Unified BWB Construction ---
+     38s    0,0+ Constructing airframe...
+     39s    1,7+ --- Unified BWB Construction Complete ---
+     41s    2,0+ 
+     41s    2,0+ --- Starting Unified BWB Construction ---
+     41s    0,0+ Constructing airframe...
+     44s    2,4+ --- Unified BWB Construction Complete ---
+    254s  210,6+ 
+    254s  210,6+ --- Starting Unified BWB Construction ---
+    254s    0,0+ Constructing airframe...
+    256s    1,2+ --- Unified BWB Construction Complete ---
+    260s    4,3+ 
+    260s    4,3+ --- Starting Unified BWB Construction ---
+    260s    0,0+ Constructing airframe...
+    260s    0,6+ --- Unified BWB Construction Complete ---
+    262s    1,5+ 
+    262s    1,5+ --- Starting Unified BWB Construction ---
+    262s    0,0+ Constructing airframe...
+    263s    0,7+ --- Unified BWB Construction Complete ---
+    266s    3,4+ 
+    266s    3,4+ --- Starting Unified BWB Construction ---
+    266s    0,0+ Constructing airframe...
+    267s    0,7+ --- Unified BWB Construction Complete ---
+    268s    0,8+ 
+    268s    0,8+ --- Starting Unified BWB Construction ---
+    268s    0,0+ Constructing airframe...
+    268s    0,7+ --- Unified BWB Construction Complete ---
+    269s    0,6+ 
+    269s    0,6+ --- Starting Unified BWB Construction ---
+    269s    0,0+ Constructing airframe...
+    270s    0,6+ --- Unified BWB Construction Complete ---
+    271s    1,4+ 
+    271s    1,4+ --- Starting Unified BWB Construction ---
+    271s    0,0+ Constructing airframe...
+    272s    0,9+ --- Unified BWB Construction Complete ---
+    273s    1,1+ 
+    273s    1,1+ --- Starting Unified BWB Construction ---
+    273s    0,0+ Constructing airframe...
+    274s    0,8+ --- Unified BWB Construction Complete ---
+    275s    1,6+ 
+    275s    1,6+ --- Starting Unified BWB Construction ---
+    275s    0,0+ Constructing airframe...
+    276s    0,8+ --- Unified BWB Construction Complete ---
+    277s    0,8+ 
+    277s    0,8+ --- Starting Unified BWB Construction ---
+    277s    0,0+ Constructing airframe...
+    278s    0,9+ --- Unified BWB Construction Complete ---
+    284s    5,9+ 
+    284s    5,9+ --- Starting Unified BWB Construction ---
+    284s    0,0+ Constructing airframe...
+    285s    0,8+ --- Unified BWB Construction Complete ---
+    290s    4,9+ 
+    290s    4,9+ --- Starting Unified BWB Construction ---
+    290s    0,0+ Constructing airframe...
+    291s    0,9+ --- Unified BWB Construction Complete ---
+    292s    1,1+ 
+    292s    1,1+ --- Starting Unified BWB Construction ---
+    292s    0,0+ Constructing airframe...
+    292s    0,9+ --- Unified BWB Construction Complete ---
+    294s    1,3+ 
+    294s    1,3+ --- Starting Unified BWB Construction ---
+    294s    0,0+ Constructing airframe...
+    294s    0,2+ --- Unified BWB Construction Complete ---
+    295s    1,2+ 
+    295s    1,2+ --- Starting Unified BWB Construction ---
+    295s    0,0+ Constructing airframe...
+    296s    0,9+ --- Unified BWB Construction Complete ---
+    298s    1,8+ 
+    298s    1,8+ --- Starting Unified BWB Construction ---
+    298s    0,0+ Constructing airframe...
+    299s    1,1+ --- Unified BWB Construction Complete ---
+    300s    1,2+ 
+    300s    1,2+ --- Starting Unified BWB Construction ---
+    300s    0,0+ Constructing airframe...
+    301s    1,1+ --- Unified BWB Construction Complete ---
+    303s    1,3+ 
+    303s    1,3+ --- Starting Unified BWB Construction ---
+    303s    0,0+ Constructing airframe...
+    303s    0,7+ --- Unified BWB Construction Complete ---
+    305s    1,3+ 
+    305s    1,3+ --- Starting Unified BWB Construction ---
+    305s    0,0+ Constructing airframe...
+    305s    0,9+ --- Unified BWB Construction Complete ---
+    307s    1,1+ 
+    307s    1,1+ --- Starting Unified BWB Construction ---
+    307s    0,0+ Constructing airframe...
+    308s    1,0+ --- Unified BWB Construction Complete ---
+    308s    0,7+ 
+    308s    0,7+ --- Starting Unified BWB Construction ---
+    308s    0,0+ Constructing airframe...
+    309s    1,0+ --- Unified BWB Construction Complete ---
+    311s    1,5+ 
+    311s    1,5+ --- Starting Unified BWB Construction ---
+    311s    0,0+ Constructing airframe...
+    312s    1,2+ --- Unified BWB Construction Complete ---
+    330s   17,7+ 
+    330s   17,7+ --- Starting Unified BWB Construction ---
+    330s    0,0+ Constructing airframe...
+    331s    1,7+ --- Unified BWB Construction Complete ---
+    335s    3,3+ 
+    335s    3,3+ --- Starting Unified BWB Construction ---
+    335s    0,0+ Constructing airframe...
+    336s    0,9+ --- Unified BWB Construction Complete ---

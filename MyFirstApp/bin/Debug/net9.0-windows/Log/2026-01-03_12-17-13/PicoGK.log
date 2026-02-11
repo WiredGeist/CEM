@@ -1,0 +1,125 @@
+      0s    0,0+ Opened C:\Users\hakan\Documents\C#\CEM\MyFirstApp\bin\Debug\net9.0-windows\Log\2026-01-03_12-17-13\PicoGK.log
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ Current time (UTC): 2026-01-03 11:17:13 (UTC)
+      0s    0,0+ Current local time: 2026-01-03 12:17:13 (+01:00)
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ System Info:
+      0s    0,0+ 
+      0s    0,0+ Machine Name:         GENJU
+      0s    0,0+ Operating System      Microsoft Windows 10.0.26100
+      0s    0,0+ Version:              Microsoft Windows NT 10.0.26100.0
+      0s    0,0+ OS Architecture:      X64
+      0s    0,0+ Proc Architecture:    X64
+      0s    0,0+ 64 Bit OS:            Yes
+      0s    0,0+ 64 Bit Process:       Yes
+      0s    0,0+ Processor Count:      24
+      0s    0,0+ Working Set:          27MB
+      0s    0,0+ C# Framework:         .NET 9.0.11
+      0s    0,0+ C# CLR Version:       9.0.11
+      0s    0,0+ PicoGK Path:          picogk.1.7
+      0s    0,0+ Command Line:         C:\Users\hakan\Documents\C#\CEM\MyFirstApp\bin\Debug\net9.0-windows\MyFirstApp.dll
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ Welcome to PicoGK
+      0s    0,0+ Creating Viewer
+      0s    0,1+ PicoGK:    PicoGK Core Library
+      0s    0,0+            1.7.1
+      0s    0,0+            2024-08-03 22:17:59 picogk.1.7
+      0s    0,0+ 
+      0s    0,0+ VoxelSize: 3 (mm)
+      0s    0,0+ Happy Computational Engineering!
+      0s    0,0+ 
+      0s    0,0+ 
+      0s    0,0+ Loading lights embedded environment
+      0s    0,0+ Starting tasks.
+      0s    0,0+ 
+      0s    0,0+ Loading Lights
+     12s   12,2+ 
+     12s   12,2+ --- Starting Generative Airframe Construction ---
+     16s    3,7+ --- Construction Complete ---
+     20s    4,0+ 
+     20s    4,0+ --- Starting Generative Airframe Construction ---
+     24s    3,5+ --- Construction Complete ---
+     25s    1,8+ 
+     25s    1,8+ --- Starting Generative Airframe Construction ---
+     29s    3,5+ --- Construction Complete ---
+     31s    2,4+ 
+     31s    2,4+ --- Starting Generative Airframe Construction ---
+     35s    3,5+ --- Construction Complete ---
+     37s    2,4+ 
+     37s    2,4+ --- Starting Generative Airframe Construction ---
+     41s    3,5+ --- Construction Complete ---
+     42s    1,5+ 
+     42s    1,5+ --- Starting Generative Airframe Construction ---
+     46s    3,5+ --- Construction Complete ---
+     47s    1,2+ 
+     47s    1,2+ --- Starting Generative Airframe Construction ---
+     50s    3,4+ --- Construction Complete ---
+     51s    0,9+ 
+     51s    0,9+ --- Starting Generative Airframe Construction ---
+     55s    3,6+ --- Construction Complete ---
+     57s    1,9+ 
+     57s    1,9+ --- Starting Generative Airframe Construction ---
+     60s    3,5+ --- Construction Complete ---
+     68s    7,9+ 
+     68s    7,9+ --- Starting Generative Airframe Construction ---
+     72s    3,5+ --- Construction Complete ---
+     77s    5,2+ 
+     77s    5,2+ --- Starting Generative Airframe Construction ---
+     81s    4,6+ --- Construction Complete ---
+     83s    1,6+ 
+     83s    1,6+ --- Starting Generative Airframe Construction ---
+     86s    3,5+ --- Construction Complete ---
+     89s    2,7+ 
+     89s    2,7+ --- Starting Generative Airframe Construction ---
+     93s    3,6+ --- Construction Complete ---
+     98s    5,2+ 
+     98s    5,2+ --- Starting Generative Airframe Construction ---
+    101s    3,4+ --- Construction Complete ---
+    104s    2,3+ 
+    104s    2,3+ --- Starting Generative Airframe Construction ---
+    107s    3,6+ --- Construction Complete ---
+    109s    1,2+ 
+    109s    1,2+ --- Starting Generative Airframe Construction ---
+    112s    3,6+ --- Construction Complete ---
+    118s    5,9+ 
+    118s    5,9+ --- Starting Generative Airframe Construction ---
+    122s    3,6+ --- Construction Complete ---
+    127s    5,8+ 
+    127s    5,8+ --- Starting Generative Airframe Construction ---
+    131s    3,7+ --- Construction Complete ---
+    136s    4,4+ 
+    136s    4,4+ --- Starting Generative Airframe Construction ---
+    139s    3,7+ --- Construction Complete ---
+    141s    2,2+ 
+    141s    2,2+ --- Starting Generative Airframe Construction ---
+    145s    3,6+ --- Construction Complete ---
+    148s    2,6+ 
+    148s    2,6+ --- Starting Generative Airframe Construction ---
+    151s    3,7+ --- Construction Complete ---
+    154s    2,4+ 
+    154s    2,4+ --- Starting Generative Airframe Construction ---
+    157s    3,8+ --- Construction Complete ---
+    159s    1,8+ 
+    159s    1,8+ --- Starting Generative Airframe Construction ---
+    163s    4,0+ --- Construction Complete ---
+    166s    2,8+ 
+    166s    2,8+ --- Starting Generative Airframe Construction ---
+    173s    6,7+ --- Construction Complete ---
+    175s    2,8+ 
+    175s    2,8+ --- Starting Generative Airframe Construction ---
+    180s    4,4+ --- Construction Complete ---
+    184s    3,9+ 
+    184s    3,9+ --- Starting Generative Airframe Construction ---
+    188s    4,1+ --- Construction Complete ---
+    191s    2,8+ 
+    191s    2,8+ --- Starting Generative Airframe Construction ---
+    195s    3,9+ --- Construction Complete ---
+    198s    3,5+ 
+    198s    3,5+ --- Starting Generative Airframe Construction ---
+    202s    3,9+ --- Construction Complete ---

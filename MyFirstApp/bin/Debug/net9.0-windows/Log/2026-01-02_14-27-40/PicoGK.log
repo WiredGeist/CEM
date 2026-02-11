@@ -1,0 +1,91 @@
+      0s    0,0+ Opened C:\Users\hakan\Documents\C#\CEM\MyFirstApp\bin\Debug\net9.0-windows\Log\2026-01-02_14-27-40\PicoGK.log
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ Current time (UTC): 2026-01-02 13:27:40 (UTC)
+      0s    0,0+ Current local time: 2026-01-02 14:27:40 (+01:00)
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ System Info:
+      0s    0,0+ 
+      0s    0,0+ Machine Name:         GENJU
+      0s    0,0+ Operating System      Microsoft Windows 10.0.26100
+      0s    0,0+ Version:              Microsoft Windows NT 10.0.26100.0
+      0s    0,0+ OS Architecture:      X64
+      0s    0,0+ Proc Architecture:    X64
+      0s    0,0+ 64 Bit OS:            Yes
+      0s    0,0+ 64 Bit Process:       Yes
+      0s    0,0+ Processor Count:      24
+      0s    0,0+ Working Set:          27MB
+      0s    0,0+ C# Framework:         .NET 9.0.11
+      0s    0,0+ C# CLR Version:       9.0.11
+      0s    0,0+ PicoGK Path:          picogk.1.7
+      0s    0,0+ Command Line:         C:\Users\hakan\Documents\C#\CEM\MyFirstApp\bin\Debug\net9.0-windows\MyFirstApp.dll
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ Welcome to PicoGK
+      0s    0,0+ Creating Viewer
+      0s    0,1+ PicoGK:    PicoGK Core Library
+      0s    0,0+            1.7.1
+      0s    0,0+            2024-08-03 22:17:59 picogk.1.7
+      0s    0,0+ 
+      0s    0,0+ VoxelSize: 1 (mm)
+      0s    0,0+ Happy Computational Engineering!
+      0s    0,0+ 
+      0s    0,0+ 
+      0s    0,0+ Loading lights embedded environment
+      0s    0,0+ Starting tasks.
+      0s    0,0+ 
+      0s    0,0+ Loading Lights
+     15s   14,9+ 
+     15s   14,9+ --- Starting Implicit Polygon Injector ---
+     15s    0,0+ Rendering implicit polygon field...
+     17s    1,7+ Polygon plate constructed.
+     18s    1,5+ --- Injector Construction Complete ---
+     29s   11,2+ 
+     29s   11,2+ --- Starting Implicit Polygon Injector ---
+     29s    0,0+ Rendering implicit polygon field...
+     32s    2,8+ Polygon plate constructed.
+     35s    2,6+ --- Injector Construction Complete ---
+     37s    2,2+ 
+     37s    2,2+ --- Starting Implicit Polygon Injector ---
+     37s    0,0+ Rendering implicit polygon field...
+     44s    7,3+ Polygon plate constructed.
+     54s    9,7+ --- Injector Construction Complete ---
+     63s    8,8+ 
+     63s    8,8+ --- Starting Implicit Polygon Injector ---
+     63s    0,0+ Rendering implicit polygon field...
+     66s    3,1+ Polygon plate constructed.
+     71s    5,7+ --- Injector Construction Complete ---
+     89s   17,2+ 
+     89s   17,2+ --- Starting Implicit Polygon Injector ---
+     89s    0,0+ Rendering implicit polygon field...
+     93s    4,5+ Polygon plate constructed.
+    102s    8,7+ --- Injector Construction Complete ---
+    112s   10,3+ 
+    112s   10,3+ --- Starting Implicit Polygon Injector ---
+    112s    0,0+ Rendering implicit polygon field...
+    117s    4,5+ Polygon plate constructed.
+    127s   10,0+ --- Injector Construction Complete ---
+    136s    9,8+ 
+    136s    9,8+ --- Starting Implicit Polygon Injector ---
+    136s    0,0+ Rendering implicit polygon field...
+    138s    1,2+ Polygon plate constructed.
+    150s   12,3+ --- Injector Construction Complete ---
+    155s    5,4+ 
+    155s    5,4+ --- Starting Implicit Polygon Injector ---
+    155s    0,0+ Rendering implicit polygon field...
+    183s   27,4+ Polygon plate constructed.
+    198s   15,6+ --- Injector Construction Complete ---
+    203s    4,5+ 
+    203s    4,5+ --- Starting Implicit Polygon Injector ---
+    203s    0,0+ Rendering implicit polygon field...
+    208s    4,8+ Polygon plate constructed.
+    226s   18,8+ --- Injector Construction Complete ---
+    237s   10,7+ 
+    237s   10,7+ --- Starting Implicit Polygon Injector ---
+    237s    0,0+ Rendering implicit polygon field...
+    243s    6,1+ Polygon plate constructed.
+    272s   28,9+ --- Injector Construction Complete ---

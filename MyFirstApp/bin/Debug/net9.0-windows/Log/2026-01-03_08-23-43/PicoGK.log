@@ -1,0 +1,81 @@
+      0s    0,0+ Opened C:\Users\hakan\Documents\C#\CEM\MyFirstApp\bin\Debug\net9.0-windows\Log\2026-01-03_08-23-43\PicoGK.log
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ Current time (UTC): 2026-01-03 07:23:43 (UTC)
+      0s    0,0+ Current local time: 2026-01-03 08:23:43 (+01:00)
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ System Info:
+      0s    0,0+ 
+      0s    0,0+ Machine Name:         GENJU
+      0s    0,0+ Operating System      Microsoft Windows 10.0.26100
+      0s    0,0+ Version:              Microsoft Windows NT 10.0.26100.0
+      0s    0,0+ OS Architecture:      X64
+      0s    0,0+ Proc Architecture:    X64
+      0s    0,0+ 64 Bit OS:            Yes
+      0s    0,0+ 64 Bit Process:       Yes
+      0s    0,0+ Processor Count:      24
+      0s    0,0+ Working Set:          27MB
+      0s    0,0+ C# Framework:         .NET 9.0.11
+      0s    0,0+ C# CLR Version:       9.0.11
+      0s    0,0+ PicoGK Path:          picogk.1.7
+      0s    0,0+ Command Line:         C:\Users\hakan\Documents\C#\CEM\MyFirstApp\bin\Debug\net9.0-windows\MyFirstApp.dll
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ Welcome to PicoGK
+      0s    0,0+ Creating Viewer
+      0s    0,1+ PicoGK:    PicoGK Core Library
+      0s    0,0+            1.7.1
+      0s    0,0+            2024-08-03 22:17:59 picogk.1.7
+      0s    0,0+ 
+      0s    0,0+ VoxelSize: 0,5 (mm)
+      0s    0,0+ Happy Computational Engineering!
+      0s    0,0+ 
+      0s    0,0+ 
+      0s    0,0+ Loading lights embedded environment
+      0s    0,0+ Starting tasks.
+      0s    0,0+ 
+      0s    0,0+ Loading Lights
+      4s    4,2+ 
+      4s    4,2+ --- Starting Unified BWB Construction (Corrected) ---
+      4s    0,0+ Constructing right half of airframe...
+      5s    0,2+ --- Unified BWB Construction Complete ---
+     45s   40,5+ 
+     45s   40,5+ --- Starting Unified BWB Construction (Corrected) ---
+     45s    0,0+ Constructing right half of airframe...
+     45s    0,2+ --- Unified BWB Construction Complete ---
+     47s    1,1+ 
+     47s    1,1+ --- Starting Unified BWB Construction (Corrected) ---
+     47s    0,0+ Constructing right half of airframe...
+     47s    0,3+ --- Unified BWB Construction Complete ---
+     48s    1,6+ 
+     48s    1,6+ --- Starting Unified BWB Construction (Corrected) ---
+     48s    0,0+ Constructing right half of airframe...
+     49s    0,3+ --- Unified BWB Construction Complete ---
+     50s    0,8+ 
+     50s    0,8+ --- Starting Unified BWB Construction (Corrected) ---
+     50s    0,0+ Constructing right half of airframe...
+     50s    0,2+ --- Unified BWB Construction Complete ---
+     50s    0,7+ 
+     50s    0,7+ --- Starting Unified BWB Construction (Corrected) ---
+     50s    0,0+ Constructing right half of airframe...
+     51s    0,2+ --- Unified BWB Construction Complete ---
+     54s    2,8+ 
+     54s    2,8+ --- Starting Unified BWB Construction (Corrected) ---
+     54s    0,0+ Constructing right half of airframe...
+     54s    0,2+ --- Unified BWB Construction Complete ---
+   3120s 3066,4+ 
+   3120s 3066,4+ --- Starting Unified BWB Construction (Corrected) ---
+   3120s    0,0+ Constructing right half of airframe...
+   3120s    0,2+ --- Unified BWB Construction Complete ---
+   3122s    1,4+ 
+   3122s    1,4+ --- Starting Unified BWB Construction (Corrected) ---
+   3122s    0,0+ Constructing right half of airframe...
+   3122s    0,2+ --- Unified BWB Construction Complete ---
+   3124s    1,9+ 
+   3124s    1,9+ --- Starting Unified BWB Construction (Corrected) ---
+   3124s    0,0+ Constructing right half of airframe...
+   3124s    0,3+ --- Unified BWB Construction Complete ---

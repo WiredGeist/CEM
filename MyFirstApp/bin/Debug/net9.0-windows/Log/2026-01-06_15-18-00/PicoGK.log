@@ -1,0 +1,83 @@
+      0s    0,0+ Opened C:\Users\hakan\Documents\C#\CEM\MyFirstApp\bin\Debug\net9.0-windows\Log\2026-01-06_15-18-00\PicoGK.log
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ Current time (UTC): 2026-01-06 14:18:00 (UTC)
+      0s    0,0+ Current local time: 2026-01-06 15:18:00 (+01:00)
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ System Info:
+      0s    0,0+ 
+      0s    0,0+ Machine Name:         GENJU
+      0s    0,0+ Operating System      Microsoft Windows 10.0.26100
+      0s    0,0+ Version:              Microsoft Windows NT 10.0.26100.0
+      0s    0,0+ OS Architecture:      X64
+      0s    0,0+ Proc Architecture:    X64
+      0s    0,0+ 64 Bit OS:            Yes
+      0s    0,0+ 64 Bit Process:       Yes
+      0s    0,0+ Processor Count:      24
+      0s    0,0+ Working Set:          27MB
+      0s    0,0+ C# Framework:         .NET 9.0.11
+      0s    0,0+ C# CLR Version:       9.0.11
+      0s    0,0+ PicoGK Path:          picogk.1.7
+      0s    0,0+ Command Line:         C:\Users\hakan\Documents\C#\CEM\MyFirstApp\bin\Debug\net9.0-windows\MyFirstApp.dll
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ Welcome to PicoGK
+      0s    0,0+ Creating Viewer
+      0s    0,2+ PicoGK:    PicoGK Core Library
+      0s    0,0+            1.7.1
+      0s    0,0+            2024-08-03 22:17:59 picogk.1.7
+      0s    0,0+ 
+      0s    0,0+ VoxelSize: 0,5 (mm)
+      0s    0,0+ Happy Computational Engineering!
+      0s    0,0+ 
+      0s    0,0+ 
+      0s    0,0+ Loading lights embedded environment
+      0s    0,0+ Starting tasks.
+      0s    0,0+ 
+      0s    0,0+ Loading Lights
+     21s   20,6+ [..] Generating Lattice Hairpins...
+     22s    0,8+ [OK] Generating Lattice Hairpins: 787ms
+     22s    0,0+ [..] Generating Stator...
+     22s    0,6+ [OK] Generating Stator: 644ms
+     22s    0,0+ [..] Generating Magnets...
+     22s    0,1+ [OK] Generating Magnets: 119ms
+     44s   21,8+ [..] Generating Lattice Hairpins...
+     45s    0,6+ [OK] Generating Lattice Hairpins: 604ms
+     45s    0,0+ [..] Generating Stator...
+     45s    0,6+ [OK] Generating Stator: 619ms
+     45s    0,0+ [..] Generating Magnets...
+     45s    0,1+ [OK] Generating Magnets: 100ms
+     62s   16,4+ [..] Generating Lattice Hairpins...
+     63s    1,1+ [OK] Generating Lattice Hairpins: 1105ms
+     63s    0,0+ [..] Generating Stator...
+     64s    0,7+ [OK] Generating Stator: 666ms
+     64s    0,0+ [..] Generating Magnets...
+     64s    0,1+ [OK] Generating Magnets: 124ms
+     69s    5,4+ [..] Generating Lattice Hairpins...
+     70s    0,7+ [OK] Generating Lattice Hairpins: 710ms
+     70s    0,0+ [..] Generating Stator...
+     71s    0,7+ [OK] Generating Stator: 655ms
+     71s    0,0+ [..] Generating Magnets...
+     71s    0,1+ [OK] Generating Magnets: 126ms
+     81s   10,3+ [..] Generating Lattice Hairpins...
+     82s    0,6+ [OK] Generating Lattice Hairpins: 644ms
+     82s    0,0+ [..] Generating Stator...
+     82s    0,7+ [OK] Generating Stator: 660ms
+     82s    0,0+ [..] Generating Magnets...
+     82s    0,1+ [OK] Generating Magnets: 134ms
+     88s    5,7+ [..] Generating Lattice Hairpins...
+     89s    1,1+ [OK] Generating Lattice Hairpins: 1099ms
+     89s    0,0+ [..] Generating Stator...
+     90s    0,7+ [OK] Generating Stator: 700ms
+     90s    0,0+ [..] Generating Magnets...
+     90s    0,1+ [OK] Generating Magnets: 141ms
+    119s   29,1+ [..] Generating Lattice Hairpins...
+    120s    1,1+ [OK] Generating Lattice Hairpins: 1117ms
+    120s    0,0+ [..] Generating Stator...
+    121s    0,5+ [OK] Generating Stator: 490ms
+    121s    0,0+ [..] Generating Magnets...
+    121s    0,1+ [OK] Generating Magnets: 144ms

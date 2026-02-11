@@ -1,0 +1,59 @@
+      0s    0,0+ Opened C:\Users\hakan\Documents\C#\CEM\MyFirstApp\bin\Debug\net9.0-windows\Log\2026-01-06_15-04-06\PicoGK.log
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ Current time (UTC): 2026-01-06 14:04:06 (UTC)
+      0s    0,0+ Current local time: 2026-01-06 15:04:06 (+01:00)
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ System Info:
+      0s    0,0+ 
+      0s    0,0+ Machine Name:         GENJU
+      0s    0,0+ Operating System      Microsoft Windows 10.0.26100
+      0s    0,0+ Version:              Microsoft Windows NT 10.0.26100.0
+      0s    0,0+ OS Architecture:      X64
+      0s    0,0+ Proc Architecture:    X64
+      0s    0,0+ 64 Bit OS:            Yes
+      0s    0,0+ 64 Bit Process:       Yes
+      0s    0,0+ Processor Count:      24
+      0s    0,0+ Working Set:          27MB
+      0s    0,0+ C# Framework:         .NET 9.0.11
+      0s    0,0+ C# CLR Version:       9.0.11
+      0s    0,0+ PicoGK Path:          picogk.1.7
+      0s    0,0+ Command Line:         C:\Users\hakan\Documents\C#\CEM\MyFirstApp\bin\Debug\net9.0-windows\MyFirstApp.dll
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ Welcome to PicoGK
+      0s    0,0+ Creating Viewer
+      0s    0,1+ PicoGK:    PicoGK Core Library
+      0s    0,0+            1.7.1
+      0s    0,0+            2024-08-03 22:17:59 picogk.1.7
+      0s    0,0+ 
+      0s    0,0+ VoxelSize: 0,5 (mm)
+      0s    0,0+ Happy Computational Engineering!
+      0s    0,0+ 
+      0s    0,0+ 
+      0s    0,0+ Loading lights embedded environment
+      0s    0,0+ Starting tasks.
+      0s    0,0+ 
+      0s    0,0+ Loading Lights
+    100s   99,4+ [..] Generating Coils...
+    101s    1,7+ [OK] Generating Coils: 1693ms
+    101s    0,0+ [..] Generating Stator...
+    102s    0,6+ [OK] Generating Stator: 604ms
+    102s    0,0+ [..] Generating Magnets...
+    102s    0,1+ [OK] Generating Magnets: 81ms
+    252s  149,9+ [..] Generating Coils...
+    261s    9,1+ [OK] Generating Coils: 9095ms
+    261s    0,0+ [..] Generating Stator...
+    262s    1,4+ [OK] Generating Stator: 1429ms
+    262s    0,0+ [..] Generating Magnets...
+    263s    0,9+ [OK] Generating Magnets: 943ms
+    279s   15,5+ [..] Generating Coils...
+    288s    9,6+ [OK] Generating Coils: 9574ms
+    288s    0,0+ [..] Generating Stator...
+    290s    1,5+ [OK] Generating Stator: 1457ms
+    290s    0,0+ [..] Generating Magnets...
+    291s    1,2+ [OK] Generating Magnets: 1218ms

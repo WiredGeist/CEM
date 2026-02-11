@@ -1,0 +1,69 @@
+      0s    0,0+ Opened C:\Users\hakan\Documents\C#\CEM\MyFirstApp\bin\Debug\net9.0-windows\Log\2026-01-06_16-01-46\PicoGK.log
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ Current time (UTC): 2026-01-06 15:01:47 (UTC)
+      0s    0,0+ Current local time: 2026-01-06 16:01:47 (+01:00)
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ System Info:
+      0s    0,0+ 
+      0s    0,0+ Machine Name:         GENJU
+      0s    0,0+ Operating System      Microsoft Windows 10.0.26100
+      0s    0,0+ Version:              Microsoft Windows NT 10.0.26100.0
+      0s    0,0+ OS Architecture:      X64
+      0s    0,0+ Proc Architecture:    X64
+      0s    0,0+ 64 Bit OS:            Yes
+      0s    0,0+ 64 Bit Process:       Yes
+      0s    0,0+ Processor Count:      24
+      0s    0,0+ Working Set:          27MB
+      0s    0,0+ C# Framework:         .NET 9.0.11
+      0s    0,0+ C# CLR Version:       9.0.11
+      0s    0,0+ PicoGK Path:          picogk.1.7
+      0s    0,0+ Command Line:         C:\Users\hakan\Documents\C#\CEM\MyFirstApp\bin\Debug\net9.0-windows\MyFirstApp.dll
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ Welcome to PicoGK
+      0s    0,0+ Creating Viewer
+      0s    0,1+ PicoGK:    PicoGK Core Library
+      0s    0,0+            1.7.1
+      0s    0,0+            2024-08-03 22:17:59 picogk.1.7
+      0s    0,0+ 
+      0s    0,0+ VoxelSize: 0,5 (mm)
+      0s    0,0+ Happy Computational Engineering!
+      0s    0,0+ 
+      0s    0,0+ 
+      0s    0,0+ Loading lights embedded environment
+      0s    0,0+ Starting tasks.
+      0s    0,0+ 
+      0s    0,0+ Loading Lights
+     21s   21,2+ [..] Generative Motor Construction...
+     25s    4,1+ [OK] Generative Motor Construction: 4117ms
+     25s    0,0+ [..] Generating Rotor...
+     26s    0,3+ [OK] Generating Rotor: 322ms
+     93s   67,0+ [..] Generative Motor Construction...
+     95s    1,7+ [OK] Generative Motor Construction: 1663ms
+     95s    0,0+ [..] Generating Rotor...
+     95s    0,4+ [OK] Generating Rotor: 396ms
+    104s    9,4+ [..] Generative Motor Construction...
+    106s    2,1+ [OK] Generative Motor Construction: 2110ms
+    106s    0,0+ [..] Generating Rotor...
+    107s    0,4+ [OK] Generating Rotor: 401ms
+    114s    7,1+ [..] Generative Motor Construction...
+    117s    2,8+ [OK] Generative Motor Construction: 2777ms
+    117s    0,0+ [..] Generating Rotor...
+    117s    0,4+ [OK] Generating Rotor: 434ms
+    125s    8,0+ [..] Generative Motor Construction...
+    133s    8,3+ [OK] Generative Motor Construction: 8339ms
+    133s    0,0+ [..] Generating Rotor...
+    134s    0,5+ [OK] Generating Rotor: 526ms
+   3557s 3422,7+ [..] Generative Motor Construction...
+   3560s    3,0+ [OK] Generative Motor Construction: 3019ms
+   3560s    0,0+ [..] Generating Rotor...
+   3560s    0,5+ [OK] Generating Rotor: 472ms
+   3569s    9,2+ [..] Generative Motor Construction...
+   3580s   10,5+ [OK] Generative Motor Construction: 10484ms
+   3580s    0,0+ [..] Generating Rotor...
+   3581s    0,9+ [OK] Generating Rotor: 924ms

@@ -1,0 +1,90 @@
+      0s    0,0+ Opened C:\Users\hakan\Documents\C#\CEM\MyFirstApp\bin\Debug\net9.0-windows\Log\2026-01-03_22-42-02\PicoGK.log
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ Current time (UTC): 2026-01-03 21:42:02 (UTC)
+      0s    0,0+ Current local time: 2026-01-03 22:42:02 (+01:00)
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ System Info:
+      0s    0,0+ 
+      0s    0,0+ Machine Name:         GENJU
+      0s    0,0+ Operating System      Microsoft Windows 10.0.26100
+      0s    0,0+ Version:              Microsoft Windows NT 10.0.26100.0
+      0s    0,0+ OS Architecture:      X64
+      0s    0,0+ Proc Architecture:    X64
+      0s    0,0+ 64 Bit OS:            Yes
+      0s    0,0+ 64 Bit Process:       Yes
+      0s    0,0+ Processor Count:      24
+      0s    0,0+ Working Set:          22MB
+      0s    0,0+ C# Framework:         .NET 9.0.11
+      0s    0,0+ C# CLR Version:       9.0.11
+      0s    0,0+ PicoGK Path:          picogk.1.7
+      0s    0,0+ Command Line:         C:\Users\hakan\Documents\C#\CEM\MyFirstApp\bin\Debug\net9.0-windows\MyFirstApp.dll
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ Welcome to PicoGK
+      0s    0,0+ Creating Viewer
+      0s    0,2+ PicoGK:    PicoGK Core Library
+      0s    0,0+            1.7.1
+      0s    0,0+            2024-08-03 22:17:59 picogk.1.7
+      0s    0,0+ 
+      0s    0,0+ VoxelSize: 3 (mm)
+      0s    0,0+ Happy Computational Engineering!
+      0s    0,0+ 
+      0s    0,0+ 
+      0s    0,0+ Loading lights embedded environment
+      0s    0,0+ Starting tasks.
+      0s    0,0+ 
+      0s    0,0+ Loading Lights
+     33s   32,7+ 
+     33s   32,7+ --- Starting Implicit Polygon Injector ---
+     33s    0,0+ Rendering implicit polygon field...
+     33s    0,1+ Polygon plate constructed.
+     34s    1,4+ --- Injector Construction Complete ---
+     40s    5,1+ 
+     40s    5,1+ --- Starting Warped Injector Construction ---
+     43s    3,7+ --- Injector Construction Complete ---
+     48s    4,5+ 
+     48s    4,5+ --- Starting True Voronoi Injector ---
+     48s    0,0+ 100 seed points generated.
+     48s    0,0+ Rendering Voronoi field...
+     48s    0,1+ Voronoi plate constructed.
+     49s    1,3+ --- Injector Construction Complete ---
+     55s    5,6+ 
+     55s    5,6+ --- Starting Space Colonization ---
+     55s    0,0+ Iteration 0: 300 attractors remaining.
+     55s    0,0+ Iteration 1: 300 attractors remaining.
+     55s    0,0+ Iteration 2: 300 attractors remaining.
+     55s    0,0+ Iteration 3: 300 attractors remaining.
+     55s    0,0+ Iteration 4: 299 attractors remaining.
+     55s    0,0+ Iteration 5: 298 attractors remaining.
+     55s    0,0+ Iteration 6: 295 attractors remaining.
+     55s    0,0+ Iteration 7: 293 attractors remaining.
+     55s    0,0+ Iteration 8: 292 attractors remaining.
+     55s    0,0+ Iteration 9: 291 attractors remaining.
+     55s    0,0+ Iteration 10: 290 attractors remaining.
+     55s    0,0+ Iteration 11: 289 attractors remaining.
+     55s    0,0+ Iteration 12: 284 attractors remaining.
+     55s    0,0+ Iteration 13: 282 attractors remaining.
+     55s    0,0+ Iteration 14: 281 attractors remaining.
+     55s    0,0+ Iteration 15: 277 attractors remaining.
+     55s    0,0+ Iteration 16: 268 attractors remaining.
+     55s    0,0+ Iteration 17: 263 attractors remaining.
+     55s    0,0+ Iteration 18: 260 attractors remaining.
+     55s    0,0+ Iteration 19: 250 attractors remaining.
+     55s    0,0+ Iteration 20: 241 attractors remaining.
+     55s    0,0+ Iteration 21: 231 attractors remaining.
+     55s    0,0+ Iteration 22: 226 attractors remaining.
+     55s    0,0+ Iteration 23: 212 attractors remaining.
+     55s    0,0+ Iteration 24: 203 attractors remaining.
+     55s    0,0+ --- Space Colonization Complete ---
+     62s    6,9+ 
+     62s    6,9+ --- Starting Phyllotaxis Construction ---
+     62s    0,0+ 500 spheres added to lattice.
+     62s    0,0+ --- Phyllotaxis Construction Complete ---
+     74s   12,6+ --- Generating B-21 Submerged Engines ---
+    107s   32,7+ --- Generating B-21 Submerged Engines ---
+    134s   26,9+ --- Generating B-21 Submerged Engines ---

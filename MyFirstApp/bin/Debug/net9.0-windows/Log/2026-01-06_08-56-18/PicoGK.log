@@ -1,0 +1,77 @@
+      0s    0,0+ Opened C:\Users\hakan\Documents\C#\CEM\MyFirstApp\bin\Debug\net9.0-windows\Log\2026-01-06_08-56-18\PicoGK.log
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ Current time (UTC): 2026-01-06 07:56:18 (UTC)
+      0s    0,0+ Current local time: 2026-01-06 08:56:18 (+01:00)
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ System Info:
+      0s    0,0+ 
+      0s    0,0+ Machine Name:         GENJU
+      0s    0,0+ Operating System      Microsoft Windows 10.0.26100
+      0s    0,0+ Version:              Microsoft Windows NT 10.0.26100.0
+      0s    0,0+ OS Architecture:      X64
+      0s    0,0+ Proc Architecture:    X64
+      0s    0,0+ 64 Bit OS:            Yes
+      0s    0,0+ 64 Bit Process:       Yes
+      0s    0,0+ Processor Count:      24
+      0s    0,0+ Working Set:          27MB
+      0s    0,0+ C# Framework:         .NET 9.0.11
+      0s    0,0+ C# CLR Version:       9.0.11
+      0s    0,0+ PicoGK Path:          picogk.1.7
+      0s    0,0+ Command Line:         C:\Users\hakan\Documents\C#\CEM\MyFirstApp\bin\Debug\net9.0-windows\MyFirstApp.dll
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ Welcome to PicoGK
+      0s    0,0+ Creating Viewer
+      0s    0,1+ PicoGK:    PicoGK Core Library
+      0s    0,0+            1.7.1
+      0s    0,0+            2024-08-03 22:17:59 picogk.1.7
+      0s    0,0+ 
+      0s    0,0+ VoxelSize: 1 (mm)
+      0s    0,0+ Happy Computational Engineering!
+      0s    0,0+ 
+      0s    0,0+ 
+      0s    0,0+ Loading lights embedded environment
+      0s    0,0+ Starting tasks.
+      0s    0,0+ 
+      0s    0,0+ Loading Lights
+      5s    4,8+ [..] START: Full Generation
+      5s    0,0+ [..] START: Base Hull Mesh
+     12s    6,8+ [OK] DONE : Base Hull Mesh (Took 6,8s)
+     12s    0,0+ [..] START: Engines
+     40s   27,9+ [OK] DONE : Engines (Took 27,9s)
+     40s    0,0+ [..] START: Zones & Cargo Bay
+     76s   36,8+ [OK] DONE : Zones & Cargo Bay (Took 36,8s)
+     76s    0,0+ [..] START: Smart Flow Lattice
+     93s   16,3+ [OK] DONE : Smart Flow Lattice (Took 16,3s)
+     93s    0,0+ [..] START: Final Assembly
+     93s    0,0+ [OK] DONE : Final Assembly (Took 0,0s)
+     93s    0,0+ [OK] DONE : Full Generation (Took 87,8s)
+    147s   54,6+ [..] START: Full Generation
+    147s    0,0+ [..] START: Base Hull Mesh
+    158s   10,2+ [OK] DONE : Base Hull Mesh (Took 10,2s)
+    158s    0,0+ [..] START: Engines
+    200s   42,3+ [OK] DONE : Engines (Took 42,3s)
+    200s    0,0+ [..] START: Zones & Cargo Bay
+    240s   39,9+ [OK] DONE : Zones & Cargo Bay (Took 39,9s)
+    240s    0,0+ [..] START: Smart Flow Lattice
+    258s   18,4+ [OK] DONE : Smart Flow Lattice (Took 18,4s)
+    258s    0,0+ [..] START: Final Assembly
+    258s    0,0+ [OK] DONE : Final Assembly (Took 0,0s)
+    258s    0,0+ [OK] DONE : Full Generation (Took 110,9s)
+    287s   28,7+ [..] START: Full Generation
+    287s    0,0+ [..] START: Base Hull Mesh
+    294s    7,4+ [OK] DONE : Base Hull Mesh (Took 7,4s)
+    294s    0,0+ [..] START: Engines
+    342s   47,1+ [OK] DONE : Engines (Took 47,1s)
+    342s    0,0+ [..] START: Zones & Cargo Bay
+    378s   36,0+ [OK] DONE : Zones & Cargo Bay (Took 36,0s)
+    378s    0,0+ [..] START: Smart Flow Lattice
+    396s   18,5+ [OK] DONE : Smart Flow Lattice (Took 18,5s)
+    396s    0,0+ [..] START: Final Assembly
+    396s    0,0+ [OK] DONE : Final Assembly (Took 0,0s)
+    396s    0,0+ [OK] DONE : Full Generation (Took 109,0s)

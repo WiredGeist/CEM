@@ -1,0 +1,76 @@
+      0s    0,0+ Opened C:\Users\hakan\Documents\C#\CEM\MyFirstApp\bin\Debug\net9.0-windows\Log\2026-01-07_08-48-52\PicoGK.log
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ Current time (UTC): 2026-01-07 07:48:52 (UTC)
+      0s    0,0+ Current local time: 2026-01-07 08:48:52 (+01:00)
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ System Info:
+      0s    0,0+ 
+      0s    0,0+ Machine Name:         GENJU
+      0s    0,0+ Operating System      Microsoft Windows 10.0.26100
+      0s    0,0+ Version:              Microsoft Windows NT 10.0.26100.0
+      0s    0,0+ OS Architecture:      X64
+      0s    0,0+ Proc Architecture:    X64
+      0s    0,0+ 64 Bit OS:            Yes
+      0s    0,0+ 64 Bit Process:       Yes
+      0s    0,0+ Processor Count:      24
+      0s    0,0+ Working Set:          27MB
+      0s    0,0+ C# Framework:         .NET 9.0.11
+      0s    0,0+ C# CLR Version:       9.0.11
+      0s    0,0+ PicoGK Path:          picogk.1.7
+      0s    0,0+ Command Line:         C:\Users\hakan\Documents\C#\CEM\MyFirstApp\bin\Debug\net9.0-windows\MyFirstApp.dll
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ Welcome to PicoGK
+      0s    0,0+ Creating Viewer
+      0s    0,2+ PicoGK:    PicoGK Core Library
+      0s    0,0+            1.7.1
+      0s    0,0+            2024-08-03 22:17:59 picogk.1.7
+      0s    0,0+ 
+      0s    0,0+ VoxelSize: 0,2 (mm)
+      0s    0,0+ Happy Computational Engineering!
+      0s    0,0+ 
+      0s    0,0+ 
+      0s    0,0+ Loading lights embedded environment
+      0s    0,0+ Starting tasks.
+      0s    0,0+ 
+      0s    0,0+ Loading Lights
+     14s   13,6+ --- COIL PHYSICS REPORT ---
+     14s   13,6+ Length:     2,122 m
+     14s   13,6+ Mass:       0,373 kg (Copper)
+     14s   13,6+ Resistance: 0,0018 Ohms
+     14s   13,6+ Current:    6609,65 A  (@ 12V)
+     14s   13,6+ Heat Loss:  79315,79 Watts
+     14s   13,6+ 
+     14s    0,1+ --- COIL PHYSICS REPORT ---
+     14s    0,1+ Length:     2,122 m
+     14s    0,1+ Mass:       0,373 kg (Copper)
+     14s    0,1+ Resistance: 0,0018 Ohms
+     14s    0,1+ Current:    6609,65 A  (@ 12V)
+     14s    0,1+ Heat Loss:  79315,79 Watts
+     14s    0,1+ 
+     26s   11,7+ --- COIL PHYSICS REPORT ---
+     26s   11,7+ Length:     2,122 m
+     26s   11,7+ Mass:       0,373 kg (Copper)
+     26s   11,7+ Resistance: 0,0018 Ohms
+     26s   11,7+ Current:    6609,65 A  (@ 12V)
+     26s   11,7+ Heat Loss:  79315,79 Watts
+     26s   11,7+ 
+     29s    3,7+ --- COIL PHYSICS REPORT ---
+     29s    3,7+ Length:     2,122 m
+     29s    3,7+ Mass:       0,373 kg (Copper)
+     29s    3,7+ Resistance: 0,0018 Ohms
+     29s    3,7+ Current:    6609,65 A  (@ 12V)
+     29s    3,7+ Heat Loss:  79315,79 Watts
+     29s    3,7+ 
+     30s    0,3+ --- COIL PHYSICS REPORT ---
+     30s    0,3+ Length:     2,122 m
+     30s    0,3+ Mass:       0,373 kg (Copper)
+     30s    0,3+ Resistance: 0,0018 Ohms
+     30s    0,3+ Current:    6609,65 A  (@ 12V)
+     30s    0,3+ Heat Loss:  79315,79 Watts
+     30s    0,3+ 

@@ -1,0 +1,60 @@
+      0s    0,0+ Opened C:\Users\hakan\Documents\C#\CEM\MyFirstApp\bin\Debug\net9.0-windows\Log\2026-01-04_06-42-19\PicoGK.log
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ Current time (UTC): 2026-01-04 05:42:19 (UTC)
+      0s    0,0+ Current local time: 2026-01-04 06:42:19 (+01:00)
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ System Info:
+      0s    0,0+ 
+      0s    0,0+ Machine Name:         GENJU
+      0s    0,0+ Operating System      Microsoft Windows 10.0.26100
+      0s    0,0+ Version:              Microsoft Windows NT 10.0.26100.0
+      0s    0,0+ OS Architecture:      X64
+      0s    0,0+ Proc Architecture:    X64
+      0s    0,0+ 64 Bit OS:            Yes
+      0s    0,0+ 64 Bit Process:       Yes
+      0s    0,0+ Processor Count:      24
+      0s    0,0+ Working Set:          27MB
+      0s    0,0+ C# Framework:         .NET 9.0.11
+      0s    0,0+ C# CLR Version:       9.0.11
+      0s    0,0+ PicoGK Path:          picogk.1.7
+      0s    0,0+ Command Line:         C:\Users\hakan\Documents\C#\CEM\MyFirstApp\bin\Debug\net9.0-windows\MyFirstApp.dll
+      0s    0,0+ 
+      0s    0,0+ ----------------------------------------
+      0s    0,0+ 
+      0s    0,0+ Welcome to PicoGK
+      0s    0,0+ Creating Viewer
+      0s    0,1+ PicoGK:    PicoGK Core Library
+      0s    0,0+            1.7.1
+      0s    0,0+            2024-08-03 22:17:59 picogk.1.7
+      0s    0,0+ 
+      0s    0,0+ VoxelSize: 3 (mm)
+      0s    0,0+ Happy Computational Engineering!
+      0s    0,0+ 
+      0s    0,0+ 
+      0s    0,0+ Loading lights embedded environment
+      0s    0,0+ Starting tasks.
+      0s    0,0+ 
+      0s    0,0+ Loading Lights
+     13s   12,4+ --- Generating Smart BWB ---
+     51s   38,9+ --- Generating Smart BWB ---
+     82s   30,6+ --- Generating Smart BWB ---
+    113s   30,5+ --- Generating Smart BWB ---
+    127s   14,0+ --- Generating Smart BWB ---
+    177s   50,8+ --- Generating Smart BWB ---
+    193s   15,7+ --- Generating Smart BWB ---
+    209s   15,9+ --- Generating Smart BWB ---
+    228s   19,5+ --- Generating Smart BWB ---
+    242s   13,5+ --- Generating Smart BWB ---
+    287s   44,9+ --- Generating Smart BWB ---
+    304s   17,2+ --- Generating Smart BWB ---
+    382s   77,9+ --- Generating Smart BWB ---
+    405s   23,2+ --- Generating Smart BWB ---
+    422s   16,3+ --- Generating Smart BWB ---
+    446s   24,6+ --- Generating Smart BWB ---
+    470s   23,5+ --- Generating Smart BWB ---
+    484s   14,1+ --- Generating Smart BWB ---
+    999s  515,7+ --- Generating Smart BWB ---

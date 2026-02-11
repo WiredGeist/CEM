@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3t9V/NTRVSM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hakan\\Documents\\C#\\CEM\\MyFirstApp\\MyFirstApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hakan\\.nuget\\packages\\picogk\\1.7.7.5\\picogk.1.7.7.5.nupkg.sha512"
+  ],
+  "logs": []
+}
