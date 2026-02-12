@@ -7,7 +7,7 @@ This repository contains the experimental C# code used to generate the algorithm
 
 ## 📺 Project Context
 This code is a demonstration of moving away from manual CAD toward algorithmic geometry generation.
-* **Watch the Video:** [Link to your YouTube Video]
+* **Watch the Video:** https://www.youtube.com/watch?v=P_Pup4w2hAU&lc=Ugz0CNgshEtjpYGmT8N4AaABAg
 
 ## 🛠 Required Frameworks & Dependencies
 This project is built on the open-source stack developed by **Leap71**. To run or understand this code, you should familiarize yourself with:
